@@ -1,0 +1,62 @@
+{
+    "description": "Tick is a cyber espionage group with likely Chinese origins that has been active since at least 2008. The group appears to have close ties to the Chinese National University of Defense and Technology, which is possibly linked to the PLA. This threat actor targets organizations in the critical infrastructure, heavy industry, manufacturing, and international relations sectors for espionage purposes.  The attacks appear to be centered on political, media, and engineering sectors. STALKER PANDA has been observed conducting targeted attacks against Japan, Taiwan, Hong Kong, and the United States.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Japan",
+            "China",
+            "Korea (Republic of)",
+            "Russian Federation"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://wikileaks.org/vault7/document/2015-08-20150814-256-CSIR-15005-Stalker-Panda/2015-08-20150814-256-CSIR-15005-Stalker-Panda.pdf",
+            "https://www.symantec.com/connect/blogs/tick-cyberespionage-group-zeros-japan",
+            "https://www.secureworks.jp/resources/rp-bronze-butler",
+            "https://researchcenter.paloaltonetworks.com/2017/07/unit42-tick-group-continues-attacks/",
+            "http://blog.jpcert.or.jp/2017/08/detecting-datper-malware-from-proxy-logs.html",
+            "https://www.cfr.org/interactive/cyber-operations/bronze-butler",
+            "https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/redbaldknight-bronze-butler-daserf-backdoor-now-using-steganography/",
+            "https://attack.mitre.org/groups/G0060/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-butler",
+            "https://unit42.paloaltonetworks.com/atoms/stalkertaurus/",
+            "https://twitter.com/iiyonite/status/1384431491485155331",
+            "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"
+        ],
+        "synonyms": [
+            "Nian",
+            "BRONZE BUTLER",
+            "REDBALDKNIGHT",
+            "STALKER PANDA",
+            "G0060",
+            "Stalker Taurus",
+            "PLA Unit 61419"
+        ],
+        "targeted-sector": [
+            "Infrastructure",
+            "Industrial",
+            "Manufacturing",
+            "Diplomacy",
+            "News - Media",
+            "Political party",
+            "Engineering"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "93f52415-0fe4-4d3d-896c-fc9b8e88ab90",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "add6554a-815a-4ac3-9b22-9337b9661ab8",
+    "value": "Tick"
+}

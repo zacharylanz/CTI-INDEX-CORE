@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+            "https://attack.mitre.org/groups/G0062/"
+        ],
+        "synonyms": [
+            "G0062"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "62a64fd3-aaf7-4d09-a375-d6f8bb118481",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "c6472ae1-c6ad-4cf1-8d6e-8c94b94fe314",
+    "value": "TA459"
+}

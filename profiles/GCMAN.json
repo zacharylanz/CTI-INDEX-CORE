@@ -1,0 +1,28 @@
+{
+    "description": "GCMAN is a threat group that focuses on targeting banks for the purpose of transferring money to e-currency services.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "RU",
+        "refs": [
+            "https://securelist.com/apt-style-bank-robberies-increase-with-metel-gcman-and-carbanak-2-0-attacks/73638/",
+            "https://attack.mitre.org/groups/G0036/"
+        ],
+        "synonyms": [
+            "G0036"
+        ],
+        "targeted-sector": [
+            "Bank"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "0ea72cd5-ca30-46ba-bc04-378f701c658f",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "d93889de-b4bc-4a29-9ce7-d67717c140a0",
+    "value": "GCMAN"
+}

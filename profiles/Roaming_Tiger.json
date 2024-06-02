@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "refs": [
+            "https://unit42.paloaltonetworks.com/bbsrat-attacks-targeting-russian-organizations-linked-to-roaming-tiger/",
+            "http://2014.zeronights.org/assets/files/slides/roaming_tiger_zeronights_2014.pdf",
+            "https://www.secureworks.com/research/threat-profiles/bronze-woodland"
+        ],
+        "synonyms": [
+            "BRONZE WOODLAND",
+            "Rotten Tomato"
+        ]
+    },
+    "uuid": "1fb177c1-472a-4147-b7c4-b5269b11703d",
+    "value": "Roaming Tiger"
+}

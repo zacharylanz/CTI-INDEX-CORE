@@ -1,0 +1,137 @@
+{
+    "description": "A group of cyber actors utilizing infrastructure located in Iran have been conducting computer network exploitation activity against public and private U.S. organizations, including Cleared Defense Contractors (CDCs), academic institutions, and energy sector companies. This threat actor targets entities in the government, energy, and technology sectors that are located in or do business with Saudi Arabia.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "Canada",
+            "France",
+            "Israel",
+            "Mexico",
+            "Saudi Arabia",
+            "China",
+            "Germany",
+            "United States",
+            "Pakistan",
+            "South Korea",
+            "United Kingdom",
+            "India",
+            "Kuwait",
+            "Qatar",
+            "Turkey"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://www.secureworks.com/research/the-curious-case-of-mia-ash",
+            "https://www.cfr.org/interactive/cyber-operations/operation-cleaver",
+            "http://www.secureworks.com/cyber-threat-intelligence/threats/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles/",
+            "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing",
+            "https://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations",
+            "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+            "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf",
+            "https://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf",
+            "https://attack.mitre.org/groups/G0003/",
+            "https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/",
+            "https://www.secureworks.com/research/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles",
+            "https://know.netenrich.com/threatintel/threat_actor/Cutting%20Kitten",
+            "https://www.cfr.org/cyber-operations/operation-cleaver",
+            "https://securityaffairs.co/wordpress/33682/cyber-crime/ali-baba-apt-middle-east.html",
+            "https://scadahacker.com/library/Documents/Cyber_Events/Cylance%20-%20Operation%20Cleaver%20Report.pdf"
+        ],
+        "synonyms": [
+            "Operation Cleaver",
+            "Op Cleaver",
+            "Tarh Andishan",
+            "Alibaba",
+            "TG-2889",
+            "Cobalt Gypsy",
+            "G0003"
+        ],
+        "targeted-sector": [
+            "Defense",
+            "Energy",
+            "Technology",
+            "Government, Administration",
+            "Academia - University"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "8f5e8dc7-739d-4f5e-a8a1-a66e004d7063",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "11e17436-6ede-4733-8547-4ce0254ea19e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "42be2a84-5a5c-4c6d-9864-3f09d75bb0ba",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "d56c99fa-4710-472c-81a6-41b7a84ea4be",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "a0082cfa-32e2-42b8-92d8-5c7a7409dcf1",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b96e02f1-4037-463f-b158-5a964352f8d9",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "ba724df5-9aa0-45ca-8e0e-7101c208ae48",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f98bac6b-12fd-4cad-be84-c84666932232",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f873db71-3d53-41d5-b141-530675ade27a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b6260d6d-a2f7-5b79-8132-5c456a225f53",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "86724806-7ec9-4a48-a0a7-ecbde3bf4810",
+    "value": "Cleaver"
+}

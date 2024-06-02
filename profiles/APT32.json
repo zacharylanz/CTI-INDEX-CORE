@@ -1,0 +1,92 @@
+{
+    "description": "Cyber espionage actors, now designated by FireEye as APT32 (OceanLotus Group), are carrying out intrusions into private sector companies across multiple industries and have also targeted foreign governments, dissidents, and journalists. FireEye assesses that APT32 leverages a unique suite of fully-featured malware, in conjunction with commercially-available tools, to conduct targeted operations that are aligned with Vietnamese state interests.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Vietnam",
+        "cfr-suspected-victims": [
+            "China",
+            "Germany",
+            "United States",
+            "Vietnam",
+            "Philippines",
+            "Association of Southeast Asian Nations"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "VN",
+        "refs": [
+            "https://attack.mitre.org/groups/G0050/",
+            "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+            "https://www.cybereason.com/labs-operation-cobalt-kitty-a-large-scale-apt-in-asia-carried-out-by-the-oceanlotus-group/",
+            "https://www.scmagazineuk.com/ocean-lotus-groupapt-32-identified-as-vietnamese-apt-group/article/663565/",
+            "https://www.brighttalk.com/webcast/10703/261205",
+            "https://github.com/eset/malware-research/tree/master/oceanlotus",
+            "https://www.cfr.org/interactive/cyber-operations/ocean-lotus",
+            "https://www.accenture.com/us-en/blogs/blogs-pond-loach-delivers-badcake-malware",
+            "https://www.secureworks.com/research/threat-profiles/tin-woodlawn",
+            "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+            "https://www.trendmicro.com/en_us/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html",
+            "https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them",
+            "https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam"
+        ],
+        "synonyms": [
+            "OceanLotus Group",
+            "Ocean Lotus",
+            "OceanLotus",
+            "Cobalt Kitty",
+            "APT-C-00",
+            "SeaLotus",
+            "Sea Lotus",
+            "APT-32",
+            "APT 32",
+            "Ocean Buffalo",
+            "POND LOACH",
+            "TIN WOODLAWN",
+            "BISMUTH",
+            "ATK17",
+            "G0050",
+            "Canvas Cyclone"
+        ],
+        "targeted-sector": [
+            "Dissidents",
+            "Government, Administration",
+            "Journalist"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "247cb30b-955f-42eb-97a5-a89fef69341e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "7e5a571f-dee2-4cae-a960-f8ab8a8fb1cf",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "37808cab-cbb3-560b-bebd-375fa328ea1e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "ad1a6df6-2251-5e47-a245-8693c1ace8fb",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "aa29ae56-e54b-47a2-ad16-d3ab0242d5d7",
+    "value": "APT32"
+}

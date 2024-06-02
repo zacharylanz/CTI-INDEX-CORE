@@ -1,0 +1,10 @@
+{
+    "description": "CrowdStrike identified a cryptojacking campaign targeting vulnerable Docker and Kubernetes infrastructure. Called \u201cKiss-a-dog,\u201d the campaign targets Docker and Kubernetes infrastructure using an obscure domain from the payload, container escape attempt and anonymized \u201cdog\u201d mining pools.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/blog/new-kiss-a-dog-cryptojacking-campaign-targets-docker-and-kubernetes/"
+        ]
+    },
+    "uuid": "1db6375f-0471-47c5-8128-5ab1519b01ab",
+    "value": "Kiss-a-Dog"
+}

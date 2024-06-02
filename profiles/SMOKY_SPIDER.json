@@ -1,0 +1,10 @@
+{
+    "description": "Mentioned as operator of SmokeLoader in CrowdStrike's 2020 Report.",
+    "meta": {
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+        ]
+    },
+    "uuid": "e27796eb-624a-4e41-aa40-52d47c764b07",
+    "value": "SMOKY SPIDER"
+}

@@ -1,0 +1,24 @@
+{
+    "description": "Proofpoint researchers have identified a targeted APT campaign that utilized malicious RTF documents to deliver custom malware to unsuspecting victims. We dubbed this campaign \u201cOperation LagTime IT\u201d based on entities that were targeted and the distinctive domains registered to C&C IP infrastructure. Beginning in early 2019, these threat actors targeted a number of government agencies in East Asia overseeing government information technology, domestic affairs, foreign affairs, economic development, and political processes. We determined that the infection vector observed in this campaign was spear phishing, with emails originating from both free email accounts and compromised user accounts. Attackers relied on Microsoft Equation Editor exploit CVE-2018-0798 to deliver a custom malware that Proofpoint researchers have dubbed Cotx RAT. Additionally, this APT group utilizes Poison Ivy payloads that share overlapping command and control (C&C) infrastructure with the newly identified Cotx campaigns. Based on infrastructure overlaps, post-exploitation techniques, and historic TTPs utilized in this operation, Proofpoint analysts attribute this activity to the Chinese APT group tracked internally as TA428. Researchers believe that this activity has an operational and tactical resemblance to the Maudi Surveillance Operation which was previously reported in 2013.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://www.proofpoint.com/us/threat-insight/post/chinese-apt-operation-lagtime-it-targets-government-information-technology",
+            "https://www.recordedfuture.com/china-linked-ta428-threat-group",
+            "https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia",
+            "https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-desktop",
+            "https://blog.group-ib.com/task",
+            "https://www.sentinelone.com/labs/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op",
+            "https://www.youtube.com/watch?v=1WfPlgtfWnQ",
+            "https://vb2020.vblocalhost.com/uploads/VB2020-20.pdf",
+            "https://vb2020.vblocalhost.com/uploads/VB2020-Ozawa-etal.pdf",
+            "https://st.drweb.com/static/new-www/news/2021/april/drweb_research_attacks_on_russian_research_institutes_en.pdf"
+        ],
+        "synonyms": [
+            "Colourful Panda",
+            "BRONZE DUDLEY"
+        ]
+    },
+    "uuid": "5533d062-18ab-4c70-9472-0eac03f95a1d",
+    "value": "TA428"
+}

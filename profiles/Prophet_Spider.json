@@ -1,0 +1,34 @@
+{
+    "description": "PROPHET SPIDER is an eCrime actor, active since at least May 2017, that primarily gains access to victims by compromising vulnerable web servers, which commonly involves leveraging a variety of publicly disclosed vulnerabilities. The adversary has likely functioned as an access broker \u2014 handing off access to a third party to deploy ransomware \u2014 in multiple instances.",
+    "meta": {
+        "country": "",
+        "refs": [
+            "https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/",
+            "https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/",
+            "https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker",
+            "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated"
+        ],
+        "synonyms": [
+            "GOLD MELODY",
+            "UNC961"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "cd84bc53-8684-4921-89c7-2cf49512bf61",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "b5814e05-532a-4262-a8da-82fd0d7605ee",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        }
+    ],
+    "uuid": "eb0b100c-8a4e-4859-b6f8-eebd66c3d20c",
+    "value": "Prophet Spider"
+}

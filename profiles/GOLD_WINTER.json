@@ -1,0 +1,10 @@
+{
+    "description": "GOLD WINTER are a financially motivated group, likely based in Russia, who operate the Hades ransomware. Hades activity was first identified in December 2020 and its lack of presence on underground forums and marketplaces leads CTU researchers to conclude that it is not operated under a ransomware as a service affiliate model. GOLD WINTER do employ name-and-shame tactics, where data is stolen and used as additional leverage over victims, but rather than a single centralized leak site CTU researchers have observed the group using Tor sites customized for each victim that include a Tox chat ID for communication, which also appears to be unique for each victim.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-winter"
+        ]
+    },
+    "uuid": "6c514d9d-e2fa-45a5-a938-9a461f69ad2d",
+    "value": "GOLD WINTER"
+}

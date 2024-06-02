@@ -1,0 +1,11 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "http://researchcenter.paloaltonetworks.com/2015/09/chinese-actors-use-3102-malware-in-attacks-on-us-government-and-eu-media/"
+        ]
+    },
+    "uuid": "f33fd440-93ee-41e5-974a-be9343e18cdf",
+    "value": "APT.3102"
+}

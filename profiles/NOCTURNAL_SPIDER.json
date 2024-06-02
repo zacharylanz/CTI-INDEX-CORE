@@ -1,0 +1,10 @@
+{
+    "description": "Mentioned as MaaS operator in CrowdStrike's 2020 Report.",
+    "meta": {
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+        ]
+    },
+    "uuid": "c042c592-25f6-4887-8a1b-6b8e3bfdcf0c",
+    "value": "NOCTURNAL SPIDER"
+}

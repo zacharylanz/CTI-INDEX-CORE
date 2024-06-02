@@ -1,0 +1,77 @@
+{
+    "description": "FireEye characterizes APT31 as an actor specialized on intellectual property theft, focusing on data and projects that make a particular organization competetive in its field. Based on available data (April 2016), FireEye assesses that APT31 conducts network operations at the behest of the Chinese Government. Also according to Crowdstrike, this adversary is suspected of continuing to target upstream providers (e.g., law firms and managed service providers) to support additional intrusions against high-profile assets. In 2018, CrowdStrike observed this adversary using spear-phishing, URL \u201cweb bugs\u201d and scheduled tasks to automate credential harvesting.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://www.microsoft.com/security/blog/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/",
+            "https://duo.com/decipher/apt-groups-moving-down-the-supply-chain",
+            "https://go.recordedfuture.com/hubfs/reports/cta-2019-0206.pdf",
+            "https://redalert.nshc.net/2019/12/03/threat-actor-targeting-hong-kong-activists",
+            "https://twitter.com/bkMSFT/status/1201876664667582466",
+            "https://www.secureworks.com/research/bronz-vinewood-uses-hanaloader-to-target-government-supply-chain",
+            "https://www.secureworks.com/research/bronze-vinewood-targets-supply-chains",
+            "https://www.secureworks.com/research/threat-profiles/bronze-vinewood",
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://research.checkpoint.com/2021/the-story-of-jian",
+            "https://supo.fi/-/suojelupoliisi-tunnisti-eduskuntaan-kohdistuneen-kybervakoiluoperaation-apt31-ksi",
+            "https://poliisi.fi/-/eduskunnan-tietojarjestelmiin-kohdistuneen-tietomurron-tutkinnassa-selvitetaan-yhteytta-apt31-toimijaan",
+            "https://pst.no/alle-artikler/pressemeldinger/etterforskningen-av-datanettverksoperasjonen-mot-fylkesmannsembetene-er-avsluttet",
+            "https://www.nrk.no/norge/pst_-har-etterretning-om-at-kinesisk-gruppe-stod-bak-dataangrep-mot-statsforvaltere-1.15540601",
+            "https://www.ncsc.gov.uk/news/uk-allies-hold-chinese-state-responsible-for-pervasive-pattern-of-hacking",
+            "https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking",
+            "https://www.foreignminister.gov.au/minister/marise-payne/media-release/australia-joins-international-partners-attribution-malicious-cyber-activity-china",
+            "https://www.consilium.europa.eu/en/press/press-releases/2021/07/19/declaration-by-the-high-representative-on-behalf-of-the-eu-urging-china-to-take-action-against-malicious-cyber-activities-undertaken-from-its-territory/",
+            "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2021-IOC-003",
+            "https://twitter.com/bkMSFT/status/1417823714922610689",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",
+            "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi",
+            "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf",
+            "https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists",
+            "https://www.fortinet.com/blog/psirt-blogs/importance-of-patching-an-analysis-of-the-exploitation-of-n-day-vulnerabilities",
+            "https://intrusiontruth.wordpress.com/2023/05/11/article-1-whats-cracking-at-the-kerui-cracking-academy",
+            "https://intrusiontruth.wordpress.com/2023/05/12/the-illustrious-graduates-of-wuhan-kerui",
+            "https://intrusiontruth.wordpress.com/2023/05/13/all-roads-lead-back-to-wuhan-xiaoruizhi-science-and-technology-company",
+            "https://intrusiontruth.wordpress.com/2023/05/15/trouble-in-paradise",
+            "https://intrusiontruth.wordpress.com/2023/05/16/introducing-cheng-feng",
+            "https://intrusiontruth.wordpress.com/2023/05/17/missing-links",
+            "https://ics-cert.kaspersky.com/media/Kaspersky-ICS-CERT-Common-TTPs-of-attacks-against-industrial-organizations-implants-for-remote-access-En.pdf",
+            "https://asec.ahnlab.com/ko/55070",
+            "https://intrusiontruth.wordpress.com/2023/07/04/wuhan-xiaoruizhi-class-of-19",
+            "https://intrusiontruth.wordpress.com/2023/07/07/one-man-and-his-lasers",
+            "https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2023-02-bfv-cyber-brief.pdf?__blob=publicationFile&v=6",
+            "https://www.justice.gov/opa/pr/seven-hackers-associated-chinese-government-charged-computer-intrusions-targeting-perceived",
+            "https://www.justice.gov/opa/media/1345141/dl?inline",
+            "https://www.gov.uk/government/news/uk-holds-china-state-affiliated-organisations-and-individuals-responsible-for-malicious-cyber-activity",
+            "https://harfanglab.io/en/insidethelab/apt31-indictment-analysis/"
+        ],
+        "synonyms": [
+            "ZIRCONIUM",
+            "JUDGMENT PANDA",
+            "BRONZE VINEWOOD",
+            "Red keres",
+            "Violet Typhoon",
+            "TA412",
+            "Zirconium"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "2d19c573-252b-49d8-8c2e-3b529b91e72d",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "27eb4928-b3e6-5ae1-bbb6-f73bce8d7c69",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "6bf7e6b6-5917-45a6-9567-f0baba79768c",
+    "value": "APT31"
+}

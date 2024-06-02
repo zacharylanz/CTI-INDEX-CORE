@@ -1,0 +1,33 @@
+{
+    "description": "An APT group that we are calling BackdoorDiplomacy, due to the main vertical of its victims, has been targeting Ministries of Foreign Affairs and telecommunication companies in Africa and the Middle East since at least 2017.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Libya",
+            "Namibia",
+            "Sudan",
+            "Albania",
+            "Croatia",
+            "Georgia",
+            "Poland",
+            "Iran",
+            "Qatar",
+            "Saudi Arabia",
+            "Sri Lanka",
+            "Uzbekistan"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Telecomms"
+        ],
+        "refs": [
+            "https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/"
+        ],
+        "synonyms": [
+            "BackDip",
+            "CloudComputating",
+            "Quarian"
+        ]
+    },
+    "uuid": "6472be4d-c186-4c86-b3b7-7dc1b4d3a3d8",
+    "value": "BackdoorDiplomacy"
+}

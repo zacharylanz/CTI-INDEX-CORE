@@ -1,0 +1,22 @@
+{
+    "description": "Microsoft Threat Intelligence identified similarities between this recent attack and previous 2012 attacks against tens of thousands of computers belonging to organizations in the energy sector. Microsoft Threat Intelligence refers to the activity group behind these attacks as TERBIUM, following our internal practice of assigning rogue actors chemical element names.",
+    "meta": {
+        "refs": [
+            "https://blogs.technet.microsoft.com/mmpc/2016/12/09/windows-10-protection-detection-and-response-against-recent-attacks/"
+        ],
+        "targeted-sector": [
+            "Energy"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "99784b80-6298-45ba-885c-0ed37bfd8324",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "46670c51-fea4-45d6-bdd4-62e85a5c7404",
+    "value": "TERBIUM"
+}

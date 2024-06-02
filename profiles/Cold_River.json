@@ -1,0 +1,14 @@
+{
+    "description": "In short, \u201cCold River\u201d is a sophisticated threat (actor) that utilizes DNS subdomain hijacking, certificate spoofing, and covert tunneled command and control traffic in combination with complex and convincing lure documents and custom implants.",
+    "meta": {
+        "refs": [
+            "https://www.lastline.com/labsblog/threat-actor-cold-river-network-traffic-analysis-and-a-deep-dive-on-agent-drable/"
+        ],
+        "synonyms": [
+            "Nahr Elbard",
+            "Nahr el bared"
+        ]
+    },
+    "uuid": "7d99d2f7-adf0-44e4-9044-d18ff6842a16",
+    "value": "Cold River"
+}

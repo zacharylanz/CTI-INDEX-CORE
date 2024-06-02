@@ -1,0 +1,77 @@
+{
+    "description": "Our analysis reveals that APT33 is a capable group that has carried out cyber espionage operations since at least 2013. We assess APT33 works at the behest of the Iranian government.",
+    "meta": {
+        "attribution-confidence": "50",
+        "capabilities": "STONEDRILL wiper, variants of TURNEDUP malware",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "United States",
+            "Saudi Arabia",
+            "South Korea"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "mode-of-operation": "IT network limited, information gathering against industrial orgs",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/",
+            "https://www.brighttalk.com/webcast/10703/275683",
+            "https://symantec-blogs.broadcom.com/blogs/threat-intelligence/elfin-apt33-espionage",
+            "https://www.secureworks.com/research/threat-profiles/cobalt-trinity",
+            "https://attack.mitre.org/groups/G0064/",
+            "https://threatconnect.com/blog/research-roundup-activity-on-previously-identified-apt33-domains/",
+            "https://www.cfr.org/interactive/cyber-operations/apt-33",
+            "https://dragos.com/media/2017-Review-Industrial-Control-System-Threats.pdf",
+            "https://dragos.com/adversaries.html",
+            "https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/"
+        ],
+        "synonyms": [
+            "APT 33",
+            "Elfin",
+            "MAGNALLIUM",
+            "Refined Kitten",
+            "HOLMIUM",
+            "COBALT TRINITY",
+            "G0064",
+            "ATK35",
+            "Peach Sandstorm",
+            "TA451"
+        ],
+        "victimology": "Petrochemical, Aerospace, Saudi Arabia"
+    },
+    "related": [
+        {
+            "dest-uuid": "fbd29c89-18ba-4c2d-b792-51c0adee049f",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "accd848b-b8f4-46ba-a408-9063b35cfbf2",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "4c0f085a-70b1-5ee6-a45a-dc368f03e701",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "8f6f8a49-8a22-4494-a4c0-5a341444339a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "4f69ec6d-cb6b-42af-b8e2-920a2aa4be10",
+    "value": "APT33"
+}

@@ -1,0 +1,200 @@
+{
+    "description": "Since 2009, HIDDEN COBRA actors have leveraged their capabilities to target and compromise a range of victims; some intrusions have resulted in the exfiltration of data while others have been disruptive in nature. Commercial reporting has referred to this activity as Lazarus Group and Guardians of Peace. Tools and capabilities used by HIDDEN COBRA actors include DDoS botnets, keyloggers, remote access tools (RATs), and wiper malware. Variants of malware and tools used by HIDDEN COBRA actors include Destover, Duuzer, and Hangman.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Korea (Democratic People's Republic of)",
+        "cfr-suspected-victims": [
+            "South Korea",
+            "Bangladesh Bank",
+            "Sony Pictures Entertainment",
+            "United States",
+            "Thailand",
+            "France",
+            "China",
+            "Hong Kong",
+            "United Kingdom",
+            "Guatemala",
+            "Canada",
+            "Bangladesh",
+            "Japan",
+            "India",
+            "Germany",
+            "Brazil",
+            "Thailand",
+            "Australia",
+            "Cryptocurrency exchanges in South Korea"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": [
+            "Espionage",
+            "Sabotage"
+        ],
+        "country": "KP",
+        "refs": [
+            "https://threatpost.com/operation-blockbuster-coalition-ties-destructive-attacks-to-lazarus-group/116422/",
+            "https://www.us-cert.gov/ncas/alerts/TA17-164A",
+            "https://www.us-cert.gov/ncas/alerts/TA17-318A",
+            "https://www.us-cert.gov/ncas/alerts/TA17-318B",
+            "https://securelist.com/operation-applejeus/87553/",
+            "https://securelist.com/lazarus-under-the-hood/77908/",
+            "https://www.us-cert.gov/HIDDEN-COBRA-North-Korean-Malicious-Cyber-Activity",
+            "https://www.mcafee.com/enterprise/en-us/assets/white-papers/wp-dissecting-operation-troy.pdf",
+            "https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-up-to-no-good-again/",
+            "https://www.cfr.org/interactive/cyber-operations/lazarus-group",
+            "https://www.cfr.org/interactive/cyber-operations/operation-ghostsecret",
+            "https://www.cfr.org/interactive/cyber-operations/compromise-cryptocurrency-exchanges-south-korea",
+            "https://www.bleepingcomputer.com/news/security/lazarus-group-deploys-its-first-mac-malware-in-cryptocurrency-exchange-hack/",
+            "https://content.fireeye.com/apt/rpt-apt38",
+            "https://blog.malwarebytes.com/threat-analysis/2019/03/the-advanced-persistent-threat-files-lazarus-group/",
+            "https://www.theguardian.com/world/2009/jul/08/south-korea-cyber-attack",
+            "https://web.archive.org/web/20131123012339/https://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise",
+            "https://www.nytimes.com/2013/03/21/world/asia/south-korea-computer-network-crashes.html",
+            "https://web.archive.org/web/20130607233212/https://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov",
+            "https://web.archive.org/web/20130701021735/https://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war",
+            "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/",
+            "https://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/",
+            "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/",
+            "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/",
+            "https://www.us-cert.gov/ncas/analysis-reports/AR19-129A",
+            "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/",
+            "https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/",
+            "https://www.theregister.co.uk/2019/04/10/lazarus_group_malware/",
+            "https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf",
+            "https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and",
+            "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/a-look-into-the-lazarus-groups-operations",
+            "https://www.kaspersky.com/about/press-releases/2017_chasing-lazarus-a-hunt-for-the-infamous-hackers-to-prevent-large-bank-robberies",
+            "https://medium.com/threat-intel/lazarus-attacks-wannacry-5fdeddee476c",
+            "https://attack.mitre.org/groups/G0032/",
+            "https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=5b9850b9-0fdd-48a9-b595-9234207ae7df&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://www.bankinfosecurity.com/vietnamese-bank-blocks-1-million-online-heist-a-9105",
+            "https://www.reuters.com/article/us-cyber-heist-swift-specialreport-idUSKCN0YB0DD",
+            "https://web.archive.org/web/20160527050022/https://www.symantec.com/connect/blogs/swift-attackers-malware-linked-more-financial-attacks",
+            "https://symantec-blogs.broadcom.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/what-we-can-learn-from-the-bangladesh-central-bank-cyber-heist/",
+            "https://www.symantec.com/connect/blogs/attackers-target-dozens-global-banks-new-malware",
+            "https://baesystemsai.blogspot.com/2017/10/taiwan-heist-lazarus-tools.html",
+            "https://www.bloomberg.com/news/articles/2018-05-29/mexico-foiled-a-110-million-bank-heist-then-kept-it-a-secret",
+            "https://threatpost.com/banco-de-chile-wiper-attack-just-a-cover-for-10m-swift-heist/132796/",
+            "https://www.darkreading.com/attacks-breaches/north-korean-hacking-group-steals-$135-million-from-indian-bank-/d/d-id/1332678",
+            "https://www.zdnet.com/article/north-korean-hackers-infiltrate-chiles-atm-network-after-skype-job-interview/",
+            "https://blogs.jpcert.or.jp/en/2020/08/Lazarus-malware.html",
+            "https://www.secureworks.com/research/threat-profiles/nickel-gladstone",
+            "https://blogs.jpcert.or.jp/en/2020/09/BLINDINGCAN.html",
+            "https://www.welivesecurity.com/2020/11/16/lazarus-supply-chain-attack-south-korea/",
+            "https://dragos.com/adversaries.html",
+            "https://dragos.com/media/2017-Review-Industrial-Control-System-Threats.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/covellite",
+            "https://www.hvs-consulting.de/lazarus-report/",
+            "https://github.com/hvs-consulting/ioc_signatures/tree/main/Lazarus_APT37",
+            "https://blogs.jpcert.or.jp/en/2021/01/Lazarus_tools.html",
+            "https://blogs.jpcert.or.jp/en/2021/01/Lazarus_malware2.html",
+            "https://attack.mitre.org/groups/G0082",
+            "https://attack.mitre.org/groups/G0032",
+            "https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/",
+            "https://www.proofpoint.com/us/blog/threat-insight/ta444-apt-startup-aimed-at-your-funds",
+            "https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html",
+            "https://www.securonix.com/blog/securonix-threat-labs-monthly-intelligence-insights-june-2023/",
+            "https://us-cert.cisa.gov/ncas/alerts/aa21-048a"
+        ],
+        "synonyms": [
+            "Operation DarkSeoul",
+            "Dark Seoul",
+            "Hidden Cobra",
+            "Hastati Group",
+            "Andariel",
+            "Unit 121",
+            "Bureau 121",
+            "NewRomanic Cyber Army Team",
+            "Bluenoroff",
+            "Subgroup: Bluenoroff",
+            "Group 77",
+            "Labyrinth Chollima",
+            "Operation Troy",
+            "Operation GhostSecret",
+            "Operation AppleJeus",
+            "APT38",
+            "APT 38",
+            "Stardust Chollima",
+            "Whois Hacking Team",
+            "Zinc",
+            "Appleworm",
+            "Nickel Academy",
+            "APT-C-26",
+            "NICKEL GLADSTONE",
+            "COVELLITE",
+            "ATK3",
+            "G0032",
+            "ATK117",
+            "G0082",
+            "Citrine Sleet",
+            "DEV-0139",
+            "DEV-1222",
+            "Diamond Sleet",
+            "ZINC",
+            "Sapphire Sleet",
+            "COPERNICIUM",
+            "TA404",
+            "Lazarus group",
+            "BeagleBoyz"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "c93fccb1-e8e8-42cf-ae33-2ad1d183913a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b06c3af1-0243-4428-88da-b3451c345e1e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "50cd027f-df14-40b2-aa22-bf5de5061163",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "linked-to"
+        },
+        {
+            "dest-uuid": "3bbf3f0f-346d-49ad-9300-3bb0f23c83ef",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "e6f4af06-fbb5-5471-82ae-b0bdb4d446ce",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "9630b0aa-ee9e-5b58-9f79-cf7fa8d291a8",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "3a32c54d-d86a-55de-b16a-d9a08a5cf49b",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "68391641-859f-4a9a-9a1e-3e5cf71ec376",
+    "value": "Lazarus Group"
+}

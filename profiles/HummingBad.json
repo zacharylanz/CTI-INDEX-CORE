@@ -1,0 +1,12 @@
+{
+    "description": "This group created a malware that takes over Android devices and generates $300,000 per month in fraudulent ad revenue.  The group effectively controls an arsenal of over 85 million mobile devices around the world. With the potential to sell access to these devices to the highest bidder",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "http://blog.checkpoint.com/wp-content/uploads/2016/07/HummingBad-Research-report_FINAL-62916.pdf"
+        ]
+    },
+    "uuid": "12ab5c28-5f38-4a2f-bd40-40e9c500f4ac",
+    "value": "HummingBad"
+}

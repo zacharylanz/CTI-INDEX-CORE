@@ -1,0 +1,18 @@
+{
+    "description": "Turkish nationalist hacktivist group that has been active for roughly one year. According to Domaintools, the group\u2019s site has been registered since December 2015, with an active Twitter account since January 2016. The group carries out distributed denial-of-service (DDoS) attacks and defacements against the sites of news organizations and governments perceived to be critical of Turkey\u2019s policies or leadership, and purports to act in defense of Islam",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "TR",
+        "motive": "Hacktivists-Nationalists",
+        "synonyms": [
+            "Lion Soldiers Team",
+            "Phantom Turk"
+        ],
+        "targeted-sector": [
+            "Government, Administration",
+            "News - Media"
+        ]
+    },
+    "uuid": "23410d3f-c359-422d-9a4e-45f8fdf0c84a",
+    "value": "Aslan Neferler Tim"
+}

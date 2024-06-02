@@ -1,0 +1,42 @@
+{
+    "description": "Lyceum is an Iranian APT group that has been active since at least 2014. They primarily target Middle Eastern governments and organizations in the energy and telecommunications sectors. Lyceum is known for using cyber espionage techniques and has been linked to other Iranian threat groups such as APT34. They have developed and deployed malware families like Shark and Milan, and have been observed using DNS tunneling and HTTPfor command and control communication.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "Israel",
+            "Middle East"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Energy",
+            "High-Tech",
+            "Telecomms",
+            "Education",
+            "Military",
+            "Defense"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign",
+            "https://www.secureworks.com/research/threat-profiles/cobalt-lyceum",
+            "https://www.prevailion.com/latest-targets-of-cyber-group-lyceum/",
+            "https://www.clearskysec.com/siamesekitten/",
+            "https://vblocalhost.com/uploads/VB2021-Kayal-etal.pdf",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "COBALT LYCEUM",
+            "HEXANE",
+            "UNC1530",
+            "Spirlin",
+            "MYSTICDOME",
+            "siamesekitten",
+            "Chrono Kitten",
+            "Storm-0133"
+        ]
+    },
+    "uuid": "e1b95185-8db6-4f3c-9ffd-1749087d934a",
+    "value": "LYCEUM"
+}

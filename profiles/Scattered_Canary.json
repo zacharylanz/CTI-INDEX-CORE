@@ -1,0 +1,14 @@
+{
+    "description": "When the first member of Scattered Canary, who, for the purposes of this report, we call\nAlpha, began his operations, he was a lone wolf\u2014working mostly Craigslist scams as he learned\nthe tricks of the trade from a mentor. However, within a few years, he had honed his craft\nenough to expand into romance scams, where he met his first \u201cemployee,\u201d Beta. Once they\nhad secured enough mules via their romance scams to launder their stolen money, they shifted\nfrom targeting individuals to targeting enterprises, and the group\u2019s BEC operation was born.",
+    "meta": {
+        "country": "NG",
+        "motive": "Cybercrime",
+        "refs": [
+            "https://cofense.com/blog/gift-card-fraud-ecosystem-shifts-what-paxfuls-closing-means-for-business-email-compromise/",
+            "https://static.fortra.com/agari/pdfs/guide/ag-scattered-canary-gd.pdf",
+            "https://www.agari.com/blog/covid-19-unemployment-fraud-cares-act?_gl=1%2Ayzg6ns%2A_ga%2AMTkyMzIyOTI4MC4xNjk2MjUyMDA2%2A_ga_NHMHGJWX49%2AMTY5NjI1MjAwNS4xLjAuMTY5NjI1MjAwNS42MC4wLjA.&utm_source=press-release&utm_medium=prnewswire&utm_campaign=scattered20"
+        ]
+    },
+    "uuid": "fde2d0f9-ed23-4cdc-96d3-f0a01f804707",
+    "value": "Scattered Canary"
+}

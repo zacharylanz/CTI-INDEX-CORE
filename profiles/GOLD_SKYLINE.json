@@ -1,0 +1,10 @@
+{
+    "description": "GOLD SKYLINE is a financially motivated cybercriminal threat group operating from Nigeria engaged in high-value wire fraud facilitated by business email compromise (BEC) and spoofing (BES). Also known as Wire-Wire Group 1 (WWG1), GOLD SKYLINE has been active since at least 2016 and relies heavily on compromised email accounts, social engineering, and increasingly malware to divert inter-organization funds transfers.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-skyline"
+        ]
+    },
+    "uuid": "dcb6b056-7a1b-484c-82ee-f3962d47bcd9",
+    "value": "GOLD SKYLINE"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "While investigating some of the smaller name servers that APT28/Sofacy routinely use to host their infrastructure, Cylance discovered another prolonged campaign that appeared to exclusively target Japanese companies and individuals that began around August 2016. The later registration style was eerily close to previously registered APT28 domains, however, the malware used in the attacks did not seem to line up at all. During the course of our investigation, JPCERT published this analysis of one of the group\u2019s backdoors. Cylance tracks this threat group internally as \u2018Snake Wine\u2019.\nThe Snake Wine group has proven to be highly adaptable and has continued to adopt new tactics in order to establish footholds inside victim environments. The exclusive interest in Japanese government, education, and commerce will likely continue into the future as the group is just starting to build and utilize their existing current attack infrastructure.",
+    "meta": {
+        "refs": [
+            "https://www.cylance.com/en_us/blog/the-deception-project-a-new-japanese-centric-threat.html",
+            "https://threatvector.cylance.com/en_us/home/the-deception-project-a-new-japanese-centric-threat.html",
+            "https://www.jpcert.or.jp/magazine/acreport-ChChes.html"
+        ]
+    },
+    "uuid": "7b6ba207-94de-4f94-bc7f-52cd0dafade5",
+    "value": "Snake Wine"
+}

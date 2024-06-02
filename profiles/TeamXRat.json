@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "refs": [
+            "https://securelist.com/blog/research/76153/teamxrat-brazilian-cybercrime-meets-ransomware/"
+        ],
+        "synonyms": [
+            "CorporacaoXRat",
+            "CorporationXRat"
+        ]
+    },
+    "uuid": "43ec65d1-a334-4c44-9a44-0fd21f27249d",
+    "value": "TeamXRat"
+}

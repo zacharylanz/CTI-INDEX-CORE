@@ -1,0 +1,10 @@
+{
+    "description": "Prolific Puma provides an underground link shortening service to criminals. Infoblox states that during analysis, no legitimate content was observed being served through their shortener. For operation they use a registered domain generation algorithm (RDGA), based upon which they registered between 35k-75k domain names.",
+    "meta": {
+        "refs": [
+            "https://blogs.infoblox.com/cyber-threat-intelligence/prolific-puma-shadowy-link-shortening-service-enables-cybercrime/"
+        ]
+    },
+    "uuid": "c8782e46-447c-4c6e-90c0-82f3bf49d64b",
+    "value": "Prolific Puma"
+}

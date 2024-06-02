@@ -1,0 +1,35 @@
+{
+    "description": "Kaspersky Lab and Seculert worked together to sinkhole the Madi Command & Control (C&C) servers to monitor the campaign. Kaspersky Lab and Seculert identified more than 800 victims located in Iran, Israel and select countries across the globe connecting to the C&Cs over the past eight months. Statistics from the sinkhole revealed that the victims were primarily business people working on Iranian and Israeli critical infrastructure projects, Israeli financial institutions, Middle Eastern engineering students, and various government agencies communicating in the Middle East.\nCommon applications and websites that were spied on include accounts on Gmail, Hotmail, Yahoo! Mail, ICQ, Skype, Google+, and Facebook. Surveillance is also performed over integrated ERP/CRM systems, business contracts, and financial management systems.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "Iran",
+            "Pakistan",
+            "Israel",
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://securelist.com/the-madi-campaign-part-i-5/33693/",
+            "https://securelist.com/the-madi-campaign-part-ii-53/33701/",
+            "https://www.cfr.org/interactive/cyber-operations/madi",
+            "https://www.kaspersky.com/about/press-releases/2012_kaspersky-lab-and-seculert-announce--madi--a-newly-discovered-cyber-espionage-campaign-in-the-middle-east",
+            "https://threatpost.com/new-and-improved-madi-spyware-campaign-continues-072512/76849/",
+            "https://web.archive.org/web/20120718173322/https://www.symantec.com/connect/blogs/madi-attacks-series-social-engineering-campaigns"
+        ],
+        "targeted-sector": [
+            "Infrastructure",
+            "Engineering",
+            "Government, Administration",
+            "Finance"
+        ]
+    },
+    "uuid": "d5dacda0-12c2-4e80-bdf2-1c5019ec40e2",
+    "value": "Madi"
+}

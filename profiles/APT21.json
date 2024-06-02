@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Mongolia",
+            "Kazakhstan",
+            "Tajikistan",
+            "Germany",
+            "United Kingdom",
+            "India",
+            "Kyrgyzstan",
+            "South Korea",
+            "United States",
+            "Chile",
+            "Russia",
+            "China",
+            "Spain",
+            "Canada",
+            "Morocco"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://securelist.com/blog/research/35936/nettraveler-is-running-red-star-apt-attacks-compromise-high-profile-victims/",
+            "https://www.cfr.org/interactive/cyber-operations/nettraveler",
+            "https://www.kaspersky.com/about/press-releases/2013_kaspersky-lab-uncovers--operation-nettraveler--a-global-cyberespionage-campaign-targeting-government-affiliated-organizations-and-research-institutes",
+            "https://www.kaspersky.com/about/press-releases/2014_nettraveler-gets-a-makeover-for-10th-anniversary",
+            "https://unit42.paloaltonetworks.com/nettraveler-spear-phishing-email-targets-diplomat-of-uzbekistan/",
+            "https://www.proofpoint.com/us/threat-insight/post/nettraveler-apt-targets-russian-european-interests",
+            "http://www.darkreading.com/endpoint/chinese-cyberspies-pivot-to-russia-in-wake-of-obama-xi-pact/d/d-id/1324242",
+            "https://www.mandiant.com/resources/insights/apt-groups"
+        ],
+        "synonyms": [
+            "HAMMER PANDA",
+            "TEMP.Zhenbao",
+            "NetTraveler"
+        ]
+    },
+    "uuid": "b80f4788-ccb2-466d-ae16-b397159d907e",
+    "value": "APT21"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "APT-C-60",
+    "meta": {
+        "refs": [
+            "https://mp.weixin.qq.com/s/Hzq4_tWmunDpKfHTlZNM-A",
+            "https://cert.360.cn/report/detail?id=6c9a1b56e4ceb84a8ab9e96044429adc"
+        ],
+        "synonyms": [
+            "APT-Q-12"
+        ]
+    },
+    "uuid": "6a83b2bf-0c51-4c9b-89b0-35df7cab1dd5",
+    "value": "APT-C-60"
+}

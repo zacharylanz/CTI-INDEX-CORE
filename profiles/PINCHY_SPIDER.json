@@ -1,0 +1,12 @@
+{
+    "description": "First observed in January 2018, GandCrab ransomware quickly began to proliferate and receive regular updates from its developer, PINCHY SPIDER, which over the course of the year established a RaaS operation with a dedicated set of affiliates.\nCrowdStrike Intelligence has recently observed PINCHY SPIDER affiliates deploying GandCrab ransomware in enterprise environments, using lateral movement techniques and tooling commonly associated with nation-state adversary groups and penetration testing teams. This change in tactics makes PINCHY SPIDER and its affiliates the latest eCrime adversaries to join the growing trend of targeted, low-volume/high-return ransomware deployments known as \u201cbig game hunting.\u201d\n PINCHY SPIDER is the criminal group behind the development of the ransomware most commonly known as GandCrab, which has been active since January 2018. PINCHY SPIDER sells access to use GandCrab ransomware under a partnership program with a limited number of accounts. The program is operated with a 60-40 split in profits (60 percent to the customer), as is common among eCrime actors, but PINCHY SPIDER is also willing to negotiate up to a 70-30 split for \u201csophisticated\u201d customers.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
+            "https://www.crowdstrike.com/blog/pinchy-spider-adopts-big-game-hunting/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+        ]
+    },
+    "uuid": "80f07c15-cad3-44a2-a8a4-dd14490b5117",
+    "value": "PINCHY SPIDER"
+}

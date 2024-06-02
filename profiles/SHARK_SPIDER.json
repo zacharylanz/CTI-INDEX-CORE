@@ -1,0 +1,12 @@
+{
+    "description": "This group's activity was first observed in November 2013. It leverages a banking Trojan more commonly known as Shylock which aims to compromise online banking credentials and credentials related to Bitcoin wallets.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "RU",
+        "targeted-sector": [
+            "Bank"
+        ]
+    },
+    "uuid": "7dd7a8df-9012-4d14-977f-b3f9f71266b4",
+    "value": "SHARK SPIDER"
+}

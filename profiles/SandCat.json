@@ -1,0 +1,10 @@
+{
+    "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa.  SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
+    "meta": {
+        "refs": [
+            "https://securelist.com/zero-day-in-windows-kernel-transaction-manager-cve-2018-8611/89253/"
+        ]
+    },
+    "uuid": "dc15f388-a353-4185-b28e-015745f708ba",
+    "value": "SandCat"
+}

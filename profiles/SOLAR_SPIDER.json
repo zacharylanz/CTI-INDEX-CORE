@@ -1,0 +1,13 @@
+{
+    "description": "SOLAR SPIDER\u2019s phishing campaigns deliver the JSOutProx RAT to financial institutions across Africa, the Middle East, South Asia and Southeast Asia.",
+    "meta": {
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"
+        ],
+        "targeted-sector": [
+            "Finance"
+        ]
+    },
+    "uuid": "f65103ad-f051-47c3-b90e-c77239a4d65c",
+    "value": "SOLAR SPIDER"
+}

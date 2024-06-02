@@ -1,0 +1,10 @@
+{
+    "description": "A Turkish hacking group, Sath-\u0131 M\u00fcdafaa, is encouraging individuals to join its DDoS-for-Points platform that features points and prizes for carrying out distributed denial-of-service (DDoS) attacks against a list of predetermined targets. Their DDoS tool also contains a backdoor to hack the hackers. So the overarching motivation and allegiance of the group is not entirely clear.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "TR",
+        "motive": "Hacktivists-Nationalists"
+    },
+    "uuid": "a03e2b4b-617f-4d28-ac4b-9943f792aa22",
+    "value": "Sath-\u0131 M\u00fcdafaa"
+}

@@ -1,0 +1,50 @@
+{
+    "description": "Symantec described UPS in  2016 report as: 'Buckeye (also known as APT3, Gothic Panda, UPS Team, and TG-0110) is a cyberespionage group that is believed to have been operating for well over half a decade. Traditionally, the group attacked organizations in the US as well as other targets. However, Buckeyes focus appears to have changed as of June 2015, when the group began compromising political entities in Hong Kong.'",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States",
+            "United Kingdom",
+            "Hong Kong"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html",
+            "https://web.archive.org/web/20160910124439/http://www.symantec.com/connect/blogs/buckeye-cyberespionage-group-shifts-gaze-us-hong-kong",
+            "https://www.cfr.org/interactive/cyber-operations/apt-3",
+            "https://www.secureworks.com/research/threat-profiles/bronze-mayfair",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
+        ],
+        "synonyms": [
+            "GOTHIC PANDA",
+            "TG-0110",
+            "Group 6",
+            "UPS",
+            "Buckeye",
+            "Boyusec",
+            "BORON",
+            "BRONZE MAYFAIR",
+            "Red Sylvan"
+        ],
+        "targeted-sector": [
+            "Political party"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "0bbdf25b-30ff-4894-a1cd-49260d0dd2d9",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "d144c83e-2302-4947-9e24-856fbf7949ae",
+    "value": "APT3"
+}

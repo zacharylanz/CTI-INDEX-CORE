@@ -1,0 +1,50 @@
+{
+    "description": "This threat actor targets nongovernmental organizations using Mongolian-themed lures for espionage purposes.\nIn April 2017, CrowdStrike Falcon Intelligence observed a previously unattributed actor group with a Chinese nexus targeting a U.S.-based think tank. Further analysis revealed a wider campaign with unique tactics, techniques, and procedures (TTPs). This adversary targets non-governmental organizations (NGOs) in general, but uses Mongolian language decoys and themes, suggesting this actor has a specific focus on gathering intelligence on Mongolia. These campaigns involve the use of shared malware like Poison Ivy or PlugX.\nRecently, Falcon Intelligence observed new activity from MUSTANG PANDA, using a unique infection chain to target likely Mongolia-based victims. This newly observed activity uses a series of redirections and fileless, malicious implementations of legitimate tools to gain access to the targeted systems. Additionally, MUSTANG PANDA actors reused previously-observed legitimate domains to host files.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States",
+            "Germany"
+        ],
+        "cfr-target-category": [
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/mustang-panda",
+            "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://www.secureworks.com/research/threat-profiles/bronze-president",
+            "https://www.darkreading.com/threat-intelligence/chinese-apt-bronze-president-spy-campaign-russian-military",
+            "https://www.pwc.co.uk/cyber-security/assets/cyber-threats-2019-retrospect.pdf",
+            "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf",
+            "https://services.google.com/fh/files/blogs/google_fog_of_war_research_report.pdf",
+            "https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html",
+            "https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader",
+            "https://www.proofpoint.com/us/blog/threat-insight/good-bad-and-web-bug-ta416-increases-operational-tempo-against-european",
+            "https://unit42.paloaltonetworks.com/stately-taurus-targets-philippines-government-cyberespionage/",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html",
+            "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW",
+            "https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_2_LT4.pdf",
+            "https://thecyberwire.com/podcasts/microsoft-threat-intelligence/4/notes"
+        ],
+        "synonyms": [
+            "BRONZE PRESIDENT",
+            "HoneyMyte",
+            "Red Lich",
+            "TEMP.HEX",
+            "BASIN",
+            "Earth Preta",
+            "TA416",
+            "Stately Taurus",
+            "LuminousMoth",
+            "Polaris",
+            "TANTALUM",
+            "Twill Typhoon"
+        ]
+    },
+    "uuid": "78bf726c-a9e6-11e8-9e43-77249a2f7339",
+    "value": "MUSTANG PANDA"
+}

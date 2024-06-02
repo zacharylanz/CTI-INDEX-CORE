@@ -1,0 +1,26 @@
+{
+    "description": "Mandiant created UNC5266 to track post-disclosure exploitation leading to deployment of Bishop Fox's SLIVER implant framework, a WARPWIRE variant, and a new malware family that Mandiant has named TERRIBLETEA. At this time, based on observed infrastructure usage similarities, Mandiant suspects with moderate confidence that UNC5266 overlaps in part with UNC3569, a China-nexus espionage actor that has been observed exploiting vulnerabilities in Aspera Faspex, Microsoft Exchange, and Oracle Web Applications Desktop Integrator, among others, to gain initial access to target environments. ",
+    "meta": {
+        "refs": [
+            "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "84c2d789-64be-429b-aeee-253a4e0e2aff",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "deploys"
+        },
+        {
+            "dest-uuid": "4838b37b-2d1f-4cb8-945d-7185580f0bff",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "deploys"
+        }
+    ],
+    "uuid": "083a637b-c58c-4ccb-ab59-81d783873e80",
+    "value": "UNC5266"
+}

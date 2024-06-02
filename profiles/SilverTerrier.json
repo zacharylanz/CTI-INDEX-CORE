@@ -1,0 +1,12 @@
+{
+    "description": "As these tools rise and fall in popularity (and more importantly, as detection rates by antivirus vendors improve), SilverTerrier actors have consistently adopted new malware families and shifted to the latest packing tools available. ",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "NG",
+        "refs": [
+            "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/Unit_42/silverterrier-next-evolution-in-nigerian-cybercrime.pdf"
+        ]
+    },
+    "uuid": "acbfd9e4-f78c-4ae0-9b52-c35ed679e546",
+    "value": "SilverTerrier"
+}

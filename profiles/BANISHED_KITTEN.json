@@ -1,0 +1,40 @@
+{
+    "description": "BANISHED KITTEN is an Iranian state-nexus adversary active since at least 2008. While the adversary\u2019s most prominent activity is the July and September 2022 disruptive attacks targeting Albanian government infrastructure and the use of the HomelandJustice persona to leak stolen data, BANISHED KITTEN has likely targeted dissidents using the AllinOneNeo malware family.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "United States",
+            "Israel",
+            "Middle East",
+            "Europe"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Healthcare",
+            "Pharmaceuticals",
+            "High-Tech",
+            "Telecomms",
+            "Education",
+            "Media",
+            "NGOs",
+            "Civil Society"
+        ],
+        "cfr-type-of-incident": [
+            "Espionage",
+            "Information Operations",
+            "Sabotage"
+        ],
+        "country": "IR",
+        "refs": [
+            "https://www.crowdstrike.com/adversaries/banished-kitten/",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "DUNE",
+            "Storm-0842"
+        ]
+    },
+    "uuid": "3682a08e-c1d9-4dff-ae08-774883dddba6",
+    "value": "BANISHED KITTEN"
+}

@@ -1,0 +1,97 @@
+{
+    "description": "The Equation Group is a highly sophisticated threat actor described by its discoverers at Kaspersky Labs as one of the most sophisticated cyber attack groups in the world, operating alongside but always from a position of superiority with the creators of Stuxnet and Flame",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "United States",
+        "cfr-suspected-victims": [
+            "Iran",
+            "Afghanistan",
+            "Syria",
+            "Yemen",
+            "Kenya",
+            "Russia",
+            "India",
+            "Mali",
+            "Algeria",
+            "United Kingdom",
+            "Pakistan",
+            "China",
+            "Lebanon",
+            "United Arab Emirates",
+            "Libya"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "US",
+        "refs": [
+            "https://en.wikipedia.org/wiki/Equation_Group",
+            "https://www.cfr.org/interactive/cyber-operations/equation-group",
+            "https://arstechnica.com/information-technology/2015/02/how-omnipotent-hackers-tied-to-the-nsa-hid-for-14-years-and-were-found-at-last/",
+            "https://www.dropbox.com/s/buxkfotx1kei0ce/Whitepaper%20Shadow%20Broker%20-%20Equation%20Group%20Hack.pdf?dl=0",
+            "https://en.wikipedia.org/wiki/Stuxnet",
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf",
+            "https://attack.mitre.org/groups/G0020/"
+        ],
+        "synonyms": [
+            "Tilded Team",
+            "EQGRP",
+            "G0020"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "2f3311cd-8476-4be7-9005-ead920afc781",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "3e0c2d35-87cb-40f9-b341-a6c8dbec697e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"very-likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "fb8828a4-76de-467d-9f52-528984aa9b8d",
+            "tags": [
+                "estimative-language:likelihood-probability=\"very-likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "a4cebcc4-9e9b-415f-aa05-dd71c4e288fe",
+            "tags": [
+                "estimative-language:likelihood-probability=\"very-likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "2407bd9a-a3a4-40c4-86de-be6965243c67",
+            "tags": [
+                "estimative-language:likelihood-probability=\"very-likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "1e25d254-3f03-4752-b8d6-023a23e7d4ae",
+            "tags": [
+                "estimative-language:likelihood-probability=\"very-likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "21f7a57b-7778-4b3e-9b50-5289ae3b445d",
+            "tags": [
+                "estimative-language:likelihood-probability=\"very-likely\""
+            ],
+            "type": "uses"
+        }
+    ],
+    "uuid": "7036fb3d-86b7-4d9c-bc66-1e1ead8b7840",
+    "value": "Equation Group"
+}

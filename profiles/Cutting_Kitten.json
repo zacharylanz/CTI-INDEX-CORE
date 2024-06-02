@@ -1,0 +1,34 @@
+{
+    "description": "One of the threat actors responsible for the denial of service attacks against U.S in 2012\u20132013. Three individuals associated with the group\u2014believed to be have been working on behalf of Iran\u2019s Islamic Revolutionary Guard Corps\u2014were indicted by the Justice Department in 2016.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "United States",
+            "Bank of America",
+            "US Bancorp",
+            "Fifth Third Bank",
+            "Citigroup",
+            "PNC",
+            "BB&T",
+            "Wells Fargo",
+            "Capital One",
+            "HSBC",
+            "AT&T",
+            "NYSE"
+        ],
+        "cfr-type-of-incident": [
+            "Denial of service"
+        ],
+        "country": "IR",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/itsecteam",
+            "https://www.justice.gov/usao-sdny/file/835061/download"
+        ],
+        "synonyms": [
+            "ITsecTeam"
+        ]
+    },
+    "uuid": "11e17436-6ede-4733-8547-4ce0254ea19e",
+    "value": "Cutting Kitten"
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://kc.mcafee.com/corporate/index?page=content&id=KB71150",
+            "https://securingtomorrow.mcafee.com/wp-content/uploads/2011/02/McAfee_NightDragon_wp_draft_to_customersv1-1.pdf",
+            "https://attack.mitre.org/groups/G0014/"
+        ],
+        "synonyms": [
+            "G0014"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "23b6a0f5-fa95-46f9-a6f3-4549c5e45ec8",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "b3714d59-b61e-4713-903a-9b4f04ae7f3d",
+    "value": "Night Dragon"
+}

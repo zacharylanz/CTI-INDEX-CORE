@@ -1,0 +1,140 @@
+{
+    "description": "Charming Kitten (aka Parastoo, aka Newscaster) is an group with a suspected nexus to Iran that targets organizations involved in government, defense technology, military, and diplomacy sectors.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "U.S. government/defense sector websites",
+            "Saudi Arabia",
+            "Israel",
+            "Iraq",
+            "United Kingdom"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://en.wikipedia.org/wiki/Operation_Newscaster",
+            "https://iranthreats.github.io/resources/macdownloader-macos-malware/",
+            "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/2014.05.28.NewsCaster_An_Iranian_Threat_Within_Social_Networks/file-2581720763-pdf.pdf",
+            "https://www.forbes.com/sites/thomasbrewster/2017/07/27/iran-hackers-oilrig-use-fake-personas-on-facebook-linkedin-for-cyberespionage/",
+            "https://cryptome.org/2012/11/parastoo-hacks-iaea.htm",
+            "https://securelist.com/files/2017/03/Report_Shamoon_StoneDrill_final.pdf",
+            "https://securelist.com/blog/software/74503/freezer-paper-around-free-meat/",
+            "https://www.verfassungsschutz.de/download/broschuere-2016-10-bfv-cyber-brief-2016-04.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/newscaster",
+            "https://www.washingtontimes.com/news/2014/may/29/iranian-hackers-sucker-punch-us-defense-heads-crea/",
+            "https://securelist.com/freezer-paper-around-free-meat/74503/",
+            "https://www.scmagazine.com/home/security-news/cybercrime/hbo-breach-accomplished-with-hard-work-by-hacker-poor-security-practices-by-victim/",
+            "http://www.arabnews.com/node/1195681/media",
+            "https://cyware.com/news/iranian-apt-charming-kitten-impersonates-clearsky-the-security-firm-that-uncovered-its-campaigns-7fea0b4f",
+            "https://blog.certfa.com/posts/the-return-of-the-charming-kitten/",
+            "https://www.justice.gov/opa/pr/former-us-counterintelligence-agent-charged-espionage-behalf-iran-four-iranians-charged-cyber",
+            "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+            "https://www.clearskysec.com/wp-content/uploads/2017/12/Charming_Kitten_2017.pdf",
+            "https://attack.mitre.org/groups/G0058/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/"
+        ],
+        "synonyms": [
+            "Newscaster",
+            "Parastoo",
+            "iKittens",
+            "Group 83",
+            "NewsBeef",
+            "G0058",
+            "CharmingCypress"
+        ],
+        "targeted-sector": [
+            "Defense",
+            "Diplomacy",
+            "Military",
+            "Technology",
+            "Government, Administration"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7636484c-adc5-45d4-9bfe-c3e062fbc4a0",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f9d6633a-55e6-4adc-9263-6ae080421a13",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "ba724df5-9aa0-45ca-8e0e-7101c208ae48",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f873db71-3d53-41d5-b141-530675ade27a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "86724806-7ec9-4a48-a0a7-ecbde3bf4810",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "42be2a84-5a5c-4c6d-9864-3f09d75bb0ba",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "d56c99fa-4710-472c-81a6-41b7a84ea4be",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "a0082cfa-32e2-42b8-92d8-5c7a7409dcf1",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "8f5e8dc7-739d-4f5e-a8a1-a66e004d7063",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b96e02f1-4037-463f-b158-5a964352f8d9",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "400cd1b8-52b7-5a5c-984f-9b4af35ea231",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "f98bac6b-12fd-4cad-be84-c84666932232",
+    "value": "Charming Kitten"
+}

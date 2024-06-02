@@ -1,0 +1,20 @@
+{
+    "description": "This threat actor targets Uighurs\u2014a minority ethnic group located primarily in northwestern China\u2014and devices from Chinese mobile phone manufacturer Xiaomi, for espionage purposes.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Uighurs"
+        ],
+        "cfr-target-category": [
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/henbox"
+        ]
+    },
+    "uuid": "36ee04f4-a9df-11e8-b92b-d7ddfd3a8896",
+    "value": "HenBox"
+}

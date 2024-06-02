@@ -1,0 +1,107 @@
+{
+    "description": "Leviathan is an espionage actor targeting organizations and high-value targets in defense and government. Active since at least 2014, this actor has long-standing interest in maritime industries, naval defense contractors, and associated research institutions in the United States and Western Europe.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States",
+            "Hong Kong",
+            "The Philippines",
+            "Asia Pacific Economic Cooperation",
+            "Cambodia",
+            "Belgium",
+            "Germany",
+            "Philippines",
+            "Malaysia",
+            "Norway",
+            "Saudi Arabia",
+            "Switzerland",
+            "United Kingdom"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets",
+            "https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html",
+            "https://www.cfr.org/interactive/cyber-operations/apt-40",
+            "https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html",
+            "https://www.recordedfuture.com/chinese-threat-actor-tempperiscope/",
+            "https://www.fireeye.com/blog/threat-research/2018/07/chinese-espionage-group-targets-cambodia-ahead-of-elections.html",
+            "https://attack.mitre.org/groups/G0065/",
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://intrusiontruth.wordpress.com/2020/01/09/what-is-the-hainan-xiandun-technology-development-company",
+            "https://intrusiontruth.wordpress.com/2020/01/10/who-is-mr-gu",
+            "https://intrusiontruth.wordpress.com/2020/01/13/who-else-works-for-this-cover-company-network",
+            "https://intrusiontruth.wordpress.com/2020/01/14/who-is-mr-ding",
+            "https://intrusiontruth.wordpress.com/2020/01/15/hainan-xiandun-technology-company-is-apt40",
+            "https://www.secureworks.com/research/threat-profiles/bronze-mohawk",
+            "https://www.mycert.org.my/portal/advisory?id=MA-774.022020",
+            "https://www.elastic.co/blog/advanced-techniques-used-in-malaysian-focused-apt-campaign",
+            "https://www.microsoft.com/security/blog/2020/09/24/gadolinium-detecting-empires-cloud/",
+            "https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-security-charged-global-computer-intrusion",
+            "https://www.justice.gov/opa/press-release/file/1412916/download",
+            "https://www.justice.gov/opa/press-release/file/1412921/download",
+            "https://us-cert.cisa.gov/ncas/alerts/aa21-200a",
+            "https://us-cert.cisa.gov/ncas/alerts/aa21-200b",
+            "https://www.canada.ca/en/global-affairs/news/2021/07/statement-on-chinas-cyber-campaigns.html",
+            "https://www.ncsc.gov.uk/news/uk-allies-hold-chinese-state-responsible-for-pervasive-pattern-of-hacking",
+            "https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking",
+            "https://www.rnz.co.nz/news/political/447239/government-points-finger-at-china-over-cyber-attacks",
+            "https://www.foreignminister.gov.au/minister/marise-payne/media-release/australia-joins-international-partners-attribution-malicious-cyber-activity-china",
+            "https://www.mofa.go.jp/press/danwa/press6e_000312.html",
+            "https://www.consilium.europa.eu/en/press/press-releases/2021/07/19/declaration-by-the-high-representative-on-behalf-of-the-eu-urging-china-to-take-action-against-malicious-cyber-activities-undertaken-from-its-territory",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi",
+            "https://decoded.avast.io/threatintel/outbreak-of-follina-in-australia",
+            "https://www.proofpoint.com/us/blog/threat-insight/chasing-currents-espionage-south-china-sea",
+            "https://www.accenture.com/_acnmedia/pdf-96/accenture-security-mudcarp.pdf",
+            "https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/"
+        ],
+        "synonyms": [
+            "TEMP.Periscope",
+            "TEMP.Jumper",
+            "Leviathan",
+            "BRONZE MOHAWK",
+            "GADOLINIUM",
+            "KRYPTONITE PANDA",
+            "G0065",
+            "ATK29",
+            "TA423",
+            "Red Ladon",
+            "ITG09",
+            "MUDCARP",
+            "ISLANDDREAMS",
+            "Gingham Typhoon"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7113eaa5-ba79-4fb3-b68a-398ee9cd698e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "99e708f7-1c01-467d-b0da-f6cebd434abc",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "dbc45b46-5b64-50d4-b0f1-d7de888d4e85",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "5b4b6980-3bc7-11e8-84d6-879aaac37dd9",
+    "value": "APT40"
+}

@@ -1,0 +1,68 @@
+{
+    "description": "In October 2012, malware attacks against Israeli government targets grabbed media attention as officials temporarily cut off Internet access for its entire police force and banned the use of USB memory sticks. Security researchers subsequently linked these attacks to a broader, yearlong campaign that targeted not just Israelis but Palestinians as well. and as discovered later, even the U.S. and UK governments. Further research revealed a connection between these attacks and members of the so-called \u201cGaza Hackers Team.\u201d We refer to this campaign as \u201cMolerats.\u201d",
+    "meta": {
+        "cfr-suspected-state-sponsor": "Palestine",
+        "cfr-suspected-victims": [
+            "United States",
+            "Israel",
+            "Palestine",
+            "Middle East",
+            "Europe"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Defense",
+            "Energy",
+            "Finance",
+            "Healthcare",
+            "Pharmaceuticals",
+            "Education",
+            "Media",
+            "NGOs",
+            "Civil Society",
+            "Legal",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "PS",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html",
+            "https://ti.360.net/blog/articles/suspected-molerats-new-attack-in-the-middle-east/",
+            "https://ti.360.net/blog/articles/suspected-molerats-new-attack-in-the-middle-east-en/",
+            "https://middle-east-online.com/en/cyber-war-gaza-hackers-deface-israel-fire-service-website",
+            "https://www.fireeye.com/blog/threat-research/2014/06/molerats-here-for-spring.html",
+            "https://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html",
+            "https://www.vectra.ai/blogpost/moonlight-middle-east-targeted-attacks",
+            "https://securelist.com/gaza-cybergang-wheres-your-ir-team/72283/",
+            "https://www.clearskysec.com/wp-content/uploads/2016/01/Operation%20DustySky_TLP_WHITE.pdf",
+            "https://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf",
+            "https://securelist.com/gaza-cybergang-updated-2017-activity/82765/",
+            "https://www.kaspersky.com/blog/gaza-cybergang/26363/",
+            "https://attack.mitre.org/groups/G0021/",
+            "https://www.secureworks.com/research/threat-profiles/aluminum-saratoga",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "Gaza Hackers Team",
+            "Gaza cybergang",
+            "Gaza Cybergang",
+            "Operation Molerats",
+            "Extreme Jackal",
+            "Moonlight",
+            "ALUMINUM SARATOGA",
+            "G0021",
+            "BLACKSTEM"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "df71bb3b-813c-45eb-a8bc-f2a419837411",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "f7c2e501-73b1-400f-a5d9-2e2e07b7dfde",
+    "value": "Molerats"
+}

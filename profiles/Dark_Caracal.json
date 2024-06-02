@@ -1,0 +1,17 @@
+{
+    "description": "Lookout and Electronic Frontier Foundation (EFF) have discovered Dark Caracal, a persistent and prolific actor, who at the time of writing is believed to be administered out of a building belonging to the Lebanese General Security Directorate in Beirut. At present, we have knowledge of hundreds of gigabytes of exfiltrated data, in 21+ countries, across thousands of victims. Stolen data includes enterprise intellectual property and personally identifiable information.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "LB",
+        "refs": [
+            "https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf",
+            "https://research.checkpoint.com/2020/bandook-signed-delivered",
+            "https://attack.mitre.org/groups/G0070/"
+        ],
+        "synonyms": [
+            "G0070"
+        ]
+    },
+    "uuid": "3d449c83-4426-431a-b06a-cb4f8a0fca94",
+    "value": "Dark Caracal"
+}

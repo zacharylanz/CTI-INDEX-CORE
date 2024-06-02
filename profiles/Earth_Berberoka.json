@@ -1,0 +1,36 @@
+{
+    "description": "According to TrendMicro, Earth Berberoka is a threat group originating from China that mainly focuses on targeting gambling websites. This group's campaign uses multiple malware families that target the Windows, Linux, and macOS platforms that have been attributed to Chinese-speaking actors. Aside from using tried-and-tested malware families that have been upgraded, such as PlugX and Gh0st RAT, Earth Berberoka has also developed a brand-new complex, multistage malware family, which has been dubbed PuppetLoader.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "China",
+            "United States",
+            "Hong Kong",
+            "Malaysia",
+            "Taiwan"
+        ],
+        "cfr-target-category": [
+            "Gambling Websites",
+            "Information technology",
+            "Electronics Manufacturers",
+            "Education"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://documents.trendmicro.com/assets/white_papers/wp-operation-earth-berberoka.pdf",
+            "https://www.trendmicro.com/en_us/research/22/d/new-apt-group-earth-berberoka-targets-gambling-websites-with-old.html",
+            "https://documents.trendmicro.com/assets/txt/earth-berberoka-windows-iocs-2.txt",
+            "https://documents.trendmicro.com/assets/txt/earth-berberoka-linux-iocs-2.txt",
+            "https://documents.trendmicro.com/assets/txt/earth-berberoka-macos-iocs-2.txt",
+            "https://documents.trendmicro.com/assets/txt/earth-berberoka-domains-2.txt",
+            "https://www.youtube.com/watch?v=QXGO4RJaUPQ",
+            "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-40-LunghiHorejsi.pdf",
+            "https://securelist.com/diceyf-deploys-gameplayerframework-in-online-casino-development-studio/107723/",
+            "https://www.trendmicro.com/en_us/research/22/h/irontiger-compromises-chat-app-Mimi-targets-windows-mac-linux-users.html"
+        ],
+        "synonyms": [
+            "GamblingPuppet"
+        ]
+    },
+    "uuid": "9d82077b-7e95-4b22-8762-3224797ff5f0",
+    "value": "Earth Berberoka"
+}

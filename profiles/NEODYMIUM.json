@@ -1,0 +1,30 @@
+{
+    "description": "NEODYMIUM is an activity group that is known to use a backdoor malware detected by Microsoft as Wingbird. This backdoor\u2019s characteristics closely match FinFisher, a government-grade commercial surveillance package. Data about Wingbird activity indicate that it is typically used to attack individual computers instead of networks.",
+    "meta": {
+        "refs": [
+            "https://blogs.technet.microsoft.com/mmpc/2016/12/14/twin-zero-day-attacks-promethium-and-neodymium-target-individuals-in-europe/",
+            "https://attack.mitre.org/groups/G0055/"
+        ],
+        "synonyms": [
+            "G0055"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "025bdaa9-897d-4bad-afa6-013ba5734653",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "47b5007a-3fb1-466a-9578-629e6e735493",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "ada08ea8-4517-4eea-aff1-3ad69e5466bb",
+    "value": "NEODYMIUM"
+}

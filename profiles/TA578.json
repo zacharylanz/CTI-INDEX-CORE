@@ -1,0 +1,10 @@
+{
+    "description": "TA578, a threat actor that Proofpoint researchers have been tracking since May of 2020. TA578 has previously been observed in email-based campaigns delivering Ursnif, IcedID, KPOT Stealer, Buer Loader, BazaLoader, and Cobalt Strike.",
+    "meta": {
+        "refs": [
+            "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming"
+        ]
+    },
+    "uuid": "d1a8626a-06a5-4ecc-9519-e17fc6724f15",
+    "value": "TA578"
+}

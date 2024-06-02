@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States",
+            "Canada",
+            "United Kingdom",
+            "Switzerland",
+            "Hong Kong",
+            "Australia",
+            "India",
+            "Taiwan",
+            "China",
+            "Denmark"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/sneaky-panda",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=3b0d679a-3707-4075-a2a9-37d1af16d411&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://attack.mitre.org/groups/G0066/"
+        ],
+        "synonyms": [
+            "SNEAKY PANDA",
+            "Elderwood",
+            "Elderwood Gang",
+            "SIG22",
+            "G0066"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "03506554-5f37-4f8f-9ce4-0e9f01a1b484",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "da754aeb-a86d-4874-b388-d1d2028a56be",
+    "value": "Beijing Group"
+}

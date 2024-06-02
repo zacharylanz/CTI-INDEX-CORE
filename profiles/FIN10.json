@@ -1,0 +1,14 @@
+{
+    "description": "FireEye has observed multiple targeted intrusions occurring in North America \u2014 predominately in Canada \u2014 dating back to at least 2013 and continuing through at least 2016, in which the attacker(s) have compromised organizations\u2019 networks and sought to monetize this illicit access by exfiltrating sensitive data and extorting victim organizations. In some cases, when the extortion demand was not met, the attacker(s) destroyed production Windows systems by deleting critical operating system files and then shutting down the impacted systems. Based on near parallel TTPs used by the attacker(s) across these targeted intrusions, we believe these clusters of activity are linked to a single, previously unobserved actor or group that we have dubbed FIN10.",
+    "meta": {
+        "refs": [
+            "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin10.pdf",
+            "https://attack.mitre.org/groups/G0051/"
+        ],
+        "synonyms": [
+            "G0051"
+        ]
+    },
+    "uuid": "f2d02410-8c2c-11e9-8df1-a31c1fb33d79",
+    "value": "FIN10"
+}

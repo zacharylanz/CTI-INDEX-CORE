@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Myanmar",
+            "Germany",
+            "Singapore",
+            "Canada",
+            "India",
+            "United States",
+            "South Korea"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://blog.fox-it.com/2016/06/15/mofang-a-politically-motivated-information-stealing-adversary/",
+            "https://www.cfr.org/interactive/cyber-operations/mofang",
+            "https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf",
+            "https://www.secureworks.com/research/threat-profiles/bronze-walker"
+        ],
+        "synonyms": [
+            "Superman",
+            "BRONZE WALKER"
+        ]
+    },
+    "uuid": "999f3008-2b2f-467d-ab4d-c5a2fd80b344",
+    "value": "Mofang"
+}

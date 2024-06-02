@@ -1,0 +1,10 @@
+{
+    "description": "In the first quarter of 2018, CrowdStrike Intelligence identified NOMAD PANDA activity targeting Central Asian nations with exploit documents built with the 8.t tool.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+        ]
+    },
+    "uuid": "4b7df353-fbcc-4f00-a54f-5121c5edb9be",
+    "value": "NOMAD PANDA"
+}

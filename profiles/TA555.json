@@ -1,0 +1,10 @@
+{
+    "description": "Beginning in May 2018, Proofpoint researchers observed a previously undocumented downloader dubbed AdvisorsBot appearing in malicious email campaigns. The campaigns appear to primarily target hotels, restaurants, and telecommunications, and are distributed by an actor we track as TA555. To date, we have observed AdvisorsBot used as a first-stage payload, loading a fingerprinting module that, as with Marap, is presumably used to identify targets of interest to further infect with additional modules or payloads. AdvisorsBot is under active development and we have also observed another version of the malware completely rewritten in PowerShell and .NET.",
+    "meta": {
+        "refs": [
+            "https://www.thaicert.or.th/downloads/files/Threat_Group_Cards_v2.0.pdf"
+        ]
+    },
+    "uuid": "d0d26dae-195f-4503-a6a9-ebb1ec0e07f9",
+    "value": "TA555"
+}

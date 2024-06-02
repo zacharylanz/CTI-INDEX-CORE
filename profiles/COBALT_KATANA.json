@@ -1,0 +1,17 @@
+{
+    "description": "COBALT KATANA has been active since at least March 2018, and it focuses many of its operations on organizations based in or associated with Kuwait. The group has targeted government, logistics, and shipping organizations. The threat actors gain initial access to targets using DNS hijacking, strategic web compromise with SMB forced authentication, and password brute force attacks. COBALT KATANA operates a custom platform referred to as the Sakabota Framework, also referred to as Sakabota Core, with a complimentary set of modular backdoors and accessory tools including Gon, Hisoka, Hisoka Netero, Killua, Diezen, and Eye. The group has implemented DNS tunnelling in its malware and malicious scripts and also operates the HyphenShell web shell to strengthen post-intrusion access. CTU researchers assess with moderate confidence that COBALT KATANA operates on behalf of Iran, and elements of its operations such as overlapping infrastructure, use of DNS hijacking, implementation of DNS-based C2 channels in malware and web shell security mechanisms suggest connections to COBALT GYPSY and COBALT EDGEWATER.",
+    "meta": {
+        "refs": [
+            "https://www.secureworks.com/research/threat-profiles/cobalt-katana",
+            "https://unit42.paloaltonetworks.com/atoms/hunter-serpens/"
+        ],
+        "synonyms": [
+            "Hive0081 (IBM)",
+            "SectorD01 (NHSC)",
+            "xHunt campaign (Palo Alto)",
+            "Hunter Serpens"
+        ]
+    },
+    "uuid": "d1c25b0e-e4c5-4b7c-b790-2e185cb2f07e",
+    "value": "COBALT KATANA"
+}

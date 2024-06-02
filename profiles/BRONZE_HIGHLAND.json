@@ -1,0 +1,26 @@
+{
+    "description": "BRONZE HIGHLAND has been observed using spearphishing as an initial infection vector to deploy the MgBot remote access trojan against targets in Hong Kong. Third party reporting suggests the threat group also targets India, Malaysia and Taiwan and leverages Cobalt Strike and KsRemote Android Rat. CTU researchers assess with moderate confidence that BRONZE HIGHLAND operates on behalf of China and has a remit covering espionage against domestic human rights and pro-democracy advocates and nations neighbouring China",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Hong Kong",
+            "Malaysia",
+            "India",
+            "Taiwan",
+            "Macao",
+            "Nigeria"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://blog.malwarebytes.com/threat-analysis/2020/07/chinese-apt-group-targets-india-and-hong-kong-using-new-variant-of-mgbot-malware",
+            "https://vb2020.vblocalhost.com/uploads/VB2020-43.pdf",
+            "https://www.youtube.com/watch?v=LeKi0KfzOow&list=PLffioUnqXWkdzWcZXH-bzPVgcs2R4r7iS&index=1&t=2154s",
+            "https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/"
+        ],
+        "synonyms": [
+            "Evasive Panda",
+            " Daggerfly"
+        ]
+    },
+    "uuid": "62710572-e416-419d-bb1f-81ffc1ddc976",
+    "value": "BRONZE HIGHLAND"
+}

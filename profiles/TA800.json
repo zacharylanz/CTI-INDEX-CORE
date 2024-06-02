@@ -1,0 +1,10 @@
+{
+    "description": "This attacker is an affiliate distributor of the The Trick, also known as Trickbot, and BazaLoader. (For more on how affiliates work, see the description of TA573).\nTA800 has targeted a wide range of industries in North America, infecting victims with banking Trojans and malware loaders (malware designed to download other malware onto a compromised device). Malicious emails have often included recipients\u2019 names, titles and employers along with phishing pages designed to look like the targeted company. Lures have included hard-to-resist subjects such as related to payment, meetings, termination, bonuses and complaints in the subject line or body of the email.",
+    "meta": {
+        "refs": [
+            "https://www.proofpoint.com/us/blog/threat-insight/q4-2020-threat-report-quarterly-analysis-cybersecurity-trends-tactics-and-themes"
+        ]
+    },
+    "uuid": "75fac2e9-8f2c-4620-a1cc-4b8a61c1bb48",
+    "value": "TA800"
+}

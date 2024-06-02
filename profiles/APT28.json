@@ -1,0 +1,158 @@
+{
+    "description": "The Sofacy Group (also known as APT28, Pawn Storm, Fancy Bear and Sednit) is a cyber espionage group believed to have ties to the Russian government. Likely operating since 2007, the group is known to target government, military, and security organizations. It has been characterized as an advanced persistent threat.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "Georgia",
+            "France",
+            "Jordan",
+            "United States",
+            "Hungary",
+            "World Anti-Doping Agency",
+            "Armenia",
+            "Tajikistan",
+            "Japan",
+            "NATO",
+            "Ukraine",
+            "Belgium",
+            "Pakistan",
+            "Asia Pacific Economic Cooperation",
+            "International Association of Athletics Federations",
+            "Turkey",
+            "Mongolia",
+            "OSCE",
+            "United Kingdom",
+            "Germany",
+            "Poland",
+            "European Commission",
+            "Afghanistan",
+            "Kazakhstan",
+            "China"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://attack.mitre.org/groups/G0007/",
+            "https://en.wikipedia.org/wiki/Fancy_Bear",
+            "https://en.wikipedia.org/wiki/Sofacy_Group",
+            "https://www.bbc.com/news/technology-37590375",
+            "https://www.bbc.co.uk/news/technology-45257081",
+            "https://www.cfr.org/interactive/cyber-operations/apt-28",
+            "https://www.apnews.com/4d174e45ef5843a0ba82e804f080988f",
+            "https://www.voanews.com/a/iaaf-hack-fancy-bears/3793874.html",
+            "https://securelist.com/a-slice-of-2017-sofacy-activity/83930/",
+            "https://www.dw.com/en/hackers-lurking-parliamentarians-told/a-19564630",
+            "https://unit42.paloaltonetworks.com/unit42-sofacys-komplex-os-x-trojan/",
+            "https://unit42.paloaltonetworks.com/dear-joohn-sofacy-groups-global-campaign/",
+            "https://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html",
+            "https://www2.fireeye.com/rs/848-DID-242/images/wp-mandiant-matryoshka-mining.pdf",
+            "https://www.eff.org/deeplinks/2015/08/new-spear-phishing-campaign-pretends-be-eff",
+            "https://aptnotes.malwareconfig.com/web/viewer.html?file=../APTnotes/2014/apt28.pdf",
+            "https://www.accenture.com/us-en/blogs/blogs-snakemackerel-delivers-zekapab-malware",
+            "https://www.wired.com/story/russian-fancy-bears-hackers-release-apparent-ioc-emails/",
+            "https://symantec-blogs.broadcom.com/blogs/election-security/apt28-espionage-military-government",
+            "https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/",
+            "https://unit42.paloaltonetworks.com/unit42-sofacy-attacks-multiple-government-entities/",
+            "https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/72924/",
+            "https://www.msn.com/en-nz/news/world/russian-hackers-accused-of-targeting-un-chemical-weapons-watchdog-mh17-files/ar-BBNV2ny",
+            "https://unit42.paloaltonetworks.com/unit42-new-sofacy-attacks-against-us-government-agency/",
+            "https://unit42.paloaltonetworks.com/unit42-let-ride-sofacy-groups-dealerschoice-attacks-continue/",
+            "https://www.welivesecurity.com/2018/09/27/lojax-first-uefi-rootkit-found-wild-courtesy-sednit-group/",
+            "https://unit42.paloaltonetworks.com/unit42-sofacy-continues-global-attacks-wheels-new-cannon-trojan/",
+            "https://www.bleepingcomputer.com/news/security/apt28-uses-lojax-first-uefi-rootkit-seen-in-the-wild/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-mh17-investigation-team/",
+            "https://researchcenter.paloaltonetworks.com/2016/06/unit42-new-sofacy-attacks-against-us-government-agency/",
+            "https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-pawn-storm.pdf",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/",
+            "https://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/",
+            "https://www.lse.co.uk/AllNews.asp?code=kwdwehme&headline=Russian_Hackers_Suspected_In_Cyberattack_On_German_Parliament",
+            "https://www.volkskrant.nl/cultuur-media/russen-faalden-bij-hackpogingen-ambtenaren-op-nederlandse-ministeries~b77ff391/",
+            "https://www.ibtimes.co.uk/russian-hackers-fancy-bear-likely-breached-olympic-drug-testing-agency-dnc-experts-say-1577508",
+            "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-apt28-hacking-campaign-aimed-at-us-midterm-elections/",
+            "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-advanced-persistent-threat-28-botnet-infected",
+            "https://www.accenture.com/t20181129T203820Z__w__/us-en/_acnmedia/PDF-90/Accenture-snakemackerel-delivers-zekapab-malware.pdf",
+            "https://www.reuters.com/article/us-sweden-doping/swedish-sports-body-says-anti-doping-unit-hit-by-hacking-attack-idUSKCN1IG2GN",
+            "https://researchcenter.paloaltonetworks.com/2016/10/unit42-dealerschoice-sofacys-flash-player-exploit-platform/",
+            "https://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/",
+            "https://www.washingtonpost.com/technology/2019/02/20/microsoft-says-it-has-found-another-russian-operation-targeting-prominent-think-tanks/?utm_term=.870ff11468ae",
+            "https://www.handelsblatt.com/today/politics/election-risks-russia-linked-hackers-target-german-political-foundations/23569188.html?ticket=ST-2696734-GRHgtQukDIEXeSOwksXO-ap1",
+            "https://www.accenture.com/t20190213T141124Z__w__/us-en/_acnmedia/PDF-94/Accenture-SNAKEMACKEREL-Threat-Campaign-Likely-Targeting-NATO-Members-Defense-and-Military-Outlets.pdf",
+            "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+            "https://www.microsoft.com/security/blog/2020/09/10/strontium-detecting-new-patters-credential-harvesting/",
+            "https://www.bleepingcomputer.com/news/security/russian-hackers-use-fake-nato-training-docs-to-breach-govt-networks/",
+            "https://quointelligence.eu/2020/09/apt28-zebrocy-malware-campaign-nato-theme/",
+            "https://unit42.paloaltonetworks.com/atoms/fighting-ursa/",
+            "https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag",
+            "https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html"
+        ],
+        "synonyms": [
+            "Pawn Storm",
+            "FANCY BEAR",
+            "Sednit",
+            "SNAKEMACKEREL",
+            "Tsar Team",
+            "TG-4127",
+            "STRONTIUM",
+            "Swallowtail",
+            "IRON TWILIGHT",
+            "Group 74",
+            "SIG40",
+            "Grizzly Steppe",
+            "G0007",
+            "ATK5",
+            "Fighting Ursa",
+            "ITG05",
+            "Blue Athena",
+            "TA422",
+            "T-APT-12",
+            "APT-C-20",
+            "UAC-0028",
+            "FROZENLAKE",
+            "Sofacy",
+            "Forest Blizzard"
+        ],
+        "targeted-sector": [
+            "Military",
+            "Government, Administration",
+            "Security Service"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "bef4c620-0787-42a8-a96d-b7eb6e85917c",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "213cdde9-c11a-4ea9-8ce0-c868e9826fec",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "8d84d7b0-7716-5ab3-a3a4-f373dd148347",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "3d9f700c-5eb5-5d36-a6e7-47b55f2844cd",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "5b4ee3ea-eee3-4c8e-8323-85ae32658754",
+    "value": "APT28"
+}

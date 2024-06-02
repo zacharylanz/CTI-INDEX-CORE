@@ -1,0 +1,27 @@
+{
+    "description": "An actor group conducting large-scale social engineering and extortion campaign against multiple organizations with some seeing evidence of destructive elements.",
+    "meta": {
+        "refs": [
+            "https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/",
+            "https://blog.checkpoint.com/2022/03/07/lapsus-ransomware-gang-uses-stolen-source-code-to-disguise-malware-files-as-trustworthy-check-point-customers-remain-protected/",
+            "https://www.crowdstrike.com/adversaries/slippy-spider/"
+        ],
+        "synonyms": [
+            "LAPSUS$",
+            "DEV-0537",
+            "SLIPPY SPIDER",
+            "Strawberry Tempest"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "d4dfb329-822c-5db3-a078-a8c0f77924da",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "d9e5be22-1a04-4956-af6c-37af02330980",
+    "value": "LAPSUS"
+}

@@ -1,0 +1,24 @@
+{
+    "description": "Scattered Spider, a highly active hacking group, has made headlines by targeting more than 130 organizations, with the number of victims steadily increasing.",
+    "meta": {
+        "refs": [
+            "https://www.cybersecurity-insiders.com/scattered-spider-managed-mgm-resort-network-outage-brings-8m-loss-daily/",
+            "https://www.loginradius.com/blog/identity/oktapus-phishing-targets-okta-identity-credentials/",
+            "https://www.attackiq.com/2023/11/21/attack-graph-response-to-cisa-advisory-aa23-320a/",
+            "https://www.mandiant.com/resources/blog/unc3944-sms-phishing-sim-swapping-ransomware"
+        ],
+        "synonyms": [
+            "UNC3944",
+            "Muddled Libra",
+            "Oktapus",
+            "Scattered Swine",
+            "Scatter Swine",
+            "Octo Tempest",
+            "0ktapus",
+            "Storm-0971",
+            "DEV-0971"
+        ]
+    },
+    "uuid": "3b238f3a-c67a-4a9e-b474-dc3897e00129",
+    "value": "Scattered Spider"
+}

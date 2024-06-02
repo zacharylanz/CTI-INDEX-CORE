@@ -1,0 +1,17 @@
+{
+    "description": "Dancing Salome is the Kaspersky codename for an APT actor with a primary focus on ministries of foreign affairs, think tanks, and Ukraine. What makes Dancing Salome interesting and relevant is the attacker\u2019s penchant for leveraging HackingTeam RCS implants compiled after the public breach.",
+    "meta": {
+        "refs": [
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07170728/Guerrero-Saade-Raiu-VB2017.pdf"
+        ],
+        "suspected-victims": [
+            "Ukraine"
+        ],
+        "targeted-sector": [
+            "Think Tanks",
+            "Government, Administration"
+        ]
+    },
+    "uuid": "3d5192f2-f235-46fd-aa68-dd00cc17d632",
+    "value": "Dancing Salome"
+}

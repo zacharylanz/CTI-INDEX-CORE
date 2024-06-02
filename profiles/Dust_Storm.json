@@ -1,0 +1,24 @@
+{
+    "description": "Threat actors behind the Operation Dust Storm have been active since at least 2010, the hackers targeted several organizations in Japan, South Korea, the US, Europe, and other Asian countries.",
+    "meta": {
+        "refs": [
+            "https://www.cylance.com/content/dam/cylance/pdfs/reports/Op_Dust_Storm_Report.pdf",
+            "https://web.archive.org/web/20140816135909/https://www.symantec.com/connect/blogs/inside-back-door-attack",
+            "https://attack.mitre.org/groups/G0031/"
+        ],
+        "synonyms": [
+            "G0031"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "ae41895a-243f-4a65-b99b-d85022326c31",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "9e71024e-817f-45b0-92a0-d886c30bc929",
+    "value": "Dust Storm"
+}

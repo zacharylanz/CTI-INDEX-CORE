@@ -1,0 +1,14 @@
+{
+    "description": "UNC1878 is a financially motivated threat actor that monetizes network access via the deployment of RYUK ransomware. Earlier this year, Mandiant published a blog on a fast-moving adversary deploying RYUK ransomware, UNC1878. Shortly after its release, there was a significant decrease in observed UNC1878 intrusions and RYUK activity overall almost completely vanishing over the summer. But beginning in early fall, Mandiant has seen a resurgence of RYUK along with TTP overlaps indicating that UNC1878 has returned from the grave and resumed their operations.",
+    "meta": {
+        "refs": [
+            "https://twitter.com/anthomsec/status/1321865315513520128",
+            "https://www.fireeye.com/blog/threat-research/2020/10/kegtap-and-singlemalt-with-a-ransomware-chaser.html",
+            "https://gist.github.com/aaronst/6aa7f61246f53a8dd4befea86e832456",
+            "https://www.youtube.com/watch?v=CgDtm05qApE",
+            "https://www.fireeye.com/blog/threat-research/2020/03/the-cycle-of-adversary-pursuit.html"
+        ]
+    },
+    "uuid": "3c2bb7d7-a085-4594-adc7-4a20cf724abb",
+    "value": "UNC1878"
+}

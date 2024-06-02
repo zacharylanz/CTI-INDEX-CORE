@@ -1,0 +1,10 @@
+{
+    "description": "OVERLORD SPIDER, aka The Dark Overlord. Similar to ransomware operators today, OVERLORD SPIDER likely purchased RDP access to compromised servers on underground forums in order to exfiltrate data from corporate networks. The actor was known to attempt to \u201csell back\u201d the data to the respective victims, threatening to sell the data to interested parties should the victim refuse to pay. There was at least one identified instance of OVERLORD SPIDER successfully selling victim data on an underground market.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1"
+        ]
+    },
+    "uuid": "b43ce229-feaa-4731-9926-e0970140ab0b",
+    "value": "OVERLORD SPIDER"
+}

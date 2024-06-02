@@ -1,0 +1,31 @@
+{
+    "description": "MSTIC has not found any notable associations between this observed activity, tracked as DEV-0586, and other known activity groups. MSTIC assesses that the malware (WhisperGate), which is designed to look like ransomware but lacking a ransom recovery mechanism, is intended to be destructive and designed to render targeted devices inoperable rather than to obtain a ransom.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Ukraine"
+        ],
+        "cfr-type-of-incident": "Sabotage",
+        "country": "RU",
+        "refs": [
+            "https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/",
+            "https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/",
+            "https://unit42.paloaltonetworks.com/atoms/ruinousursa/",
+            "https://www.microsoft.com/en-us/security/blog/2023/06/14/cadet-blizzard-emerges-as-a-novel-and-distinct-russian-threat-actor/"
+        ],
+        "synonyms": [
+            "Ruinous Ursa",
+            "Cadet Blizzard"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7f190457-6829-55c4-9b6b-bccdadb747cb",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "a5f64c1a-c829-4855-903d-e0ff2098b2d7",
+    "value": "DEV-0586"
+}

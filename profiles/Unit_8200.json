@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Israel",
+        "cfr-suspected-victims": [
+            "Iran",
+            "Sudan"
+        ],
+        "cfr-target-category": [
+            "Military",
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IL",
+        "refs": [
+            "https://securelist.com/blog/research/70504/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/",
+            "https://archive.org/details/Stuxnet",
+            "https://www.cfr.org/interactive/cyber-operations/duqu",
+            "https://www.cfr.org/interactive/cyber-operations/duqu-20"
+        ],
+        "synonyms": [
+            "Duqu Group"
+        ]
+    },
+    "uuid": "e9a6cbd7-ca27-4894-ae20-9d11c06fdc02",
+    "value": "Unit 8200"
+}

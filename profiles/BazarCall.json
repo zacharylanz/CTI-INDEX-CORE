@@ -1,0 +1,15 @@
+{
+    "description": "BazarCall campaigns forgo malicious links or attachments in email messages in favor of phone numbers that recipients are misled into calling. It\u2019s a technique reminiscent of vishing and tech support scams where potential victims are being cold called by the attacker, except in BazarCall\u2019s case, targeted users must dial the number. And when they do, the users are connected with actual humans on the other end of the line, who then provide step-by-step instructions for installing malware into their devices.",
+    "meta": {
+        "refs": [
+            "https://www.trellix.com/en-us/about/newsroom/stories/research/evolution-of-bazarcall-social-engineering-tactics.html",
+            "https://www.microsoft.com/en-us/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/"
+        ],
+        "synonyms": [
+            "BazzarCall",
+            "BazaCall"
+        ]
+    },
+    "uuid": "906e2091-cc32-499e-a799-2b9b15e45042",
+    "value": "BazarCall"
+}

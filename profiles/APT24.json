@@ -1,0 +1,32 @@
+{
+    "description": "The Pitty Tiger group has been active since at least 2011. They have been seen using HeartBleed vulnerability in order to directly get valid credentials",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "http://blog.airbuscybersecurity.com/post/2014/07/The-Eye-of-the-Tiger2",
+            "http://blog.cassidiancybersecurity.com/post/2014/07/The-Eye-of-the-Tiger2",
+            "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/2014.07.11.Pitty_Tiger/Pitty_Tiger_Final_Report.pdf",
+            "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/targeted-attacks-on-french-company-exploit-multiple-word-vulnerabilities/",
+            "https://www.fireeye.com/blog/threat-research/2014/07/spy-of-the-tiger.html",
+            "https://attack.mitre.org/groups/G0011",
+            "https://www.mandiant.com/resources/insights/apt-groups"
+        ],
+        "synonyms": [
+            "PITTY PANDA",
+            "G0011",
+            "Temp.Pittytiger"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "fe98767f-9df8-42b9-83c9-004b1dec8647",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "4d37813c-b8e9-4e58-a758-03168d8aa189",
+    "value": "APT24"
+}

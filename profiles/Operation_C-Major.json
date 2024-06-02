@@ -1,0 +1,63 @@
+{
+    "description": "Group targeting Indian Army or related assets in India, as well as activists and civil society in Pakistan. Attribution to a Pakistani connection has been made by TrendMicro and others.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Pakistan",
+        "cfr-target-category": [
+            "Civil society",
+            "Military",
+            "Government"
+        ],
+        "country": "PK",
+        "refs": [
+            "http://documents.trendmicro.com/assets/pdf/Indian-military-personnel-targeted-by-information-theft-campaign-cmajor.pdf",
+            "https://www.proofpoint.com/sites/default/files/proofpoint-operation-transparent-tribe-threat-insight-en.pdf",
+            "https://www.amnesty.org/en/documents/asa33/8366/2018/en/",
+            "https://www.crowdstrike.com/blog/adversary-of-the-month-for-may/",
+            "https://unit42.paloaltonetworks.com/unit42-projectm-link-found-between-pakistani-actor-and-operation-transparent-tribe",
+            "https://mkd-cirt.mk/wp-content/uploads/2018/08/20181009_3_1_M-Trends2018-May-2018-compressed.pdf",
+            "https://nciipc.gov.in/documents/NCIIPC_Newsletter_July18.pdf",
+            "https://cysinfo.com/cyber-attack-targeting-cbi-and-possibly-indian-army-officials",
+            "https://s.tencent.com/research/report/669.html",
+            "https://www.fireeye.com/blog/threat-research/2016/06/apt_group_sends_spea.html",
+            "https://www.secureworks.com/research/threat-profiles/copper-fieldstone",
+            "https://www.trendmicro.com/en_us/research/22/a/investigating-apt36-or-earth-karkaddans-attack-chain-and-malware.html",
+            "https://www.sentinelone.com/labs/capratube-transparent-tribes-caprarat-mimics-youtube-to-hijack-android-phones/"
+        ],
+        "synonyms": [
+            "C-Major",
+            "Transparent Tribe",
+            "Mythic Leopard",
+            "ProjectM",
+            "APT36",
+            "APT 36",
+            "TMP.Lapis",
+            "Green Havildar",
+            "COPPER FIELDSTONE",
+            "Earth Karkaddan"
+        ],
+        "targeted-sector": [
+            "Activists",
+            "Civil society",
+            "Military"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "2a410eea-a9da-11e8-b404-37b7060746c8",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "084517bc-b8e7-5c86-a218-3f19e1379f3e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "acbb5cad-ffe7-4b0e-a57a-2dbc916e8905",
+    "value": "Operation C-Major"
+}

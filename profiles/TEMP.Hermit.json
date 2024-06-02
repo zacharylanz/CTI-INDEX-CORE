@@ -1,0 +1,11 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "KP",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2018/02/attacks-leveraging-adobe-zero-day.html"
+        ]
+    },
+    "uuid": "73c636ae-e55c-4167-bf40-315789698adb",
+    "value": "TEMP.Hermit"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "In December 2020, the IT management software provider SolarWinds announced that an unidentified threat actor had exploited a vulnerability in their Orion Platform software to deploy a web shell dubbed SUPERNOVA. CTU researchers track the operators of the SUPERNOVA web shell as BRONZE SPIRAL and assess with low confidence that the group is of Chinese origin. SUPERNOVA was likely deployed through exploitation of CVE-2020-10148, and CTU researchers observed post-exploitation reconnaissance commands roughly 30 minutes before the web shell was deployed. This may have been indicative of the threat actor conducting scan-and-exploit activity and then triaging for victims of particular interest, before deploying SUPERNOVA and attempting to dump credentials and move laterally.\n\nBRONZE SPIRAL has been associated with previous intrusions involving the targeting of ManageEngine servers, maintenance of long-term access to periodically harvest credentials and exfiltrate data, and espionage or theft of intellectual property. The threat group makes extensive use of native system tools and 'living off the land' techniques.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://unit42.paloaltonetworks.com/solarstorm-supernova",
+            "https://www.guidepointsecurity.com/blog/supernova-solarwinds-net-webshell-analysis",
+            "https://www.secureworks.com/blog/supernova-web-shell-deployment-linked-to-spiral-threat-group",
+            "https://www.sentinelone.com/labs/solarwinds-understanding-detecting-the-supernova-webshell-trojan",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar21-027a",
+            "https://www.cisa.gov/news-events/analysis-reports/ar21-112a"
+        ]
+    },
+    "uuid": "3f04dbbc-69bc-409b-82a1-6135f0b6a41c",
+    "value": "BRONZE SPIRAL"
+}

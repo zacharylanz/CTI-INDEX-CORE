@@ -1,0 +1,11 @@
+{
+    "description": "\u2022 APT43 is a prolific cyber operator that supports the interests of the North Korean regime. The group combines moderately-sophisticated technical capabilities with aggressive social engineering tactics, especially against South Korean and U.S.-based government organizations, academics, and think tanks focused on Korean peninsula geopolitical issues. \n\u2022 In addition to its espionage campaigns, we believe APT43 funds itself through cybercrime operations to support its primary mission of collecting strategic intelligence. \n\u2022 The group creates numerous spoofed and fraudulent personas for use in social engineering, as well as cover identities for purchasing operational tooling and infrastructure. \n\u2022 APT43 has collaborated with other North Korean espionage operators on multiple operations, underscoring the major role APT43 plays in the regime\u2019s cyber apparatus.",
+    "meta": {
+        "refs": [
+            "https://www.mandiant.com/resources/blog/apt43-north-korea-cybercrime-espionage",
+            "https://mandiant.widen.net/s/zvmfw5fnjs/apt43-report"
+        ]
+    },
+    "uuid": "aac49b4e-74e9-49fa-84f9-e340cf8bafbc",
+    "value": "APT43"
+}

@@ -1,0 +1,27 @@
+{
+    "description": "This threat actor targets organizations in the satellite communications, telecommunications, geospatial-imaging, and defense sectors in the United States and Southeast Asia for espionage purposes.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/thrip",
+            "https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets",
+            "https://attack.mitre.org/groups/G0076/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://cyberthreat.thalesgroup.com/sites/default/files/2022-05/THALES%20THREAT%20HANDBOOK%202022%20Light%20Version_1.pdf"
+        ],
+        "synonyms": [
+            "G0076",
+            "ATK78"
+        ]
+    },
+    "uuid": "98be4300-a9ef-11e8-9a95-bb9221083cfc",
+    "value": "Thrip"
+}

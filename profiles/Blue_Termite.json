@@ -1,0 +1,26 @@
+{
+    "description": "Blue Termite is a group of suspected Chinese origin active in Japan.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+            "Japan"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/",
+            "https://www.cfr.org/interactive/cyber-operations/blue-termite"
+        ],
+        "synonyms": [
+            "Cloudy Omega",
+            "Emdivi"
+        ]
+    },
+    "uuid": "a250af72-f66c-4d02-9f36-ab764ce9fe85",
+    "value": "Blue Termite"
+}

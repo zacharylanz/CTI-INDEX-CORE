@@ -1,0 +1,10 @@
+{
+    "description": "TA547 is responsible for many other campaigns since at least November 2017. The other campaigns by the actor were often localized to countries such as Australia, Germany, the United Kingdom, and Italy. Delivered malware included ZLoader (a.k.a. Terdot), Gootkit, Ursnif, Corebot, Panda Banker, Atmos, Mazar Bot, and Red Alert Android malware.",
+    "meta": {
+        "refs": [
+            "https://www.thaicert.or.th/downloads/files/Threat_Group_Cards_v2.0.pdf"
+        ]
+    },
+    "uuid": "29fbc8d4-1e6e-4edc-9887-bdf47f36e4c1",
+    "value": "TA547"
+}

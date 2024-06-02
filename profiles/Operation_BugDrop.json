@@ -1,0 +1,23 @@
+{
+    "description": "This threat actor targets critical infrastructure entities in the oil and gas sector, primarily in Ukraine. The threat actors deploy the BugDrop malware to remotely access the microphones in their targets' computers to eavesdrop on conversations.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "Ukraine",
+            "Austria",
+            "Russia",
+            "Saudi Arabia"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/operation-bugdrop"
+        ]
+    },
+    "uuid": "75ae52b2-bca3-11e8-af90-a78f33eee6c1",
+    "value": "Operation BugDrop"
+}

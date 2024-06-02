@@ -1,0 +1,16 @@
+{
+    "description": "This threat actor initially came to our attention in April 2018, leveraging both Western and Chinese Git repositories to deliver malware to honeypot systems vulnerable to an Apache Struts vulnerability.\nIn late July, we became aware that the same actor was engaged in another similar campaign. Through our investigation into this new campaign, we were able to uncover more details about the actor.",
+    "meta": {
+        "refs": [
+            "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html",
+            "https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/",
+            "https://www.intezer.com/blog-technical-analysis-cryptocurrency-mining-war-on-the-cloud/",
+            "https://unit42.paloaltonetworks.com/atoms/agedlibra/"
+        ],
+        "synonyms": [
+            "Aged Libra"
+        ]
+    },
+    "uuid": "53583c40-935e-11e9-b4fc-d7e217a306d2",
+    "value": "Rocke"
+}

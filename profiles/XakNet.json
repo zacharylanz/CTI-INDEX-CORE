@@ -1,0 +1,17 @@
+{
+    "description": "XakNet is a self-proclaimed hacktivist group that has targeted Ukraine. They claim to be comprised of Russian patriotic volunteers and have conducted various threat activities, including DDoS attacks, compromises, data leaks, and website defacements. They coordinate their operations with other hacktivist groups and have connections to APT28, a cyber espionage group sponsored by the GRU.",
+    "meta": {
+        "country": "RU",
+        "refs": [
+            "https://www.mandiant.com/resources/blog/gru-rise-telegram-minions",
+            "https://www.mandiant.com/resources/blog/gru-disruptive-playbook",
+            "https://cip.gov.ua/services/cm/api/attachment/download?id=60068"
+        ],
+        "synonyms": [
+            "UAC-0100",
+            "UAC-0106"
+        ]
+    },
+    "uuid": "566752f5-a294-4430-b47e-8e705f9887ea",
+    "value": "XakNet"
+}

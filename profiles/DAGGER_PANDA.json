@@ -1,0 +1,44 @@
+{
+    "description": "Operate since at least 2011, from several locations in China, with  members in Korea and Japan as well. Possibly linked to Onion Dog. This threat actor targets government institutions, military contractors, maritime and shipbuilding groups, telecommunications operators, and others, primarily in Japan and South Korea.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "South Korea",
+            "United States",
+            "Japan",
+            "Germany",
+            "China"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://securelist.com/the-icefog-apt-a-tale-of-cloak-and-three-daggers/57331/",
+            "https://securelist.com/the-icefog-apt-hits-us-targets-with-java-backdoor/58209/",
+            "https://www.cfr.org/interactive/cyber-operations/icefog",
+            "https://d2538mqrb7brka.cloudfront.net/wp-content/uploads/sites/43/2018/03/20133739/icefog.pdf",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",
+            "https://go.recordedfuture.com/hubfs/reports/cta-2021-0616.pdf"
+        ],
+        "synonyms": [
+            "IceFog",
+            "Trident",
+            "RedFoxtrot",
+            "Red Wendigo",
+            "PLA Unit 69010"
+        ],
+        "targeted-sector": [
+            "Other",
+            "Maritime",
+            "Military",
+            "Government, Administration",
+            "Telecoms"
+        ]
+    },
+    "uuid": "32c534b9-abec-4823-b223-a810f897b47b",
+    "value": "DAGGER PANDA"
+}

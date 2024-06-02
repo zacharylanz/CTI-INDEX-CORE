@@ -1,0 +1,18 @@
+{
+    "description": "Since 2017, Mandiant has been tracking FIN13, an industrious and versatile financially motivated threat actor conducting long-term intrusions in Mexico with an activity timeframe stretching back as early as 2016. Although their operations continue through the present day, in many ways FIN13's intrusions are like a time capsule of traditional financial cybercrime from days past. Instead of today's prevalent smash-and-grab ransomware groups, FIN13 takes their time to gather information to perform fraudulent money transfers. Rather than relying heavily on attack frameworks such as Cobalt Strike, the majority of FIN13 intrusions involve heavy use of custom passive backdoors and tools to lurk in environments for the long haul.",
+    "meta": {
+        "country": "RU",
+        "refs": [
+            "https://www.mandiant.com/resources/fin13-cybercriminal-mexico",
+            "https://blog.sygnia.co/elephant-beetle-an-organized-financial-theft-operation",
+            "https://f.hubspotusercontent30.net/hubfs/8776530/Sygnia-%20Elephant%20Beetle_Jan2022.pdf",
+            "https://www.netwitness.com/wp-content/uploads/FIN13-Elephant-Beetle-NetWitness.pdf"
+        ],
+        "synonyms": [
+            "TG2003",
+            "Elephant Beetle"
+        ]
+    },
+    "uuid": "60fa684d-c738-4b77-98fb-3f6605e2bb82",
+    "value": "FIN13"
+}

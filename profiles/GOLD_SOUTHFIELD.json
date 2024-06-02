@@ -1,0 +1,13 @@
+{
+    "description": "GOLD SOUTHFIELD is a financially motivated cybercriminal threat group that authors and operates the REvil (aka Sodinokibi) ransomware on behalf of various affiliated threat groups. Operational since April 2019, the group obtained the GandCrab source code from GOLD GARDEN, the operators of GandCrab that voluntarily withdrew their ransomware from underground markets in May 2019. GOLD SOUTHFIELD is responsible for authoring REvil and operating the backend infrastructure used by affiliates (also called partners) to create malware builds and to collect ransom payments from victims. CTU researchers assess with high confidence that GOLD SOUTHFIELD is a former GandCrab affiliate and continues to work with other former GandCrab affiliates.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-southfield",
+            "https://www.secureworks.com/research/revil-sodinokibi-ransomware",
+            "https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic",
+            "https://www.secureworks.com/blog/revil-the-gandcrab-connection"
+        ]
+    },
+    "uuid": "262c8537-1cdb-4297-aa3e-1410164160bf",
+    "value": "GOLD SOUTHFIELD"
+}

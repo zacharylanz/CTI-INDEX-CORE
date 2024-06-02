@@ -1,0 +1,107 @@
+{
+    "description": "A 2015 report by F-Secure describe APT29 as: 'The Dukes are a well-resourced, highly dedicated and organized cyberespionage group that we believe has been working for the Russian Federation since at least 2008 to collect intelligence in support of foreign and security policy decision-making. The Dukes show unusual confidence in their ability to continue successfully compromising their targets, as well as in their ability to operate with impunity. The Dukes primarily target Western governments and related organizations, such as government ministries and agencies, political think tanks, and governmental subcontractors. Their targets have also included the governments of members of the Commonwealth of Independent States;Asian, African, and Middle Eastern governments;organizations associated with Chechen extremism;and Russian speakers engaged in the illicit trade of controlled substances and drugs. The Dukes are known to employ a vast arsenal of malware toolsets, which we identify as MiniDuke, CosmicDuke, OnionDuke, CozyDuke, CloudDuke, SeaDuke, HammerDuke, PinchDuke, and GeminiDuke. In recent years, the Dukes have engaged in apparently biannual large - scale spear - phishing campaigns against hundreds or even thousands of recipients associated with governmental institutions and affiliated organizations. These campaigns utilize a smash - and - grab approach involving a fast but noisy breakin followed by the rapid collection and exfiltration of as much data as possible.If the compromised target is discovered to be of value, the Dukes will quickly switch the toolset used and move to using stealthier tactics focused on persistent compromise and long - term intelligence gathering. This threat actor targets government ministries and agencies in the West, Central Asia, East Africa, and the Middle East; Chechen extremist groups; Russian organized crime; and think tanks. It is suspected to be behind the 2015 compromise of unclassified networks at the White House, Department of State, Pentagon, and the Joint Chiefs of Staff. The threat actor includes all of the Dukes tool sets, including MiniDuke, CosmicDuke, OnionDuke, CozyDuke, SeaDuke, CloudDuke (aka MiniDionis), and HammerDuke (aka Hammertoss). '",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "United States",
+            "China",
+            "New Zealand",
+            "Ukraine",
+            "Romania",
+            "Georgia",
+            "Japan",
+            "South Korea",
+            "Belgium",
+            "Kazakhstan",
+            "Brazil",
+            "Mexico",
+            "Turkey",
+            "Portugal",
+            "India",
+            "Germany"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://labsblog.f-secure.com/2015/09/17/the-dukes-7-years-of-russian-cyber-espionage/",
+            "https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf",
+            "https://www.us-cert.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+            "https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html",
+            "https://www.cfr.org/interactive/cyber-operations/dukes",
+            "https://pylos.co/2018/11/18/cozybear-in-from-the-cold/",
+            "https://cloudblogs.microsoft.com/microsoftsecure/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/",
+            "https://www.secureworks.com/research/threat-profiles/iron-hemlock",
+            "https://attack.mitre.org/groups/G0016",
+            "https://unit42.paloaltonetworks.com/atoms/cloaked-ursa/",
+            "https://go.recordedfuture.com/hubfs/reports/cta-2023-0127.pdf",
+            "https://cip.gov.ua/services/cm/api/attachment/download?id=60068"
+        ],
+        "synonyms": [
+            "Group 100",
+            "COZY BEAR",
+            "The Dukes",
+            "Minidionis",
+            "SeaDuke",
+            "YTTRIUM",
+            "IRON HEMLOCK",
+            "Grizzly Steppe",
+            "G0016",
+            "ATK7",
+            "Cloaked Ursa",
+            "TA421",
+            "Blue Kitsune",
+            "ITG11",
+            "BlueBravo",
+            "Nobelium",
+            "UAC-0029"
+        ],
+        "targeted-sector": [
+            "Think Tanks",
+            "Government, Administration"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "899ce53f-13a0-479b-a0e4-67d46e241542",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "0125ef58-2675-426f-90eb-0b189961199a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "f169f0b3-fe4d-40e5-a443-2561c98eb67e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "2d5072db-64e2-4d81-9b3a-3aa76cfa978b",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "31982812-c8bf-5e85-b0ba-0c64a7d05d20",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "b2056ff0-00b9-482e-b11c-c771daa5f28a",
+    "value": "APT29"
+}

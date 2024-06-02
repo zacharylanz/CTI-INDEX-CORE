@@ -1,0 +1,11 @@
+{
+    "description": "GOLD EVERGREEN was a financially motivated cybercriminal threat group that operated the Gameover Zeus (aka Mapp, P2P Zeus) botnet until June 2014. It encompasses an expansive and long running criminal conspiracy operated by a confederation of individuals calling themselves The Business Club from the mid 2000s until 2014. GOLD EVERGREEN's technical operation was facilitated primarily through botnets using the Zeus, JabberZeus, and eventually Gameover Zeus malware families. These malware families were designed and maintained by a Russian national Evgeniy Bogachev (aka 'slavik') who was indicted by the U.S. DOJ in 2014 and remains a fugitive.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-evergreen",
+            "https://www.secureworks.com/research/evolution-of-the-gold-evergreen-threat-group"
+        ]
+    },
+    "uuid": "fc1c1d9f-1432-417f-a3bf-e730ddd1d139",
+    "value": "GOLD EVERGREEN"
+}

@@ -1,0 +1,11 @@
+{
+    "description": "TAG-28 is a Chinese state-sponsored threat actor that has been targeting Indian organizations, including media conglomerates and government agencies. They have been using the Winnti malware, which is commonly shared among Chinese state-sponsored groups. TAG-28's main objective is to gather intelligence on Indian targets, potentially for espionage purposes.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://www.recordedfuture.com/blog/china-linked-tag-28-targets-indias-the-times-group"
+        ]
+    },
+    "uuid": "6c706d8b-95a4-428d-9de5-b68b29b1893c",
+    "value": "TAG-28"
+}

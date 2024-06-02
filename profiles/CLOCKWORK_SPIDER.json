@@ -1,0 +1,11 @@
+{
+    "description": "Opportunistic actor that installs custom root certificate on victim to support man-in-the-middle network monitoring.",
+    "meta": {
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://na.eventscloud.com/file_uploads/6568237bca6dc156e5c5557c5989e97c_CrowdStrikeFal.Con2019_ThroughEyesOfAdversary_J.Ayers.pdf"
+        ]
+    },
+    "uuid": "2d2f3b53-c544-4823-a65f-da53ff8f594e",
+    "value": "CLOCKWORK SPIDER"
+}

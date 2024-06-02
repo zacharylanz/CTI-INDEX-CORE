@@ -1,0 +1,34 @@
+{
+    "description": "BRONZE STARLIGHT has been active since mid 2021 and targets organizations globally across a range of industry verticals. The group leverages HUI Loader to load Cobalt Strike and PlugX payloads for command and control. CTU researchers have observed BRONZE STARLIGHT deploying ransomware to compromised networks as part of name-and-shame ransomware schemes, and posted victim names to leak sites. \nCTU researchers assess with moderate confidence that BRONZE STARLIGHT is located in China based on observed tradecraft, including the use of HUI Loader and PlugX which are associated with China-based threat group activity. It is plausible that BRONZE STARLIGHT deploys ransomware as a smokescreen rather than for financial gain, with the underlying motivation of stealing intellectual property theft or conducting espionage.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf",
+            "https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself",
+            "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation",
+            "https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility",
+            "https://twitter.com/cglyer/status/1480734487000453121",
+            "https://blog.sygnia.co/revealing-emperor-dragonfly-a-chinese-ransomware-group",
+            "https://www.sentinelone.com/labs/chinese-entanglement-dll-hijacking-in-the-asian-gambling-sector/",
+            "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/",
+            "https://www.secureworks.com/research/bronze-starlight-ransomware-operations-use-hui-loader"
+        ],
+        "synonyms": [
+            "SLIME34",
+            "DEV-0401",
+            "Cinnamon Tempest",
+            "Emperor Dragonfly"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "43fe584d-88e5-5f2b-a9fd-a866e62040bb",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "737c0207-1a1a-4480-86e7-b6a5066e1ee5",
+    "value": "BRONZE STARLIGHT"
+}

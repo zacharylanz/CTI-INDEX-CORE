@@ -1,0 +1,48 @@
+{
+    "description": "China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors. This threat actor targets prodemocratic activists and organizations in Hong Kong, European and international financial institutions, and a U.S.-based think tank.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Hong Kong",
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2013/10/know-your-enemy-tracking-a-rapidly-evolving-apt-actor.html",
+            "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "https://www.cfr.org/interactive/cyber-operations/admin338",
+            "https://attack.mitre.org/groups/G0018/"
+        ],
+        "synonyms": [
+            "Admin338",
+            "Team338",
+            "MAGNESIUM",
+            "admin@338",
+            "G0018"
+        ],
+        "targeted-sector": [
+            "Activists",
+            "Trade",
+            "Finance",
+            "Political party"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "16ade1aa-0ea1-4bb7-88cc-9079df2ae756",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "ac4bce1f-b3ec-4c44-bd36-b6cc986b319b",
+    "value": "TEMPER PANDA"
+}

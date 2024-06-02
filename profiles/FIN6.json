@@ -1,0 +1,48 @@
+{
+    "description": "FIN is a group targeting financial assets including assets able to do financial transaction including PoS.",
+    "meta": {
+        "refs": [
+            "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
+            "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
+            "https://attack.mitre.org/groups/G0037/",
+            "https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/",
+            "http://www.secureworks.com/research/threat-profiles/gold-franklin",
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+        ],
+        "synonyms": [
+            "SKELETON SPIDER",
+            "ITG08",
+            "MageCart Group 6",
+            "White Giant",
+            "GOLD FRANKLIN",
+            "ATK88",
+            "G0037",
+            "Camouflage Tempest"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "2a7914cf-dff3-428d-ab0f-1014d1c28aeb",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "1cdbbcab-903a-414d-8eb0-439a97343737",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "3126bd2c-3d04-5174-ad03-40136b94f574",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "647894f6-1723-4cba-aba4-0ef0966d5302",
+    "value": "FIN6"
+}

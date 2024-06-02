@@ -1,0 +1,21 @@
+{
+    "description": "This threat actor targets organizations in the finance, defense, aerospace, technology, health-care, and automotive sectors and media organizations in East Asia for the purpose of espionage. Believed to be responsible for the targeting of South Korean actors prior to the meeting of Donald J. Trump and Kim Jong-un",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "South Korea",
+            "Japan"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/temptick"
+        ]
+    },
+    "uuid": "3f3ff6de-a6a7-11e8-92b4-3743eb1c7762",
+    "value": "TempTick"
+}

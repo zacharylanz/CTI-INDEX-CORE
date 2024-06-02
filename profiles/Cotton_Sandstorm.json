@@ -1,0 +1,40 @@
+{
+    "description": "Cotton Sandstorm is an Iranian threat actor involved in hack-and-leak operations. They have targeted various organizations, including the French satirical magazine Charlie Hebdo, where they obtained and leaked personal information of over 200,000 customers. The group has been linked to the Iranian government and has been sanctioned by the US Treasury",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "United States",
+            "Israel",
+            "Middle East",
+            "Europe"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Finance",
+            "High-Tech",
+            "Telecoms",
+            "NGOs",
+            "Civil Society",
+            "Rail",
+            "Energy"
+        ],
+        "cfr-type-of-incident": "Information Operations",
+        "country": "IR",
+        "refs": [
+            "https://blog.sekoia.io/iran-cyber-threat-overview/",
+            "https://blogs.microsoft.com/on-the-issues/2023/02/03/dtac-charlie-hebdo-hack-iran-neptunium/",
+            "https://www.ic3.gov/Media/News/2022/220126.pdf",
+            "https://www.microsoft.com/en-us/security/business/security-insider/threat-briefs/iran-response-for-charlie-hebdo-attacks/",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "Emennet Pasargad",
+            "Holy Souls",
+            "MARNANBRIDGE",
+            "NEPTUNIUM"
+        ]
+    },
+    "uuid": "bbb389f2-344f-4ca8-a9c9-902061f88deb",
+    "value": "Cotton Sandstorm"
+}

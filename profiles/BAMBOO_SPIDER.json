@@ -1,0 +1,11 @@
+{
+    "description": "Crowdstrike tracks the developer of Panda Zeus as BAMBOO SPIDER",
+    "meta": {
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf",
+            "https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/"
+        ]
+    },
+    "uuid": "419599eb-c1ea-4d32-8c9e-0ad61d7c5ba5",
+    "value": "BAMBOO SPIDER"
+}

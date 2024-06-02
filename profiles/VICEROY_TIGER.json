@@ -1,0 +1,46 @@
+{
+    "description": "VICEROY TIGER is an adversary with a nexus to India that has historically targeted entities throughout multiple sectors. Older activity targeted multiple sectors and countries; however, since 2015 this adversary appears to focus on entities in Pakistan with a particular focus on government and security organizations. This adversary consistently leverages spear phishing emails containing malicious Microsoft Office documents, malware designed to target the Android mobile platform, and phishing activity designed to harvest user credentials. In March 2017, the 360 Chasing Team found a sample of targeted attacks that confirmed the previously unknown sample of APT's attack actions, which the organization can now trace back at least in April 2016. The chasing team named the attack organization APT-C-35. In June 2017, the 360 Threat Intelligence Center discovered the organization\u2019s new attack activity, confirmed and exposed the gang\u2019s targeted attacks against Pakistan, and analyzed in detail. The unique EHDevel malicious code framework used by the organization.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-victims": [
+            "Germany"
+        ],
+        "country": "IN",
+        "refs": [
+            "https://github.com/jack8daniels2/threat-INTel/blob/master/2013/Unveiling-an-Indian-Cyberattack-Infrastructure-appendixes.pdf",
+            "https://ti.360.net/blog/articles/latest-activity-of-apt-c-35/",
+            "https://www.netscout.com/blog/asert/donot-team-leverages-new-modular-malware-framework-south-asia",
+            "https://ti.360.net/blog/articles/donot-group-is-targeting-pakistani-businessman-working-in-china-en/",
+            "https://www.crowdstrike.com/blog/viceroy-tiger-delivers-new-zero-day-exploit/index.html",
+            "https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/",
+            "https://unit42.paloaltonetworks.com/threat-assessment-hangover-threat-group/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://blog.cyble.com/2021/07/22/donot-apt-group-delivers-a-spyware-variant-of-chat-app/",
+            "https://adversary.crowdstrike.com/en-US/adversary/viceroy-tiger",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html"
+        ],
+        "synonyms": [
+            "OPERATION HANGOVER",
+            "Donot Team",
+            "APT-C-35",
+            "SectorE02",
+            "Orange Kala"
+        ],
+        "targeted-sector": [
+            "Government, Administration",
+            "Security Service"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "231a81cd-4e24-590b-b084-1a4715b30d67",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "e2b87f81-a6a1-4524-b03f-193c3191d239",
+    "value": "VICEROY TIGER"
+}

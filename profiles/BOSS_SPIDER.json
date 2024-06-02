@@ -1,0 +1,18 @@
+{
+    "description": "Throughout 2018, CrowdStrike Intelligence tracked BOSS SPIDER as it regularly updated Samas ransomware and received payments to known Bitcoin (BTC) addresses. This consistent pace of activity came to an abrupt halt at the end of November 2018 when the U.S. DoJ released an indictment for Iran-based individuals Faramarz Shahi Savandi and Mohammad Mehdi Shah Mansouri, alleged members of the group.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
+            "https://www.secureworks.com/research/threat-profiles/gold-lowell",
+            "https://www.secureworks.com/blog/samsam-converting-opportunity-into-profit",
+            "https://www.secureworks.com/blog/samas-ransomware",
+            "https://www.secureworks.com/blog/ransomware-deployed-by-adversary",
+            "https://www.secureworks.com/research/samsam-ransomware-campaigns"
+        ],
+        "synonyms": [
+            "GOLD LOWELL"
+        ]
+    },
+    "uuid": "d6a13387-4c98-4a0c-a516-6c36c081b64c",
+    "value": "BOSS SPIDER"
+}

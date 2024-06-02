@@ -1,0 +1,38 @@
+{
+    "description": "Sowbug has been conducting highly targeted cyber attacks against organizations in South America and Southeast Asia and appears to be heavily focused on foreign policy institutions and diplomatic targets. Sowbug has been seen mounting classic espionage attacks by stealing documents from the organizations it infiltrates. ",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+            "Argentina",
+            "Ecuador",
+            "Brazil",
+            "Brunei",
+            "Peru",
+            "Malaysia"
+        ],
+        "cfr-target-category": [
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments",
+            "https://www.cfr.org/interactive/cyber-operations/sowbug",
+            "https://attack.mitre.org/groups/G0054/"
+        ],
+        "synonyms": [
+            "G0054"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "d1acfbb3-647b-4723-9154-800ec119006e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "1ca3b039-404e-4132-88c2-4e41235cd2f5",
+    "value": "Sowbug"
+}

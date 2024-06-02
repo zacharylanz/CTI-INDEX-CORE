@@ -1,0 +1,10 @@
+{
+    "description": "GOLD MANSARD is a financially motivated cybercriminal threat group that operated the Nemty ransomware from August 2019. The threat actor behind Nemty is known on Russian underground forums as 'jsworm'. Nemty was operated as a ransomware as a service (RaaS) affiliate program and featured a 'name and shame' website where exfiltrated victim data was leaked. In April 2020, jsworm appeared to acquire new partners and retired the Nemty ransomware. This was followed by the introduction of Nefilim ransomware, which does not operate as an affiliate model. Nefilim has been used in post-intrusion ransomware attacks against organizations in logistics, telecommunications, energy and other sectors.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-mansard"
+        ]
+    },
+    "uuid": "bda575ed-5066-4625-98ef-938bbffddc00",
+    "value": "GOLD MANSARD"
+}

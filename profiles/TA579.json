@@ -1,0 +1,10 @@
+{
+    "description": "TA579, a threat actor that Proofpoint researchers have been tracking since August 2021. This actor frequently delivered BazaLoader and IcedID in past campaigns.",
+    "meta": {
+        "refs": [
+            "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming"
+        ]
+    },
+    "uuid": "7ab283ac-b78f-42db-b564-0550b9637b0b",
+    "value": "TA579"
+}

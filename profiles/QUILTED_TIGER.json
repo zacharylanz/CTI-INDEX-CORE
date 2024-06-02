@@ -1,0 +1,75 @@
+{
+    "description": "Dropping Elephant (also known as \u201cChinastrats\u201d and \u201cPatchwork\u201c) is a relatively new threat actor that is targeting a variety of high profile diplomatic and economic targets using a custom set of attack tools. Its victims are all involved with China\u2019s foreign relations in some way, and are generally caught through spear-phishing or watering hole attacks.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "India",
+        "cfr-suspected-victims": [
+            "Bangladesh",
+            "Sri Lanka",
+            "Pakistan"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IN",
+        "refs": [
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=09308982-77bd-41e0-8269-f2cc9ce3266e&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://www.forcepoint.com/blog/x-labs/monsoon-analysis-apt-campaign",
+            "https://www.cymmetria.com/patchwork-targeted-attack/",
+            "https://s3-us-west-2.amazonaws.com/cymmetria-blog/public/Unveiling_Patchwork.pdf",
+            "https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/",
+            "https://attack.mitre.org/groups/G0040/",
+            "https://documents.trendmicro.com/assets/tech-brief-untangling-the-patchwork-cyberespionage-group.pdf",
+            "https://securelist.com/the-dropping-elephant-actor/75328/",
+            "https://www.forcepoint.com/sites/default/files/resources/files/forcepoint-security-labs-monsoon-analysis-report.pdf",
+            "https://www.secureworks.com/research/threat-profiles/zinc-emerson",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",
+            "https://ti.qianxin.com/blog/articles/analysis-of-the-attack-activities-of-patchwork-using-the-documents-of-relevant-government-agencies-in-pakistan-as-bait",
+            "https://unit42.paloaltonetworks.com/atoms/thirstygemini/"
+        ],
+        "synonyms": [
+            "Chinastrats",
+            "Patchwork",
+            "Monsoon",
+            "Sarit",
+            "Dropping Elephant",
+            "APT-C-09",
+            "ZINC EMERSON",
+            "ATK11",
+            "G0040",
+            "Orange Athos",
+            "Thirsty Gemini"
+        ],
+        "targeted-sector": [
+            "Finance",
+            "Diplomacy"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "17862c7d-9e60-48a0-b48e-da4dc4c3f6b0",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "9559ecaf-2e75-48a7-aee8-9974020bc772",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "231a81cd-4e24-590b-b084-1a4715b30d67",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "18d473a5-831b-47a5-97a1-a32156299825",
+    "value": "QUILTED TIGER"
+}

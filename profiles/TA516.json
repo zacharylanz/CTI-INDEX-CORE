@@ -1,0 +1,10 @@
+{
+    "description": "This actor typically distributes instances of the SmokeLoader intermediate downloader, which, in turn, downloads additional malware of the actor\u2019s choice -- often banking Trojans. Figure 3 shows a lure document from a November campaign in which TA516 distributed fake resumes with malicious macros that, if enabled, launch a PowerShell script that downloads SmokeLoader. In this instance, we observed SmokeLoader downloading a Monero coinminer. Since the middle of 2017, TA516 has used similar macro-laden documents as well as malicious JavaScript hosted on Google Drive to distribute both Panda Banker and a coinminer executable via SmokeLoader, often in the same campaigns.",
+    "meta": {
+        "refs": [
+            "https://www.thaicert.or.th/downloads/files/Threat_Group_Cards_v2.0.pdf"
+        ]
+    },
+    "uuid": "0466bbf1-a187-4b3d-b558-a31e5ca11ea7",
+    "value": "TA516"
+}

@@ -1,0 +1,24 @@
+{
+    "description": "This threat actor compromises civil society groups the Chinese Communist Party views as hostile to its interests, such as Tibetan, Uyghur, Hong Kong, and Taiwanese activist. The threat actor also targeted the Myanmar electoral commission. ",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "China",
+            "Myanmar",
+            "Hong Kong",
+            "Taiwan"
+        ],
+        "cfr-target-category": [
+            "Civil society",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/unnamed-actor"
+        ]
+    },
+    "uuid": "bea5e256-bcc0-11e8-a478-bbf7e7585a1e",
+    "value": "Unnamed Actor"
+}

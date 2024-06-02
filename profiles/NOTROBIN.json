@@ -1,0 +1,11 @@
+{
+    "description": "Researchers at FireEye report finding a hacking group (dubbed NOTROBIN) that has been bundling mitigation code for NetScaler servers with its exploits. In effect, the hackers exploit the flaw to get access to the server, kill any existing malware, set up their own backdoor, then block off the vulnerable code from future exploit attempts by mitigation.",
+    "meta": {
+        "refs": [
+            "https://www.theregister.co.uk/2020/01/17/hackers_patch_citrix_vulnerability/",
+            "https://www.fireeye.com/blog/threat-research/2020/01/vigilante-deploying-mitigation-for-citrix-netscaler-vulnerability-while-maintaining-backdoor.html"
+        ]
+    },
+    "uuid": "21d08f2c-97b2-444e-be49-8457093b841a",
+    "value": "NOTROBIN"
+}

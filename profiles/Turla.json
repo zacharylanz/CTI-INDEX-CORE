@@ -1,0 +1,127 @@
+{
+    "description": "A 2014 Guardian article described Turla as: 'Dubbed the Turla hackers, initial intelligence had indicated western powers were key targets, but it was later determined embassies for Eastern Bloc nations were of more interest. Embassies in Belgium, Ukraine, China, Jordan, Greece, Kazakhstan, Armenia, Poland, and Germany were all attacked, though researchers from Kaspersky Lab and Symantec could not confirm which countries were the true targets. In one case from May 2012, the office of the prime minister of a former Soviet Union member country was infected, leading to 60 further computers being affected, Symantec researchers said. There were some other victims, including the ministry for health of a Western European country, the ministry for education of a Central American country, a state electricity provider in the Middle East and a medical organisation in the US, according to Symantec. It is believed the group was also responsible for a much - documented 2008 attack on the US Central Command. The attackers - who continue to operate - have ostensibly sought to carry out surveillance on targets and pilfer data, though their use of encryption across their networks has made it difficult to ascertain exactly what the hackers took.Kaspersky Lab, however, picked up a number of the attackers searches through their victims emails, which included terms such as Nato and EU energy dialogue Though attribution is difficult to substantiate, Russia has previously been suspected of carrying out the attacks and Symantecs Gavin O\u2019 Gorman told the Guardian a number of the hackers appeared to be using Russian names and language in their notes for their malicious code. Cyrillic was also seen in use.'",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "France",
+            "Romania",
+            "Kazakhstan",
+            "Poland",
+            "Tajikistan",
+            "Russia",
+            "United States",
+            "Saudi Arabia",
+            "Germany",
+            "India",
+            "Belarus",
+            "Netherlands",
+            "Iran",
+            "Uzbekistan",
+            "Iraq"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://www.circl.lu/pub/tr-25/",
+            "https://securelist.com/introducing-whitebear/81638/",
+            "https://securelist.com/the-epic-turla-operation/65545/",
+            "https://www.cfr.org/interactive/cyber-operations/turla",
+            "https://www.nytimes.com/2010/08/26/technology/26cyber.html",
+            "https://securelist.com/blog/research/67962/the-penquin-turla-2/",
+            "https://www.kaspersky.com/blog/moonlight-maze-the-lessons/6713/",
+            "https://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf",
+            "https://securelist.com/analysis/publications/65545/the-epic-turla-operation/",
+            "https://threatpost.com/linux-modules-connected-to-turla-apt-discovered/109765/",
+            "https://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/",
+            "https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/",
+            "https://www.first.org/resources/papers/tbilisi2014/turla-operations_and_development.pdf",
+            "https://yle.fi/uutiset/osasto/news/russian_group_behind_2013_foreign_ministry_hack/8591548",
+            "https://www.welivesecurity.com/2017/03/30/carbon-paper-peering-turlas-second-stage-backdoor/",
+            "https://securelist.com/blog/research/72081/satellite-turla-apt-command-and-control-in-the-sky/",
+            "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/",
+            "https://docs.broadcom.com/doc/waterbug-attack-group",
+            "https://www.theguardian.com/technology/2014/aug/07/turla-hackers-spying-governments-researcher-kaspersky-symantec",
+            "https://www.bleepingcomputer.com/news/security/turla-outlook-backdoor-uses-clever-tactics-for-stealth-and-persistence/",
+            "https://download.bitdefender.com/resources/files/News/CaseStudies/study/115/Bitdefender-Whitepaper-PAC-A4-en-EN1.pdf",
+            "https://www.melani.admin.ch/melani/en/home/dokumentation/reports/technical-reports/technical-report_apt_case_ruag.html",
+            "https://unit42.paloaltonetworks.com/unit42-kazuar-multiplatform-espionage-backdoor-api-access/",
+            "https://www.engadget.com/2017/06/07/russian-malware-hidden-britney-spears-instagram/",
+            "https://www.welivesecurity.com/wp-content/uploads/2017/08/eset-gazer.pdf",
+            "https://www.trendmicro.com/vinfo/vn/security/news/cyber-attacks/cyberespionage-group-turla-deploys-backdoor-ahead-of-g20-summit",
+            "https://www.zdnet.com/article/this-hacking-gang-just-updated-the-malware-it-uses-against-uk-targets/",
+            "https://attack.mitre.org/groups/G0010/",
+            "https://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on-the-apt-threat-scene/",
+            "https://www.secureworks.com/research/threat-profiles/iron-hunter",
+            "https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/",
+            "https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag",
+            "https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/",
+            "https://services.google.com/fh/files/blogs/google_fog_of_war_research_report.pdf",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html",
+            "https://cip.gov.ua/services/cm/api/attachment/download?id=60068"
+        ],
+        "synonyms": [
+            "Snake",
+            "VENOMOUS Bear",
+            "Group 88",
+            "Waterbug",
+            "WRAITH",
+            "Uroburos",
+            "Pfinet",
+            "TAG_0530",
+            "KRYPTON",
+            "Hippo Team",
+            "Pacifier APT",
+            "Popeye",
+            "SIG23",
+            "IRON HUNTER",
+            "MAKERSMARK",
+            "ATK13",
+            "G0010",
+            "ITG12",
+            "Blue Python",
+            "SUMMIT",
+            "UNC4210",
+            "Secret Blizzard",
+            "UAC-0144",
+            "UAC-0024",
+            "UAC-0003"
+        ],
+        "targeted-sector": [
+            "Government, Administration",
+            "Education",
+            "Electric",
+            "Energy",
+            "Health"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7a19ecb1-3c65-4de3-a230-993516aed6a6",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "c097471c-2405-4393-b6d7-afbcb5f0cd11",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "8d19da8a-d0fa-5194-ad6f-315cc4f36c8b",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "fa80877c-f509-4daf-8b62-20aba1635f68",
+    "value": "Turla"
+}

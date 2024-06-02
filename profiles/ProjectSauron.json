@@ -1,0 +1,55 @@
+{
+    "description": "ProjectSauron is the name for a top level modular cyber-espionage platform, designed to enable and manage long-term campaigns through stealthy survival mechanisms coupled with multiple exfiltration methods.  Technical details show how attackers learned from other extremely advanced actors in order to avoid repeating their mistakes. As such, all artifacts are customized per given target, reducing their value as indicators of compromise for any other victim.  Usually APT campaigns have a geographical nexus, aimed at extracting information within a specific region or from a given industry. That usually results in several infections in countries within that region, or in the targeted industry around the world. Interestingly, ProjectSauron seems to be dedicated to just a couple of countries, focused on collecting high value intelligence by compromising almost all key entities it could possibly reach within the target area.  The name, ProjectSauron reflects the fact that the code authors refer to \u2018Sauron\u2019 in the Lua scripts.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "United States",
+        "cfr-suspected-victims": [
+            "Russia",
+            "Iran",
+            "Belgium",
+            "China",
+            "Sweden",
+            "Rwanda"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "US",
+        "refs": [
+            "https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/",
+            "https://www.cfr.org/interactive/cyber-operations/project-sauron",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=ce2df4da-afe9-4a24-b28c-0fb3ba671d95&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07190154/The-ProjectSauron-APT_research_KL.pdf",
+            "https://attack.mitre.org/groups/G0041/"
+        ],
+        "synonyms": [
+            "Strider",
+            "Sauron",
+            "Project Sauron",
+            "G0041"
+        ],
+        "targeted-sector": [
+            "Intelligence"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "277d2f87-2ae5-4730-a3aa-50c1fdff9656",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "24ce266c-1860-5e04-a107-48d1d39f8ebf",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "f3179cfb-9c86-4980-bd6b-e4fa74adaaa7",
+    "value": "ProjectSauron"
+}

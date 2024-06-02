@@ -1,0 +1,12 @@
+{
+    "description": "Libyan Scorpions is a malware operation in use since September 2015 and operated by a politically motivated group whose main objective is intelligence gathering, spying on influentials and political figures and operate an espionage campaign within Libya.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "LY",
+        "targeted-sector": [
+            "Intelligence"
+        ]
+    },
+    "uuid": "815cbe98-e157-4078-9caa-c5a25dd64731",
+    "value": "Libyan Scorpions"
+}

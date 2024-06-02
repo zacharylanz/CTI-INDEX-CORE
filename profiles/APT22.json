@@ -1,0 +1,33 @@
+{
+    "description": "Suckfly is a China-based threat group that has been active since at least 2014",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=62e325ae-f551-4855-b9cf-28a7d52d1534&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=7a60af1f-7786-446c-976b-7c71a16e9d3b&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://attack.mitre.org/groups/G0039/",
+            "https://exchange.xforce.ibmcloud.com/collection/Suckfly-APT-aa8af56fd12d25c98fc49ca5341160ab",
+            "http://www.slideshare.net/CTruncer/ever-present-persistence-established-footholds-seen-in-the-wild",
+            "https://www.secureworks.com/research/threat-profiles/bronze-olive",
+            "https://www.mandiant.com/resources/insights/apt-groups"
+        ],
+        "synonyms": [
+            "G0039",
+            "Suckfly",
+            "BRONZE OLIVE",
+            "Group 46"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "5cbe0d3b-6fb1-471f-b591-4b192915116d",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "5abb12e7-5066-4f84-a109-49a037205c76",
+    "value": "APT22"
+}

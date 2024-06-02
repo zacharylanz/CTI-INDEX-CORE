@@ -1,0 +1,40 @@
+{
+    "description": "PLATINUM has been targeting its victims since at least as early as 2009, and may have been active for several years prior. Its activities are distinctly different not only from those typically seen in untargeted attacks, but from many targeted attacks as well. A large share of targeted attacks can be characterized as opportunistic: the activity group changes its target profiles and attack geographies based on geopolitical seasons, and may attack institutions all over the world. Like many such groups, PLATINUM seeks to steal sensitive intellectual property related to government interests, but its range of preferred targets is consistently limited to specific governmental organizations, defense institutes, intelligence agencies, diplomatic institutions, and telecommunication providers in South and Southeast Asia. The group\u2019s persistent use of spear phishing tactics (phishing attempts aimed at specific individuals) and access to previously undiscovered zero-day exploits have made it a highly resilient threat.",
+    "meta": {
+        "refs": [
+            "http://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf",
+            "https://blogs.technet.microsoft.com/mmpc/2016/04/26/digging-deep-for-platinum/",
+            "https://attack.mitre.org/groups/G0068/"
+        ],
+        "synonyms": [
+            "TwoForOne",
+            "G0068",
+            "ATK33"
+        ],
+        "targeted-sector": [
+            "Defense",
+            "Government, Administration",
+            "Diplomacy",
+            "Intelligence",
+            "Telecoms"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "f9c06633-dcff-48a1-8588-759e7cec5694",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "154e97b5-47ef-415a-99a6-2157f1b50339",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "1fc5671f-5757-43bf-8d6d-a9a93b03713a",
+    "value": "PLATINUM"
+}

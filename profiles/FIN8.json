@@ -1,0 +1,33 @@
+{
+    "description": "FIN8 is a financially motivated group targeting the retail, hospitality and entertainment industries. The actor had previously conducted several tailored spearphishing campaigns using the downloader PUNCHBUGGY and POS malware PUNCHTRACK.",
+    "meta": {
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html",
+            "https://www2.fireeye.com/WBNR-Know-Your-Enemy-UNC622-Spear-Phishing.html",
+            "https://www.root9b.com/sites/default/files/whitepapers/PoS%20Malware%20ShellTea%20PoSlurp.pdf",
+            "https://afyonluoglu.org/PublicWebFiles/Reports-TR/2017%20FireEye%20M-Trends%20Report.pdf",
+            "https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
+            "https://attack.mitre.org/groups/G0061"
+        ],
+        "synonyms": [
+            "ATK113",
+            "G0061"
+        ],
+        "targeted-sector": [
+            "Entertainment",
+            "Hospitality",
+            "Retail"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "fd19bd82-1b14-49a1-a176-6cdc46b8a826",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "a78ae9fe-71cd-4563-9213-7b6260bd9a73",
+    "value": "FIN8"
+}

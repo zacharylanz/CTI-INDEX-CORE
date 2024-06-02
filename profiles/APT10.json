@@ -1,0 +1,76 @@
+{
+    "description": "menuPass is a threat group that has been active since at least 2006. Individual members of menuPass are known to have acted in association with the Chinese Ministry of State Security's (MSS) Tianjin State Security Bureau and worked for the Huaying Haitai Science and Technology Development Company.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Japan",
+            "India",
+            "South Africa",
+            "South Korea",
+            "Sweden",
+            "United States",
+            "Canada",
+            "Australia",
+            "France",
+            "Finland",
+            "United Kingdom",
+            "Brazil",
+            "Thailand",
+            "Switzerland",
+            "Norway"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://unit42.paloaltonetworks.com/unit42-menupass-returns-new-malware-new-attacks-japanese-academics-organizations/",
+            "https://www.cfr.org/interactive/cyber-operations/apt-10",
+            "https://www.ncsc.gov.uk/content/files/protected_files/article_files/Joint%20report%20on%20publicly%20available%20hacking%20tools%20%28NCSC%29.pdf",
+            "https://www.pwc.co.uk/cyber-security/pdf/cloud-hopper-report-final-v4.pdf",
+            "https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html",
+            "https://www.eweek.com/security/chinese-nation-state-hackers-target-u.s-in-operation-tradesecret",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/chessmaster-cyber-espionage-campaign/",
+            "https://www.accenture.com/t20180423T055005Z_w_/se-en/_acnmedia/PDF-76/Accenture-Hogfish-Threat-Analysis.pdf",
+            "https://www.us-cert.gov/sites/default/files/publications/IR-ALERT-MED-17-093-01C-Intrusions_Affecting_Multiple_Victims_Across_Multiple_Sectors.pdf",
+            "https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html",
+            "https://www.fbi.gov/news/stories/chinese-hackers-indicted-122018",
+            "https://attack.mitre.org/groups/G0045/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-riverside",
+            "https://unit42.paloaltonetworks.com/atoms/granite-taurus",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf",
+            "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf",
+            "https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new"
+        ],
+        "synonyms": [
+            "STONE PANDAD",
+            "Menupass Team",
+            "happyyongzi",
+            "POTASSIUM",
+            "Red Apollo",
+            "CVNX",
+            "HOGFISH",
+            "Cloud Hopper",
+            "BRONZE RIVERSIDE",
+            "ATK41",
+            "G0045",
+            "Granite Taurus",
+            "TA429"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "222fbd21-fc4f-4b7e-9f85-0e6e3a76c33f",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "56b37b05-72e7-4a89-ba8a-61ce45269a8c",
+    "value": "APT10"
+}

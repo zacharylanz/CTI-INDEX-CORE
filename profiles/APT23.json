@@ -1,0 +1,37 @@
+{
+    "description": "TrendMicro described Tropic Trooper in a 2015 report as: 'Taiwan and the Philippines have become the targets of an ongoing campaign called Operation TropicTrooper. Active since 2012, the attackers behind the campaign haveset their sights on the Taiwanese government as well as a number of companies in the heavy industry. The same campaign has also targeted key Philippine military agencies.'",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://blog.rapid7.com/2013/06/07/keyboy-targeted-attacks-against-vietnam-and-india/",
+            "http://www.crowdstrike.com/blog/rhetoric-foreshadows-cyber-activity-in-the-south-china-sea/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "http://researchcenter.paloaltonetworks.com/2016/11/unit42-tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/",
+            "http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-tropic-trooper.pdf",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/",
+            "https://unit42.paloaltonetworks.com/unit42-tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/",
+            "https://blog.lookout.com/titan-mobile-threat",
+            "https://attack.mitre.org/groups/G0081/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-hobart",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf",
+            "https://www.trendmicro.com/en_us/research/21/l/collecting-in-the-dark-tropic-trooper-targets-transportation-and-government-organizations.html"
+        ],
+        "synonyms": [
+            "PIRATE PANDA",
+            "KeyBoy",
+            "Tropic Trooper",
+            "BRONZE HOBART",
+            "G0081",
+            "Red Orthrus",
+            "Earth Centaur"
+        ],
+        "targeted-sector": [
+            "Military",
+            "Government, Administration"
+        ]
+    },
+    "uuid": "7f16d1f5-04ee-4d99-abf0-87e1f23f9fee",
+    "value": "APT23"
+}

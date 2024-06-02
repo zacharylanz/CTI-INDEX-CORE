@@ -1,0 +1,13 @@
+{
+    "description": "On April 7, 2017, Pytor Levashov \u2014 who predominantly used the alias Severa or Peter Severa and whom Falcon Intelligence tracks as ZOMBIE SPIDER \u2014 was arrested in an international law enforcement operation led by the FBI. ZOMBIE SPIDER\u2019s specialty was large-scale spam distribution, a fundamental component of cybercrime operations. Levashov was the primary threat actor behind a botnet known as Kelihos and its predecessors, Waledac and Storm. In addition to Levashov\u2019s arrest, there was a technical operation conducted by Falcon Intelligence to seize control of the Kelihos botnet.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/blog/farewell-to-kelihos-and-zombie-spider/",
+            "https://www.crowdstrike.com/blog/inside-the-takedown-of-zombie-spider-and-the-kelihos-botnet/",
+            "https://www.justice.gov/opa/pr/justice-department-announces-actions-dismantle-kelihos-botnet-0",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf"
+        ]
+    },
+    "uuid": "e01b8f3a-9366-11e9-9c6f-17ba128aa4b6",
+    "value": "ZOMBIE SPIDER"
+}

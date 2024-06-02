@@ -1,0 +1,85 @@
+{
+    "description": "A Russian group that collects intelligence on the energy industry.",
+    "meta": {
+        "attribution-confidence": "75",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "United States",
+            "Germany",
+            "Turkey",
+            "China",
+            "Spain",
+            "France",
+            "Ireland",
+            "Japan",
+            "Italy",
+            "Poland"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://www.gov.uk/government/publications/russias-fsb-malign-cyber-activity-factsheet/russias-fsb-malign-activity-factsheet",
+            "https://web.archive.org/web/20161020180305/http://www.scmagazineuk.com/iran-and-russia-blamed-for-state-sponsored-espionage/article/330401/",
+            "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf",
+            "http://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans",
+            "https://threatpost.com/energy-watering-hole-attack-used-lightsout-exploit-kit/104772/",
+            "https://www.cfr.org/interactive/cyber-operations/crouching-yeti",
+            "https://www.reuters.com/article/us-ukraine-cyber-attack-energy-idUSKBN1521BA",
+            "https://dragos.com/wp-content/uploads/CrashOverride-01.pdf",
+            "https://www.independent.ie/irish-news/statesponsored-hackers-targeted-eirgrid-electricity-network-in-devious-attack-36005921.html",
+            "https://www.riskiq.com/blog/labs/energetic-bear/",
+            "https://symantec-blogs.broadcom.com/blogs/threat-intelligence/dragonfly-energy-sector-cyber-attacks",
+            "https://www.kaspersky.com/resource-center/threats/crouching-yeti-energetic-bear-malware-threat",
+            "https://www.sans.org/reading-room/whitepapers/ICS/impact-dragonfly-malware-industrial-control-systems-36672",
+            "https://attack.mitre.org/groups/G0035/",
+            "https://www.secureworks.com/research/resurgent-iron-liberty-targeting-energy-sector",
+            "https://dragos.com/adversaries.html",
+            "https://dragos.com/media/2017-Review-Industrial-Control-System-Threats.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/dymalloy"
+        ],
+        "synonyms": [
+            "BERSERK BEAR",
+            "ALLANITE",
+            "CASTLE",
+            "DYMALLOY",
+            "TG-4192",
+            "Dragonfly",
+            "Crouching Yeti",
+            "Group 24",
+            "Havex",
+            "Koala Team",
+            "IRON LIBERTY",
+            "G0035",
+            "ATK6",
+            "ITG15",
+            "BROMINE",
+            "Blue Kraken",
+            "Ghost Blizzard"
+        ],
+        "targeted-sector": [
+            "Energy"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "45d0f984-2b63-517b-922a-12924bcf4f68",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "64d6559c-6d5c-4585-bbf9-c17868f763ee",
+    "value": "ENERGETIC BEAR"
+}

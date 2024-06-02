@@ -1,0 +1,11 @@
+{
+    "description": "In less than two years, this group has conducted over 20 successful attacks on financial institutions and legal firms in the USA, UK and Russia. The group has primarily been targeting card processing systems, including the AWS CBR (Russian Interbank System) and purportedly SWIFT (US). Given the wide usage of STAR in LATAM, financial institutions in LATAM could have particular exposure to a potential interest from the MoneyTaker group.",
+    "meta": {
+        "refs": [
+            "https://www.bleepingcomputer.com/news/security/moneytaker-hacker-group-steals-millions-from-us-and-russian-banks/",
+            "https://www.group-ib.com/blog/moneytaker"
+        ]
+    },
+    "uuid": "7d78ec00-dfdc-4a80-a4da-63f1ae63bd7f",
+    "value": "MoneyTaker"
+}

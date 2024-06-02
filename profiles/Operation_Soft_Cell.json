@@ -1,0 +1,29 @@
+{
+    "description": "In 2018, the Cybereason Nocturnus team identified an advanced, persistent attack targeting global telecommunications providers carried out by a threat actor using tools and techniques commonly associated with Chinese-affiliated threat actors, such as APT10.  This multi-wave attacks focused on obtaining data of specific, high-value targets and resulted in a complete takeover of the network.",
+    "meta": {
+        "refs": [
+            "https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers"
+        ],
+        "threat-actor-classification": [
+            "operation"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "e400b6c5-77cf-453d-ba0f-44575583ac6c",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "6085aad0-1d95-11ea-a140-078d42aced40",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "8dda51ef-9a30-48f7-b0fd-5b6f0a62262d",
+    "value": "Operation Soft Cell"
+}

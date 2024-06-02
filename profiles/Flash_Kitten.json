@@ -1,0 +1,10 @@
+{
+    "description": "This suspected Iran-based adversary conducted long-running SWC campaigns from December 2016 until public disclosure in July 2018. Like other Iran-based actors, the target scope for FLASH KITTEN appears to be focused on the MENA region.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+        ]
+    },
+    "uuid": "6e899dd4-f95e-42a0-a5a3-e57249f017cf",
+    "value": "Flash Kitten"
+}

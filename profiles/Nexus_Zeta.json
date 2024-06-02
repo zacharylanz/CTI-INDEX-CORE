@@ -1,0 +1,10 @@
+{
+    "description": "Nexus Zeta is no stranger when it comes to implementing SOAP related exploits. The threat actor has already been observed in implementing two other known SOAP related exploits, CVE-2014\u20138361 and CVE-2017\u201317215 in his Satori botnet project. A third SOAP exploit, TR-069 bug has also been observed previously in IoT botnets. This makes EDB 38722 the fourth SOAP related exploit which is discovered in the wild by IoT botnets.",
+    "meta": {
+        "refs": [
+            "https://blog.newskysecurity.com/masuta-satori-creators-second-botnet-weaponizes-a-new-router-exploit-2ddc51cc52a7"
+        ]
+    },
+    "uuid": "8c21ce09-33c3-412c-bb55-323765e89a60",
+    "value": "Nexus Zeta"
+}
