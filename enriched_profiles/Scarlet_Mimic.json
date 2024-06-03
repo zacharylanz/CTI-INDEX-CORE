@@ -1,0 +1,45 @@
+{
+    "description": "Scarlet Mimic is a threat group that has targeted minority rights activists. This group has not been directly linked to a government source, but the group\u2019s motivations appear to overlap with those of the Chinese government. While there is some overlap between IP addresses used by Scarlet Mimic and Putter Panda, APT 2, it has not been concluded that the groups are the same.\nThe attacks began over four years ago and their targeting pattern suggests that this adversary\u2019s primary mission is to gather information about minority rights activists. We do not have evidence directly linking these attacks to a government source, but the information derived from these activities supports an assessment that a group or groups with motivations similar to the stated position of the Chinese government in relation to these targets is involved.\nThe attacks we attribute to Scarlet Mimic have primarily targeted Uyghur and Tibetan activists as well as those who are interested in their causes. Both the Tibetan community and the Uyghurs, a Turkic Muslim minority residing primarily in northwest China, have been targets of multiple sophisticated attacks in the past decade. Both also have history of strained relationships with the government of the People\u2019s Republic of China (PRC), though we do not have evidence that links Scarlet Mimic attacks to the PRC.\nScarlet Mimic attacks have also been identified against government organizations in Russia and India, who are responsible for tracking activist and terrorist activities. While we do not know the precise target of each of the Scarlet Mimic attacks, many of them align to the patterns described above.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://attack.mitre.org/wiki/Groups",
+            "https://unit42.paloaltonetworks.com/scarlet-mimic-years-long-espionage-targets-minority-activists/",
+            "https://attack.mitre.org/groups/G0029/",
+            "https://unit42.paloaltonetworks.com/atoms/golfing-taurus/"
+        ],
+        "synonyms": [
+            "G0029",
+            "Golfing Taurus"
+        ],
+        "targeted-sector": [
+            "Activists"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "c5574ca0-d5a4-490a-b207-e4658e5fd1d7",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "0da10682-85c6-4c0b-bace-ba1f7adfb63e",
+    "value": "Scarlet Mimic",
+    "mitre_attack_ids": [
+        "intrusion-set--c5574ca0-d5a4-490a-b207-e4658e5fd1d7"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0029",
+        "http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/"
+    ],
+    "mitre_description": "[Scarlet Mimic](https://attack.mitre.org/groups/G0029) is a threat group that has targeted minority rights activists. This group has not been directly linked to a government source, but the group's motivations appear to overlap with those of the Chinese government. While there is some overlap between IP addresses used by [Scarlet Mimic](https://attack.mitre.org/groups/G0029) and [Putter Panda](https://attack.mitre.org/groups/G0024), it has not been concluded that the groups are the same. (Citation: Scarlet Mimic Jan 2016)",
+    "mitre_aliases": [
+        "Scarlet Mimic"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:32:00.677Z",
+    "mitre_modified": "2020-03-30T19:16:53.144Z"
+}

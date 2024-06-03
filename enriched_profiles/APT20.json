@@ -1,0 +1,21 @@
+{
+    "description": "We\u2019ve uncovered some new data and likely attribution regarding a series of APT watering hole attacks this past summer. Watering hole attacks are an increasingly popular component of APT campaigns, as many people are more aware of spear phishing and are less likely to open documents or click on links in unsolicited emails. Watering hole attacks offer a much better chance of success because they involve compromising legitimate websites and installing malware intended to compromise website visitors. These are often popular websites frequented by people who work in specific industries or have political sympathies to which the actors want to gain access.\nIn contrast to many other APT campaigns, which tend to rely heavily on spear phishing to gain victims, \u201cth3bug\u201d is known for compromising legitimate websites their intended visitors are likely to frequent. Over the summer they compromised several sites, including a well-known Uyghur website written in that native language.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "http://researchcenter.paloaltonetworks.com/2014/09/recent-watering-hole-attacks-attributed-apt-group-th3bug-using-poison-ivy/",
+            "https://www.fox-it.com/nl/actueel/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/",
+            "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2015/Aug.10.The_Italian_Connection_An_analysis_of_exploit_supply_chains_and_digital_quartermasters/HTExploitTelemetry.pdf",
+            "https://unit42.paloaltonetworks.com/atoms/crawling-taurus/",
+            "https://www.mandiant.com/resources/insights/apt-groups"
+        ],
+        "synonyms": [
+            "VIOLIN PANDA",
+            "TH3Bug",
+            "Crawling Taurus"
+        ]
+    },
+    "uuid": "8bcd855f-a4c1-453a-bede-ff36582f4f40",
+    "value": "APT20"
+}

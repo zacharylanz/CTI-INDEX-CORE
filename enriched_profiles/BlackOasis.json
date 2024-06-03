@@ -1,0 +1,31 @@
+{
+    "description": "BlackOasis is a Middle Eastern threat group that is believed to be a customer of Gamma Group. The group has shown interest in prominent figures in the United Nations, as well as opposition bloggers, activists, regional news correspondents, and think tanks. A group known by Microsoft as NEODYMIUM is reportedly associated closely with BlackOasis operations, but evidence that the group names are aliases has not been identified.",
+    "meta": {
+        "refs": [
+            "https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/",
+            "https://www.fireeye.com/blog/threat-research/2017/09/zero-day-used-to-distribute-finspy.html",
+            "https://attack.mitre.org/groups/G0063/"
+        ],
+        "synonyms": [
+            "G0063"
+        ]
+    },
+    "uuid": "8fbd195f-5e03-4e85-8ca5-4f1dff300bec",
+    "value": "BlackOasis",
+    "mitre_attack_ids": [
+        "intrusion-set--da49b9f1-ca99-443f-9728-0a074db66850"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0063",
+        "https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/",
+        "https://securelist.com/apt-trends-report-q2-2017/79332/",
+        "https://www.cyberscoop.com/middle-eastern-hacking-group-using-finfisher-malware-conduct-international-espionage/"
+    ],
+    "mitre_description": "[BlackOasis](https://attack.mitre.org/groups/G0063) is a Middle Eastern threat group that is believed to be a customer of Gamma Group. The group has shown interest in prominent figures in the United Nations, as well as opposition bloggers, activists, regional news correspondents, and think tanks. (Citation: Securelist BlackOasis Oct 2017) (Citation: Securelist APT Trends Q2 2017) A group known by Microsoft as [NEODYMIUM](https://attack.mitre.org/groups/G0055) is reportedly associated closely with [BlackOasis](https://attack.mitre.org/groups/G0063) operations, but evidence that the group names are aliases has not been identified. (Citation: CyberScoop BlackOasis Oct 2017)",
+    "mitre_aliases": [
+        "BlackOasis"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-04-18T17:59:24.739Z",
+    "mitre_modified": "2018-10-17T00:14:20.652Z"
+}

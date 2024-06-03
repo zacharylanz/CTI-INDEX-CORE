@@ -1,0 +1,69 @@
+{
+    "description": "A previously undocumented attack group is using both custom and off-the-shelf malware to target IT providers in Saudi Arabia in what appear to be supply chain attacks with the end goal of compromising the IT providers\u2019 customers.\nThe group, which we are calling Tortoiseshell, has been active since at least July 2018. Symantec has identified a total of 11 organizations hit by the group, the majority of which are based in Saudi Arabia. In at least two organizations, evidence suggests that the attackers gained domain admin-level access.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "United States",
+            "Israel",
+            "Middle East",
+            "Europe"
+        ],
+        "cfr-target-category": [
+            "Defense",
+            "Government",
+            "Military",
+            "Finance",
+            "Energy",
+            "Healthcare",
+            "Pharmaceuticals",
+            "Telecoms",
+            "High-Tech",
+            "Media",
+            "NGOs",
+            "Civil Society",
+            "Legal",
+            "Rail",
+            "Transportation"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://www.symantec.com/blogs/threat-intelligence/tortoiseshell-apt-supply-chain",
+            "https://www.darkreading.com/threat-intelligence/iranian-government-hackers-target-us-veterans/d/d-id/1335897",
+            "https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-october",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html",
+            "https://ics-cert.kaspersky.com/publications/reports/2023/09/25/apt-and-financial-attacks-on-industrial-organizations-in-h1-2023/",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "IMPERIAL KITTEN",
+            "Yellow Liderc",
+            "Imperial Kitten",
+            "TA456",
+            "DUSTYCAVE",
+            "Crimson Sandstorm"
+        ]
+    },
+    "uuid": "5f108484-db7f-11e9-aaa4-fb0176425734",
+    "value": "Tortoiseshell",
+    "mitre_attack_ids": [
+        "intrusion-set--3ea7add5-5b8f-45d8-b1f1-905d2729d62a"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1012",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.proofpoint.com/us/blog/threat-insight/i-knew-you-were-trouble-ta456-targets-defense-contractor-alluring-social-media",
+        "https://www.microsoft.com/en-us/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021"
+    ],
+    "mitre_description": "[CURIUM](https://attack.mitre.org/groups/G1012) is an Iranian threat group first reported in November 2021 that has invested in building a relationship with potential targets via social media over a period of months to establish trust and confidence before sending malware. Security researchers note [CURIUM](https://attack.mitre.org/groups/G1012) has demonstrated great patience and persistence by chatting with potential targets daily and sending benign files to help lower their security consciousness.(Citation: Microsoft Iranian Threat Actor Trends November 2021)",
+    "mitre_aliases": [
+        "CURIUM",
+        "Crimson Sandstorm",
+        "TA456",
+        "Tortoise Shell"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2023-01-13T20:51:13.494Z",
+    "mitre_modified": "2024-04-17T22:09:00.876Z"
+}

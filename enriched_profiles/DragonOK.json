@@ -1,0 +1,69 @@
+{
+    "description": "Threat group that has targeted Japanese organizations with phishing emails. Due to overlapping TTPs, including similar custom tools, DragonOK is thought to have a direct or indirect relationship with the threat group Moafee. 2223 It is known to use a variety of malware, including Sysget/HelloBridge, PlugX, PoisonIvy, FormerFirstRat, NFlog, and NewCT.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-quantum-entanglement.pdf",
+            "https://attack.mitre.org/wiki/Groups",
+            "https://www.forcepoint.com/de/blog/x-labs/trojanized-adobe-installer-used-install-dragonok-s-new-custom-backdoor",
+            "https://github.com/m0n0ph1/APT_CyberCriminal_Campagin_Collections-1/blob/master/2017/2017.02.15.deep-dive-dragonok-rambo-backdoor/Deep%20Dive%20on%20the%20DragonOK%20Rambo%20Backdoor%20_%20Morphick%20Cyber%20Security.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/moafee",
+            "https://unit42.paloaltonetworks.com/unit-42-identifies-new-dragonok-backdoor-malware-deployed-against-japanese-targets/",
+            "https://unit42.paloaltonetworks.com/unit42-dragonok-updates-toolset-targets-multiple-geographic-regions/",
+            "https://www.phnompenhpost.com/national/kingdom-targeted-new-malware",
+            "https://attack.mitre.org/groups/G0017/",
+            "https://attack.mitre.org/groups/G0002/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-overbrook",
+            "https://unit42.paloaltonetworks.com/atoms/shallowtaurus/"
+        ],
+        "synonyms": [
+            "Moafee",
+            "BRONZE OVERBROOK",
+            "G0017",
+            "G0002",
+            "Shallow Taurus"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "2e5d3a83-fe00-41a5-9b60-237efc84832f",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f3bdec95-3d62-42d9-a840-29630f6cdc1a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "a9b44750-992c-4743-8922-129880d277ea",
+    "value": "DragonOK",
+    "mitre_attack_ids": [
+        "intrusion-set--f3bdec95-3d62-42d9-a840-29630f6cdc1a"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0017",
+        "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-quantum-entanglement.pdf",
+        "http://researchcenter.paloaltonetworks.com/2015/04/unit-42-identifies-new-dragonok-backdoor-malware-deployed-against-japanese-targets/"
+    ],
+    "mitre_description": "[DragonOK](https://attack.mitre.org/groups/G0017) is a threat group that has targeted Japanese organizations with phishing emails. Due to overlapping TTPs, including similar custom tools, [DragonOK](https://attack.mitre.org/groups/G0017) is thought to have a direct or indirect relationship with the threat group [Moafee](https://attack.mitre.org/groups/G0002). (Citation: Operation Quantum Entanglement) It is known to use a variety of malware, including Sysget/HelloBridge, PlugX, PoisonIvy, FormerFirstRat, NFlog, and NewCT. (Citation: New DragonOK)",
+    "mitre_aliases": [
+        "DragonOK"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:31:53.197Z",
+    "mitre_modified": "2019-03-22T20:10:32.917Z"
+}

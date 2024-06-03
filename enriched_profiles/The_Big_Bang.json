@@ -1,0 +1,11 @@
+{
+    "description": "While it is not clear exactly what the attacker is looking for, what is clear is that once he finds it, a second stage of the attack awaits, fetching additional modules and/or malware from the Command and Control server. This then is a surveillance attack in progress and has been dubbed \u2018Big Bang\u2019 due to the attacker\u2019s fondness for the \u2018Big Bang Theory\u2019 TV show, after which some of the malware\u2019s modules are named.",
+    "meta": {
+        "refs": [
+            "https://research.checkpoint.com/apt-attack-middle-east-big-bang/",
+            "https://blog.talosintelligence.com/2017/06/palestine-delphi.html"
+        ]
+    },
+    "uuid": "a3cc5105-3bc6-498b-8d53-981e12d86909",
+    "value": "The Big Bang"
+}

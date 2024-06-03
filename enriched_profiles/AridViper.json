@@ -1,0 +1,79 @@
+{
+    "meta": {
+        "cfr-suspected-state-sponsor": "Palestine",
+        "cfr-suspected-victims": [
+            "United States",
+            "Israel",
+            "Palestine",
+            "Middle East",
+            "Europe"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Defense",
+            "Energy",
+            "Finance",
+            "Education",
+            "High-Tech",
+            "Telecoms",
+            "Transportation",
+            "Media",
+            "NGOs",
+            "Civil Society",
+            "Legal",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "PS",
+        "refs": [
+            "http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-arid-viper.pdf",
+            "http://securityaffairs.co/wordpress/33785/cyber-crime/arid-viper-israel-sex-video.html",
+            "https://securelist.com/blog/research/68817/the-desert-falcons-targeted-attacks/",
+            "https://blog.lookout.com/blog/2017/02/16/viperrat-mobile-apt/",
+            "https://securelist.com/blog/incidents/77562/breaking-the-weakest-link-of-the-strongest-chain/",
+            "https://www.proofpoint.com/us/threat-insight/post/Operation-Arid-Viper-Slithers-Back-Into-View",
+            "http://blog.talosintelligence.com/2017/06/palestine-delphi.html",
+            "https://www.threatconnect.com/blog/kasperagent-malware-campaign/",
+            "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/sexually-explicit-material-used-as-lures-in-cyber-attacks?linkId=12425812",
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064309/The-Desert-Falcons-targeted-attacks.pdf",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "Desert Falcon",
+            "Renegade Jackal",
+            "DESERTVARNISH",
+            "UNC718",
+            "Arid Viper",
+            "APT-C-23"
+        ]
+    },
+    "uuid": "0cfff0f4-868c-40a1-b9b4-0d153c0b33b6",
+    "value": "AridViper",
+    "mitre_attack_ids": [
+        "intrusion-set--8332952e-b86b-486b-acc3-1c2a85d39394"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1028",
+        "https://web.archive.org/web/20231126111812/https://about.fb.com/wp-content/uploads/2021/04/Technical-threat-report-Arid-Viper-April-2021.pdf",
+        "https://web.archive.org/web/20240208234008/www.sentinelone.com/labs/the-israel-hamas-war-cyber-domain-state-sponsored-activity-of-interest/",
+        "https://web.archive.org/web/20230604112435/https://research.checkpoint.com/2018/interactive-mapping-of-apt-c-23/",
+        "https://web.archive.org/web/20201123042131/www.welivesecurity.com/2020/09/30/aptc23-group-evolves-its-android-spyware/",
+        "https://web.archive.org/web/20231227054130/https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/mantis-palestinian-attacks"
+    ],
+    "mitre_description": "[APT-C-23](https://attack.mitre.org/groups/G1028) is a threat group that has been active since at least 2014.(Citation: symantec_mantis) [APT-C-23](https://attack.mitre.org/groups/G1028) has primarily focused its operations on the Middle East, including Israeli military assets. [APT-C-23](https://attack.mitre.org/groups/G1028) has developed mobile spyware targeting Android and iOS devices since 2017.(Citation: welivesecurity_apt-c-23)",
+    "mitre_aliases": [
+        "APT-C-23",
+        "Mantis",
+        "Arid Viper",
+        "Desert Falcon",
+        "TAG-63",
+        "Grey Karkadann",
+        "Big Bang APT",
+        "Two-tailed Scorpion"
+    ],
+    "mitre_contributors": [
+        "Sittikorn Sangrattanapitak"
+    ],
+    "mitre_created": "2024-03-26T18:38:00.759Z",
+    "mitre_modified": "2024-04-16T15:31:48.747Z"
+}

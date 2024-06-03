@@ -1,0 +1,65 @@
+{
+    "description": "We have observed one APT group, which we call APT5, particularly focused on telecommunications and technology companies. More than half of the organizations we have observed being targeted or breached by APT5 operate in these sectors. Several times, APT5 has targeted organizations and personnel based in Southeast Asia. APT5 has been active since at least 2007. It appears to be a large threat group that consists of several subgroups, often with distinct tactics and infrastructure. APT5 has targeted or breached organizations across multiple industries, but its focus appears to be on telecommunications and technology companies, especially information about satellite communications. \nAPT5 targeted the network of an electronics firm that sells products for both industrial and military applications. The group subsequently stole communications related to the firm\u2019s business relationship with a national military, including inventories and memoranda about specific products they provided. \nIn one case in late 2014, APT5 breached the network of an international telecommunications company. The group used malware with keylogging capabilities to monitor the computer of an executive who manages the company\u2019s relationships with other telecommunications companies",
+    "meta": {
+        "refs": [
+            "https://www.fireeye.com/current-threats/apt-groups.html",
+            "https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-southeast-asia-threat-landscape.pdf",
+            "https://www.secureworks.com/research/threat-profiles/bronze-fleetwood",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi",
+            "http://internal-www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
+        ],
+        "synonyms": [
+            "KEYHOLE PANDA",
+            "MANGANESE",
+            "BRONZE FLEETWOOD",
+            "TEMP.Bottle",
+            "Mulberry Typhoon",
+            "Poisoned Flight"
+        ],
+        "targeted-sector": [
+            "Electronic",
+            "Telecoms",
+            "Technology"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "fa562b27-d3ff-5e7c-9079-c957eb01a0e0",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "a47b79ae-7a0c-4308-9efc-294af19cc795",
+    "value": "APT5",
+    "mitre_attack_ids": [
+        "intrusion-set--c1aab4c9-4c34-4f4f-8541-d529e46a07f9"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1023",
+        "https://web.archive.org/web/20220122121143/https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-southeast-asia-threat-landscape.pdf",
+        "https://www.mandiant.com/resources/insights/apt-groups",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW",
+        "https://media.defense.gov/2022/Dec/13/2003131586/-1/-1/0/CSA-APT5-CITRIXADC-V1.PDF",
+        "https://www.mandiant.com/resources/blog/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day",
+        "https://www.mandiant.com/resources/blog/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices",
+        "https://www.secureworks.com/research/threat-profiles/bronze-fleetwood"
+    ],
+    "mitre_description": "[APT5](https://attack.mitre.org/groups/G1023) is a China-based espionage actor that has been active since at least 2007 primarily targeting the telecommunications, aerospace, and defense industries throughout the U.S., Europe, and Asia. [APT5](https://attack.mitre.org/groups/G1023) has displayed advanced tradecraft and significant interest in compromising networking devices and their underlying software including through the use of zero-day exploits.(Citation: NSA APT5 Citrix Threat Hunting December 2022)(Citation: Microsoft East Asia Threats September 2023)(Citation: Mandiant Pulse Secure Zero-Day April 2021)(Citation: Mandiant Pulse Secure Update May 2021)(Citation: FireEye Southeast Asia Threat Landscape March 2015)(Citation: Mandiant Advanced Persistent Threats)  ",
+    "mitre_aliases": [
+        "APT5",
+        "Mulberry Typhoon",
+        "MANGANESE",
+        "BRONZE FLEETWOOD",
+        "Keyhole Panda",
+        "UNC2630"
+    ],
+    "mitre_contributors": [
+        "@_montysecurity"
+    ],
+    "mitre_created": "2024-02-05T19:27:35.655Z",
+    "mitre_modified": "2024-03-14T18:53:21.577Z"
+}

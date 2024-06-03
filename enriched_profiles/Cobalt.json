@@ -1,0 +1,61 @@
+{
+    "description": "A criminal group dubbed Cobalt is behind synchronized ATM heists that saw machines across Europe, CIS countries (including Russia), and Malaysia being raided simultaneously, in the span of a few hours. The group has been active since June 2016, and their latest attacks happened in July and August.",
+    "meta": {
+        "refs": [
+            "https://www.helpnetsecurity.com/2016/11/22/cobalt-hackers-synchronized-atm-heists/",
+            "https://www.bleepingcomputer.com/news/security/cobalt-hacking-group-tests-banks-in-russia-and-romania/",
+            "https://www.secureworks.com/blog/cybercriminals-increasingly-trying-to-ensnare-the-big-financial-fish",
+            "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-september-cobalt-spider/",
+            "https://www.group-ib.com/blog/cobalt",
+            "https://www.reuters.com/article/us-taiwan-cyber-atms/taiwan-atm-heist-linked-to-european-hacking-spree-security-firm-idUSKBN14P0CX",
+            "https://www.proofpoint.com/us/threat-insight/post/microsoft-word-intruder-integrates-cve-2017-0199-utilized-cobalt-group-target",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/cobalt-spam-runs-use-macros-cve-2017-8759-exploit/",
+            "https://www.riskiq.com/blog/labs/cobalt-strike/",
+            "https://www.riskiq.com/blog/labs/cobalt-group-spear-phishing-russian-banks/",
+            "https://unit42.paloaltonetworks.com/unit42-new-techniques-uncover-attribute-cobalt-gang-commodity-builders-infrastructure-revealed/",
+            "https://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+            "https://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested",
+            "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Cobalt-2017-eng.pdf",
+            "https://attack.mitre.org/groups/G0080/",
+            "http://www.secureworks.com/research/threat-profiles/gold-kingswood",
+            "https://unit42.paloaltonetworks.com/atoms/mulelibra/"
+        ],
+        "synonyms": [
+            "Cobalt Group",
+            "Cobalt Gang",
+            "GOLD KINGSWOOD",
+            "COBALT SPIDER",
+            "G0080",
+            "Mule Libra"
+        ]
+    },
+    "uuid": "01967480-c49b-4d4a-a7fa-aef0eaf535fe",
+    "value": "Cobalt",
+    "mitre_attack_ids": [
+        "intrusion-set--dc6fe6ee-04c2-49be-ba3d-f38d2463c02a"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0080",
+        "https://crowdstrike.lookbookhq.com/global-threat-report-2018-web/cs-2018-global-threat-report",
+        "https://www.secureworks.com/blog/cybercriminals-increasingly-trying-to-ensnare-the-big-financial-fish",
+        "https://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+        "https://blog.morphisec.com/cobalt-gang-2.0",
+        "https://web.archive.org/web/20190508170630/https://www.riskiq.com/blog/labs/cobalt-strike/",
+        "https://web.archive.org/web/20190508170147/https://www.riskiq.com/blog/labs/cobalt-group-spear-phishing-russian-banks/",
+        "https://www.group-ib.com/blog/cobalt",
+        "https://www.proofpoint.com/us/threat-insight/post/microsoft-word-intruder-integrates-cve-2017-0199-utilized-cobalt-group-target",
+        "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Cobalt-Snatch-eng.pdf",
+        "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Cobalt-2017-eng.pdf",
+        "https://blog.talosintelligence.com/2018/07/multiple-cobalt-personality-disorder.html"
+    ],
+    "mitre_description": "[Cobalt Group](https://attack.mitre.org/groups/G0080) is a financially motivated threat group that has primarily targeted financial institutions since at least 2016. The group has conducted intrusions to steal money via targeting ATM systems, card processing, payment systems and SWIFT systems. [Cobalt Group](https://attack.mitre.org/groups/G0080) has mainly targeted banks in Eastern Europe, Central Asia, and Southeast Asia. One of the alleged leaders was arrested in Spain in early 2018, but the group still appears to be active. The group has been known to target organizations in order to use their access to then compromise additional victims.(Citation: Talos Cobalt Group July 2018)(Citation: PTSecurity Cobalt Group Aug 2017)(Citation: PTSecurity Cobalt Dec 2016)(Citation: Group IB Cobalt Aug 2017)(Citation: Proofpoint Cobalt June 2017)(Citation: RiskIQ Cobalt Nov 2017)(Citation: RiskIQ Cobalt Jan 2018) Reporting indicates there may be links between [Cobalt Group](https://attack.mitre.org/groups/G0080) and both the malware [Carbanak](https://attack.mitre.org/software/S0030) and the group [Carbanak](https://attack.mitre.org/groups/G0008).(Citation: Europol Cobalt Mar 2018)",
+    "mitre_aliases": [
+        "Cobalt Group",
+        "GOLD KINGSWOOD",
+        "Cobalt Gang",
+        "Cobalt Spider"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2023-03-22T03:28:29.415Z"
+}

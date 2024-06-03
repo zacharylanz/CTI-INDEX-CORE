@@ -1,0 +1,30 @@
+{
+    "description": "This threat actor initially came to our attention in April 2018, leveraging both Western and Chinese Git repositories to deliver malware to honeypot systems vulnerable to an Apache Struts vulnerability.\nIn late July, we became aware that the same actor was engaged in another similar campaign. Through our investigation into this new campaign, we were able to uncover more details about the actor.",
+    "meta": {
+        "refs": [
+            "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html",
+            "https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/",
+            "https://www.intezer.com/blog-technical-analysis-cryptocurrency-mining-war-on-the-cloud/",
+            "https://unit42.paloaltonetworks.com/atoms/agedlibra/"
+        ],
+        "synonyms": [
+            "Aged Libra"
+        ]
+    },
+    "uuid": "53583c40-935e-11e9-b4fc-d7e217a306d2",
+    "value": "Rocke",
+    "mitre_attack_ids": [
+        "intrusion-set--44102191-3a31-45f8-acbe-34bdb441d5ad"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0106",
+        "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html"
+    ],
+    "mitre_description": "[Rocke](https://attack.mitre.org/groups/G0106) is an alleged Chinese-speaking adversary whose primary objective appeared to be cryptojacking, or stealing victim system resources for the purposes of mining cryptocurrency. The name [Rocke](https://attack.mitre.org/groups/G0106) comes from the email address \"rocke@live.cn\" used to create the wallet which held collected cryptocurrency. Researchers have detected overlaps between [Rocke](https://attack.mitre.org/groups/G0106) and the Iron Cybercrime Group, though this attribution has not been confirmed.(Citation: Talos Rocke August 2018)",
+    "mitre_aliases": [
+        "Rocke"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2020-05-26T14:20:20.623Z",
+    "mitre_modified": "2020-06-19T20:41:21.215Z"
+}

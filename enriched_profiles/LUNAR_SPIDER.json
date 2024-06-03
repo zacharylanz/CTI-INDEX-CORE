@@ -1,0 +1,16 @@
+{
+    "description": "According to CrowdStrike, this actor is using BokBok/IcedID, potentially buying distribution through Emotet infections.\nOn March 17, 2019, CrowdStrike Intelligence observed the use of a new BokBot (developed and operated by LUNAR SPIDER) proxy module in conjunction with TrickBot (developed and operated by WIZARD SPIDER), which may provide WIZARD SPIDER with additional tools to steal sensitive information and conduct fraudulent wire transfers. This activity also provides further evidence to support the existence of a flourishing relationship between these two actors.\nLunar Spider is reportedly associated withGrim Spider and Wizard Spider.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
+            "https://www.crowdstrike.com/blog/wizard-spider-lunar-spider-shared-proxy-module/",
+            "https://www.crowdstrike.com/blog/sin-ful-spiders-wizard-spider-and-lunar-spider-sharing-the-same-web/",
+            "https://www.secureworks.com/research/threat-profiles/gold-swathmore"
+        ],
+        "synonyms": [
+            "GOLD SWATHMORE"
+        ]
+    },
+    "uuid": "0db4c708-f33d-4d46-906d-12fdf7415f62",
+    "value": "LUNAR SPIDER"
+}

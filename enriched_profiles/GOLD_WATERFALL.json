@@ -1,0 +1,11 @@
+{
+    "description": "GOLD WATERFALL is a group of financially motivated cybercriminals responsible for the creation, distribution, and operation of the Darkside ransomware. Active since August 2020, GOLD WATERFALL uses a variety of tactics, techniques, and procedures (TTPs) to infiltrate and move laterally within targeted organizations to deploy Darkside ransomware to its most valuable resources. Among these TTPs are using malicious documents delivered by email to establish a foothold and using stolen credentials to access victims' remote access services. In November 2020, the 'darksupp' persona was observed advertising an affiliate program on several semi-exclusive underground forums, marking GOLD WATERFALL's entry into the ransomware-as-a-service (RaaS) landscape.",
+    "meta": {
+        "refs": [
+            "https://www.secureworks.com/research/threat-profiles/gold-waterfall",
+            "https://www.secureworks.com/blog/ransomware-groups-use-tor-based-backdoor-for-persistent-access"
+        ]
+    },
+    "uuid": "4d787c58-2581-4696-ad6c-e0e36ed2bac7",
+    "value": "GOLD WATERFALL"
+}

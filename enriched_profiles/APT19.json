@@ -1,0 +1,111 @@
+{
+    "description": "Adversary group targeting financial, technology, non-profit organisations.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "http://cybercampaigns.net/wp-content/uploads/2013/06/Deep-Panda.pdf",
+            "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/deep-panda",
+            "https://eromang.zataz.com/2012/12/29/attack-and-ie-0day-informations-used-against-council-on-foreign-relations/",
+            "https://eromang.zataz.com/2013/01/02/capstone-turbine-corporation-also-targeted-in-the-cfr-watering-hole-attack-and-more/",
+            "https://www.crowdstrike.com/blog/department-labor-strategic-web-compromise/",
+            "https://www.crowdstrike.com/blog/deep-thought-chinese-targeting-national-security-think-tanks/",
+            "https://krebsonsecurity.com/2015/06/catching-up-on-the-opm-breach/",
+            "https://krebsonsecurity.com/2015/02/anthem-breach-may-have-started-in-april-2014/",
+            "https://www.nextgov.com/cybersecurity/2015/05/third-party-software-was-entry-point-background-check-system-hack/112354/",
+            "https://www.crowdstrike.com/blog/ironman-deep-panda-uses-sakula-malware-target-organizations-multiple-sectors/",
+            "https://www.abc.net.au/news/2014-11-13/g20-china-affliliated-hackers-breaches-australian-media/5889442",
+            "https://www.washingtonpost.com/business/economy/keypoint-suffers-network-breach-thousands-of-fed-workers-could-be-affected/2014/12/18/e6c7146c-86e1-11e4-a702-fa31ff4ae98e_story.html",
+            "https://www.seattletimes.com/business/local-business/feds-warned-premera-about-security-flaws-before-breach/",
+            "https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/",
+            "https://threatvector.cylance.com/en_us/home/shell-crew-variants-continue-to-fly-under-big-avs-radar.html",
+            "https://www.bleepingcomputer.com/news/security/us-arrests-chinese-man-involved-with-sakula-malware-used-in-opm-and-anthem-hacks/",
+            "https://gizmodo.com/u-s-indicts-chinese-hacker-spies-in-conspiracy-to-stea-1830111695",
+            "https://www.cyberscoop.com/anthem-breach-indictment-chinese-national/",
+            "https://docs.broadcom.com/doc/the-black-vine-cyberespionage-group",
+            "https://attack.mitre.org/groups/G0009/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-firestone",
+            "https://www.proofpoint.com/us/exploring-bergard-old-malware-new-tricks",
+            "http://researchcenter.paloaltonetworks.com/2016/01/new-attacks-linked-to-c0d0s0-group/",
+            "https://www.nytimes.com/2016/06/12/technology/the-chinese-hackers-in-the-back-office.html",
+            "https://www.ncsc.gov.uk/content/files/protected_files/article_files/Joint%20report%20on%20publicly%20available%20hacking%20tools%20%28NCSC%29.pdf",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.mandiant.com/resources/blog/phished-at-the-request-of-counsel",
+            "https://www.youtube.com/watch?v=FC9ARZIZglI"
+        ],
+        "synonyms": [
+            "DEEP PANDA",
+            "Codoso",
+            "WebMasters",
+            "KungFu Kittens",
+            "Black Vine",
+            "TEMP.Avengers",
+            "Group 13",
+            "PinkPanther",
+            "Shell Crew",
+            "BRONZE FIRESTONE",
+            "G0009",
+            "G0073",
+            "Pupa",
+            "Sunshop Group"
+        ],
+        "targeted-sector": [
+            "Technology",
+            "Finance",
+            "Non-profit organisation"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "a653431d-6a5e-4600-8ad3-609b5af57064",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "fe8796a4-2a02-41a0-9d27-7aa1e995feb6",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "066d25c1-71bd-4bd4-8ca7-edbba00063f4",
+    "value": "APT19",
+    "mitre_attack_ids": [
+        "intrusion-set--fe8796a4-2a02-41a0-9d27-7aa1e995feb6"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0073",
+        "https://www.fireeye.com/blog/threat-research/2017/06/phished-at-the-request-of-counsel.html",
+        "https://www.darkreading.com/attacks-breaches/chinese-hacking-group-codoso-team-uses-forbescom-as-watering-hole-/d/d-id/1319059",
+        "https://www.fireeye.com/current-threats/apt-groups.html#apt19",
+        "https://researchcenter.paloaltonetworks.com/2016/01/new-attacks-linked-to-c0d0s0-group/",
+        "https://web.archive.org/web/20171017072306/https://icitech.org/icit-brief-chinas-espionage-dynasty-economic-death-by-a-thousand-cuts/"
+    ],
+    "mitre_description": "[APT19](https://attack.mitre.org/groups/G0073) is a Chinese-based threat group that has targeted a variety of industries, including defense, finance, energy, pharmaceutical, telecommunications, high tech, education, manufacturing, and legal services. In 2017, a phishing campaign was used to target seven law and investment firms. (Citation: FireEye APT19) Some analysts track [APT19](https://attack.mitre.org/groups/G0073) and [Deep Panda](https://attack.mitre.org/groups/G0009) as the same group, but it is unclear from open source information if the groups are the same. (Citation: ICIT China's Espionage Jul 2016) (Citation: FireEye APT Groups) (Citation: Unit 42 C0d0so0 Jan 2016)",
+    "mitre_aliases": [
+        "APT19",
+        "Codoso",
+        "C0d0so0",
+        "Codoso Team",
+        "Sunshop Group"
+    ],
+    "mitre_contributors": [
+        "FS-ISAC",
+        "Darren Spruell"
+    ],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2024-04-11T03:03:02.576Z"
+}

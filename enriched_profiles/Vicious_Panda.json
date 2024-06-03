@@ -1,0 +1,31 @@
+{
+    "description": "Check Point Research discovered a new campaign against the Mongolian public sector, which takes advantage of the current Coronavirus scare, in order to deliver a previously unknown malware implant to the target. \nA closer look at this campaign allowed us to tie it to other operations which were carried out by the same anonymous group, dating back to at least 2016. Over the years, these operations targeted different sectors in multiple countries, such as Ukraine, Russia, and Belarus.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Belarus",
+            "Russia",
+            "Mongolia",
+            "Ukraine"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://securelist.com/microcin-is-here/97353",
+            "https://securelist.com/a-simple-example-of-a-complex-cyberattack/82636",
+            "https://decoded.avast.io/luigicamastra/apt-group-planted-backdoors-targeting-high-profile-networks-in-central-asia",
+            "https://www.welivesecurity.com/2020/05/14/mikroceen-spying-backdoor-high-profile-networks-central-asia",
+            "https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign",
+            "https://unit42.paloaltonetworks.com/unit42-threat-actors-target-government-belarus-using-cmstar-trojan",
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07170759/Microcin_Technical_4PDF_eng_final_s.pdf",
+            "https://securelist.com/apt-trends-report-q2-2019/91897",
+            "https://securelist.com/apt-trends-report-q2-2020/97937",
+            "https://securelist.com/it-threat-evolution-q2-2020/98230",
+            "https://securelist.com/apt-trends-report-q3-2021/104708",
+            "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"
+        ],
+        "synonyms": [
+            "SixLittleMonkeys"
+        ]
+    },
+    "uuid": "68d8c25b-8595-4c20-a5c7-a11a2a34b717",
+    "value": "Vicious Panda"
+}

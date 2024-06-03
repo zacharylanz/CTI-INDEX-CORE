@@ -1,0 +1,58 @@
+{
+    "description": "Iranian state-sponsored cyber espionage group tasked with conducting information collection and surveillance operations against individuals and organizations of strategic interest to the Iranian government.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "Australia",
+            "Europe",
+            "Israel",
+            "Middle East",
+            "US"
+        ],
+        "cfr-target-category": [
+            "Education",
+            "Government",
+            "Military",
+            "Defense",
+            "Energy",
+            "Finance",
+            "Healthcare",
+            "Pharmaceuticals",
+            "Civil Society",
+            "Legal",
+            "Manufacturing",
+            "Media",
+            "NGOs",
+            "Pharmaceuticals"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises",
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ],
+        "synonyms": [
+            "UNC788",
+            "CALANQUE"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "b8967b3c-3bc9-11e8-8701-8b1ead8c099e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f98bac6b-12fd-4cad-be84-c84666932232",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "35f887ad-6709-4d0b-8e9c-6b3fa09c783f",
+    "value": "APT42"
+}

@@ -1,0 +1,74 @@
+{
+    "description": "An actor mainly targeting Pakistan military targets, active since at least 2012. We have low confidence that this malware might be authored by an Indian company. To spread the malware, they use unique implementations to leverage the exploits of known vulnerabilities (such as CVE-2017-11882) and later deploy a Powershell payload in the final stages.",
+    "meta": {
+        "cfr-suspected-state-sponsor": "India",
+        "cfr-suspected-victims": [
+            "China",
+            "Pakistan",
+            "Nepal",
+            "Afghanistan"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military",
+            "Private Sector"
+        ],
+        "country": "IN",
+        "refs": [
+            "https://securelist.com/apt-trends-report-q1-2018/85280/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/",
+            "https://otx.alienvault.com/pulse/5fd10760f9afb730d37c4742/",
+            "https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-territorial-issues-for-spear-ph.html",
+            "https://s.tencent.com/research/report/659.html",
+            "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/fireeye-sidewinder-targeted-attack.pdf",
+            "https://s.tencent.com/research/report/479.html",
+            "https://medium.com/@Sebdraven/apt-sidewinder-tricks-powershell-anti-forensics-and-execution-side-loading-5bc1a7e7c84c",
+            "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
+        ],
+        "synonyms": [
+            "SideWinder",
+            "Rattlesnake",
+            "APT-C-17",
+            "T-APT-04"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "3c43bd4c-8c40-47b5-ae97-3dd0f0c0e8d8",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "3dada716-34c3-506e-aa3a-1889bd975b4b",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "c4ce1174-9462-47e9-8038-794f40a184b3",
+    "value": "RAZOR TIGER",
+    "mitre_attack_ids": [
+        "intrusion-set--3fc023b2-c5cc-481d-9c3e-70141ae1a87e"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0121",
+        "https://cybleinc.com/2020/09/26/sidewinder-apt-targets-with-futuristic-tactics-and-techniques/",
+        "https://securelist.com/apt-trends-report-q1-2018/85280/",
+        "https://cdn-cybersecurity.att.com/docs/global-perspective-of-the-sidewinder-apt.pdf"
+    ],
+    "mitre_description": "[Sidewinder](https://attack.mitre.org/groups/G0121) is a suspected Indian threat actor group that has been active since at least 2012. They have been observed targeting government, military, and business entities throughout Asia, primarily focusing on Pakistan, China, Nepal, and Afghanistan.(Citation: ATT Sidewinder January 2021)(Citation: Securelist APT Trends April 2018)(Citation: Cyble Sidewinder September 2020)",
+    "mitre_aliases": [
+        "Sidewinder",
+        "T-APT-04",
+        "Rattlesnake"
+    ],
+    "mitre_contributors": [
+        "Lacework Labs",
+        "Daniyal Naeem, BT Security"
+    ],
+    "mitre_created": "2021-01-27T15:57:11.183Z",
+    "mitre_modified": "2024-04-11T00:07:05.918Z"
+}

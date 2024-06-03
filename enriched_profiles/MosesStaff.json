@@ -1,0 +1,50 @@
+{
+    "description": "Cybereason Nocturnus describes Moses Staff as an Iranian hacker group, first spotted in October 2021. Their motivation appears to be to harm Israeli companies by leaking sensitive, stolen data.",
+    "meta": {
+        "country": "IR",
+        "refs": [
+            "https://twitter.com/campuscodi/status/1450455259202166799",
+            "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/",
+            "https://www.cybereason.com/blog/strifewater-rat-iranian-apt-moses-staff-adds-new-trojan-to-ransomware-operations",
+            "https://www.fortinet.com/blog/threat-research/guard-your-drive-from-driveguard"
+        ],
+        "synonyms": [
+            "Moses Staff",
+            "Marigold Sandstorm",
+            "DEV-0500"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "ef415059-e150-5324-877e-44b65ab022f5",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "d45dd940-b38d-4b2c-9f2f-3e4a0eac841c",
+    "value": "MosesStaff",
+    "mitre_attack_ids": [
+        "intrusion-set--4c4a7846-45d5-4761-8eea-725fa989914c"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1009",
+        "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/",
+        "https://www.cybereason.com/blog/research/strifewater-rat-iranian-apt-moses-staff-adds-new-trojan-to-ransomware-operations",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+    ],
+    "mitre_description": "[Moses Staff](https://attack.mitre.org/groups/G1009) is a suspected Iranian threat group that has primarily targeted Israeli companies since at least September 2021. [Moses Staff](https://attack.mitre.org/groups/G1009) openly stated their motivation in attacking Israeli companies is to cause damage by leaking stolen sensitive data and encrypting the victim's networks without a ransom demand.(Citation: Checkpoint MosesStaff Nov 2021) \n\nSecurity researchers assess [Moses Staff](https://attack.mitre.org/groups/G1009) is politically motivated, and has targeted government, finance, travel, energy, manufacturing, and utility companies outside of Israel as well, including those in Italy, India, Germany, Chile, Turkey, the UAE, and the US.(Citation: Cybereason StrifeWater Feb 2022)",
+    "mitre_aliases": [
+        "Moses Staff",
+        "DEV-0500",
+        "Marigold Sandstorm"
+    ],
+    "mitre_contributors": [
+        "Hiroki Nagahama, NEC Corporation",
+        "Pooja Natarajan, NEC Corporation India",
+        "Manikantan Srinivasan, NEC Corporation India"
+    ],
+    "mitre_created": "2022-08-11T22:47:27.686Z",
+    "mitre_modified": "2024-04-11T00:39:25.190Z"
+}

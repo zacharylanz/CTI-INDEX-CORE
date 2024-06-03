@@ -1,0 +1,38 @@
+{
+    "description": "In July 2018, Unit 42 analyzed a targeted attack using a novel file type against at least one government agency in the Middle East. It was carried out by a previously unpublished threat group we track as DarkHydrus. Based on our telemetry, we were able to uncover additional artifacts leading us to believe this adversary group has been in operation with their current playbook since early 2016. This attack diverged from previous attacks we observed from this group as it involved spear-phishing emails sent to targeted organizations with password protected RAR archive attachments that contained malicious Excel Web Query files (.iqy).",
+    "meta": {
+        "refs": [
+            "https://researchcenter.paloaltonetworks.com/2018/07/unit42-new-threat-actor-group-darkhydrus-targets-middle-east-government/",
+            "https://mobile.twitter.com/360TIC/status/1083289987339042817",
+            "https://ti.360.net/blog/articles/latest-target-attack-of-darkhydruns-group-against-middle-east-en/",
+            "https://unit42.paloaltonetworks.com/unit42-darkhydrus-uses-phishery-harvest-credentials-middle-east/",
+            "https://unit42.paloaltonetworks.com/darkhydrus-delivers-new-trojan-that-can-use-google-drive-for-c2-communications/",
+            "https://attack.mitre.org/groups/G0079/",
+            "https://unit42.paloaltonetworks.com/atoms/obscureserpens/"
+        ],
+        "synonyms": [
+            "LazyMeerkat",
+            "G0079",
+            "Obscure Serpens"
+        ]
+    },
+    "uuid": "ce2c2dfd-2445-4fbc-a747-9e7092e383f9",
+    "value": "DarkHydrus",
+    "mitre_attack_ids": [
+        "intrusion-set--6b9ebeb5-20bf-48b0-afb7-988d769a2f01"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0079",
+        "https://researchcenter.paloaltonetworks.com/2018/07/unit42-new-threat-actor-group-darkhydrus-targets-middle-east-government/",
+        "https://pan-unit42.github.io/playbook_viewer/"
+    ],
+    "mitre_description": "[DarkHydrus](https://attack.mitre.org/groups/G0079) is a threat group that has targeted government agencies and educational institutions in the Middle East since at least 2016. The group heavily leverages open-source tools and custom payloads for carrying out attacks. (Citation: Unit 42 DarkHydrus July 2018) (Citation: Unit 42 Playbook Dec 2017)",
+    "mitre_aliases": [
+        "DarkHydrus"
+    ],
+    "mitre_contributors": [
+        "Oleg Skulkin, Group-IB"
+    ],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2021-10-12T19:52:22.454Z"
+}

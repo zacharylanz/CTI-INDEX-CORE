@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "Israel",
+            "Jordan",
+            "Saudi Arabia",
+            "Germany",
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf",
+            "https://www.domaintools.com/resources/blog/case-study-hunting-campaign-indicators-on-privacy-protected-attack-infrastr",
+            "http://www.clearskysec.com/copykitten-jpost/",
+            "http://www.clearskysec.com/tulip/",
+            "https://www.cfr.org/interactive/cyber-operations/copykittens",
+            "https://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf",
+            "https://attack.mitre.org/groups/G0052/"
+        ],
+        "synonyms": [
+            "Slayer Kitten",
+            "G0052"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "dcd81c6e-ebf7-4a16-93e0-9a97fa49c88a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "8cca9a1d-66e4-4bc4-ad49-95f759f4c1ae",
+    "value": "CopyKittens",
+    "mitre_attack_ids": [
+        "intrusion-set--dcd81c6e-ebf7-4a16-93e0-9a97fa49c88a"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0052",
+        "http://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf",
+        "http://www.clearskysec.com/copykitten-jpost/",
+        "https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf"
+    ],
+    "mitre_description": "[CopyKittens](https://attack.mitre.org/groups/G0052) is an Iranian cyber espionage group that has been operating since at least 2013. It has targeted countries including Israel, Saudi Arabia, Turkey, the U.S., Jordan, and Germany. The group is responsible for the campaign known as Operation Wilted Tulip.(Citation: ClearSky CopyKittens March 2017)(Citation: ClearSky Wilted Tulip July 2017)(Citation: CopyKittens Nov 2015)",
+    "mitre_aliases": [
+        "CopyKittens"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-01-16T16:13:52.465Z",
+    "mitre_modified": "2022-08-08T21:29:36.462Z"
+}

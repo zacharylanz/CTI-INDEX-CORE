@@ -1,0 +1,13 @@
+{
+    "description": "RGB-TEAM is a previously unknown Russian-speaking threat actor. They describe themselves as \u201ca community of anonymous hacktivists fighting for freedom.\u201d The group stated that it doesn\u2019t have enemies in the U.S., Europe, \u201cin the East, or in the West.\u201d",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Russia"
+        ],
+        "refs": [
+            "https://therecord.media/hackers-claim-to-breach-russia-prosecutor-general-database"
+        ]
+    },
+    "uuid": "9b670978-f346-48dc-a292-7ae05b6f90a0",
+    "value": "RGB-TEAM"
+}

@@ -1,0 +1,48 @@
+{
+    "description": "GRIM SPIDER is a sophisticated eCrime group that has been operating the Ryuk ransomware since August 2018, targeting large organizations for a high-ransom return. This methodology, known as \u201cbig game hunting,\u201d signals a shift in operations for WIZARD SPIDER, a criminal enterprise of which GRIM SPIDER appears to be a cell. The WIZARD SPIDER threat group, known as the Russia-based operator of the TrickBot banking malware, had focused primarily on wire fraud in the past.\nSimilar to Samas and BitPaymer, Ryuk is specifically used to target enterprise environments. Code comparison between versions of Ryuk and Hermes ransomware indicates that Ryuk was derived from the Hermes source code and has been under steady development since its release. Hermes is commodity ransomware that has been observed for sale on forums and used by multiple threat actors. However, Ryuk is only used by GRIM SPIDER and, unlike Hermes, Ryuk has only been used to target enterprise environments. Since Ryuk\u2019s appearance in August, the threat actors operating it have netted over 705.80 BTC across 52 transactions for a total current value of $3,701,893.98 USD.\nGrim Spider is reportedly associated with Lunar Spider and Wizard Spider.",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/",
+            "https://www.fireeye.com/blog/threat-research/2019/01/a-nasty-trick-from-credential-theft-malware-to-business-disruption.html"
+        ],
+        "synonyms": [
+            "GOLD ULRICK"
+        ]
+    },
+    "uuid": "3cf6dbb5-bf9e-47d4-a8d5-b6d76f5a791f",
+    "value": "GRIM SPIDER",
+    "mitre_attack_ids": [
+        "intrusion-set--dd2d9ca6-505b-4860-a604-233685b802c7"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0102",
+        "https://us-cert.cisa.gov/ncas/alerts/aa20-302a",
+        "https://www.fireeye.com/blog/threat-research/2019/01/a-nasty-trick-from-credential-theft-malware-to-business-disruption.html",
+        "https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/",
+        "https://www.crowdstrike.com/blog/timelining-grim-spiders-big-game-hunting-tactics/",
+        "https://www.fireeye.com/blog/threat-research/2020/10/kegtap-and-singlemalt-with-a-ransomware-chaser.html",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.crowdstrike.com/blog/wizard-spider-adversary-update/",
+        "https://www.secureworks.com/research/threat-profiles/gold-blackburn",
+        "https://www.mandiant.com/sites/default/files/2021-10/fin12-group-profile.pdf",
+        "https://securityintelligence.com/posts/trickbot-gang-doubles-down-enterprise-infection/"
+    ],
+    "mitre_description": "[Wizard Spider](https://attack.mitre.org/groups/G0102) is a Russia-based financially motivated threat group originally known for the creation and deployment of [TrickBot](https://attack.mitre.org/software/S0266) since at least 2016. [Wizard Spider](https://attack.mitre.org/groups/G0102) possesses a diverse aresenal of tools and has conducted ransomware campaigns against a variety of organizations, ranging from major corporations to hospitals.(Citation: CrowdStrike Ryuk January 2019)(Citation: DHS/CISA Ransomware Targeting Healthcare October 2020)(Citation: CrowdStrike Wizard Spider October 2020)",
+    "mitre_aliases": [
+        "Wizard Spider",
+        "UNC1878",
+        "TEMP.MixMaster",
+        "Grim Spider",
+        "FIN12",
+        "GOLD BLACKBURN",
+        "ITG23",
+        "Periwinkle Tempest",
+        "DEV-0193"
+    ],
+    "mitre_contributors": [
+        "Edward Millington",
+        "Oleksiy Gayda"
+    ],
+    "mitre_created": "2020-05-12T18:15:29.396Z",
+    "mitre_modified": "2024-04-03T20:21:34.872Z"
+}

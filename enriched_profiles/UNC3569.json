@@ -1,0 +1,11 @@
+{
+    "description": "China-nexus espionage actor that has been observed exploiting vulnerabilities in Aspera Faspex, Microsoft Exchange, and Oracle Web Applications Desktop Integrator, among others, to gain initial access to target environments. ",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement"
+        ]
+    },
+    "uuid": "dd0063e0-2d44-4798-9e6d-ef0eaa2c2508",
+    "value": "UNC3569"
+}

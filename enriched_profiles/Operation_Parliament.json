@@ -1,0 +1,48 @@
+{
+    "description": "This threat actor uses spear-phishing techniques to target parliaments, government ministries, academics, and media organizations, primarily in the Middle East, for the purpose of espionage.\nBased on our findings, we believe the attackers represent a previously unknown geopolitically motivated threat actor. The campaign started in 2017, with the attackers doing just enough to achieve their goals. They most likely have access to additional tools when needed and appear to have access to an elaborate database of contacts in sensitive organizations and personnel worldwide, especially of vulnerable and non-trained staff. The victim systems range from personal desktop or laptop systems to large servers with domain controller roles or similar. The nature of the targeted ministries varied, including those responsible for telecommunications, health, energy, justice, finance and so on.\nOperation Parliament appears to be another symptom of escalating tensions in the Middle East region. The attackers have taken great care to stay under the radar, imitating another attack group in the region. They have been particularly careful to verify victim devices before proceeding with the infection, safeguarding their command and control servers. The targeting seems to have slowed down since the beginning of 2018, probably winding down when the desired data or access was obtained. The targeting of specific victims is unlike previously seen behavior in regional campaigns by Gaza Cybergang or Desert Falcons and points to an elaborate information-gathering exercise that was carried out before the attacks (physical and/or digital).\nWith deception and false flags increasingly being employed by threat actors, attribution is a hard and complicated task that requires solid evidence, especially in complex regions such as the Middle East.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+            "Palestine",
+            "United Arab Emirates",
+            "Qatar",
+            "Somalia",
+            "Syria",
+            "Canada",
+            "Germany",
+            "Serbia",
+            "Kuwait",
+            "Egypt",
+            "Saudi Arabia",
+            "Chile",
+            "Iraq",
+            "India",
+            "United States",
+            "Israel",
+            "Russia",
+            "South Korea",
+            "Jordan",
+            "Djibouti",
+            "Lebonon",
+            "Morocco",
+            "Iran",
+            "United Kingdom",
+            "Afghanistan",
+            "Oman",
+            "Denmark"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/operation-parliament",
+            "https://securelist.com/operation-parliament-who-is-doing-what/85237/",
+            "https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html"
+        ]
+    },
+    "uuid": "e20e8eb8-a6b4-11e8-8a92-6ba6e7540c6d",
+    "value": "Operation Parliament"
+}

@@ -1,0 +1,28 @@
+{
+    "description": "Symantec has identified a previously unknown group called Orangeworm that has been observed installing a custom backdoor called Trojan.Kwampirs within large international corporations that operate within the healthcare sector in the United States, Europe, and Asia.\nFirst identified in January 2015, Orangeworm has also conducted targeted attacks against organizations in related industries as part of a larger supply-chain attack in order to reach their intended victims. Known victims include healthcare providers, pharmaceuticals, IT solution providers for healthcare and equipment manufacturers that serve the healthcare industry, likely for the purpose of corporate espionage.",
+    "meta": {
+        "refs": [
+            "https://www.symantec.com/blogs/threat-intelligence/orangeworm-targets-healthcare-us-europe-asia",
+            "https://attack.mitre.org/groups/G0071/"
+        ]
+    },
+    "uuid": "35d71626-4794-11e8-b74d-bbcbe48fee3c",
+    "value": "Orangeworm",
+    "mitre_attack_ids": [
+        "intrusion-set--5636b7b3-d99b-4edd-aa05-ee649c1d4ef1"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0071",
+        "https://resources.cylera.com/hubfs/Cylera%20Labs/Cylera%20Labs%20Kwampirs%20Shamoon%20Technical%20Report.pdf",
+        "https://www.symantec.com/blogs/threat-intelligence/orangeworm-targets-healthcare-us-europe-asia"
+    ],
+    "mitre_description": "[Orangeworm](https://attack.mitre.org/groups/G0071) is a group that has targeted organizations in the healthcare sector in the United States, Europe, and Asia since at least 2015, likely for the purpose of corporate espionage.(Citation: Symantec Orangeworm April 2018) Reverse engineering of [Kwampirs](https://attack.mitre.org/software/S0236), directly associated with [Orangeworm](https://attack.mitre.org/groups/G0071) activity, indicates significant functional and development overlaps with [Shamoon](https://attack.mitre.org/software/S0140).(Citation: Cylera Kwampirs 2022)",
+    "mitre_aliases": [
+        "Orangeworm"
+    ],
+    "mitre_contributors": [
+        "Elger Vinicius S. Rodrigues, @elgervinicius, CYBINT Centre"
+    ],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2024-04-10T21:33:28.444Z"
+}

@@ -1,0 +1,28 @@
+{
+    "description": "McAfee Advanced Threat Research analysts have discovered a new operation targeting humanitarian aid organizations and using North Korean political topics as bait to lure victims into opening malicious Microsoft Word documents. Our analysts have named this Operation Honeybee, based on the names of the malicious documents used in the attacks.\nAdvanced Threat Research analysts have also discovered malicious documents authored by the same actor that indicate a tactical shift. These documents do not contain the typical lures by this actor, instead using Word compatibility messages to entice victims into opening them.\nThe Advanced Threat Research team also observed a heavy concentration of the implant in Vietnam from January 15\u201317.",
+    "meta": {
+        "refs": [
+            "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/",
+            "https://attack.mitre.org/groups/G0072/"
+        ],
+        "synonyms": [
+            "G0072"
+        ]
+    },
+    "uuid": "2d82a18e-8c53-11e9-b0ec-536b62fa3d86",
+    "value": "Honeybee",
+    "mitre_attack_ids": [
+        "intrusion-set--ebb73863-fa44-4617-b4cb-b9ed3414eb87"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0072",
+        "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/"
+    ],
+    "mitre_description": "[Honeybee](https://attack.mitre.org/groups/G0072) is a campaign led by an unknown actor that targets humanitarian aid organizations and has been active in Vietnam, Singapore, Argentina, Japan, Indonesia, and Canada. It has been an active operation since August of 2017 and as recently as February 2018. (Citation: McAfee Honeybee)",
+    "mitre_aliases": [
+        "Honeybee"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2022-09-19T20:08:40.243Z"
+}

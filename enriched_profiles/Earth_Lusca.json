@@ -1,0 +1,98 @@
+{
+    "description": "Earth Lusca is a threat actor from China that targets organizations of interest to the Chinese government, including academic institutions, telecommunication companies, religious organizations, and other civil society groups. Earth Lusca's tools closely resemble those used by Winnti Umbrella, but the group appears to operate separately from Winnti. Earth Lusca has also been observed targeting cryptocurrency payment platforms and cryptocurrency exchanges in what are likely financially motivated attacks.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Australia",
+            "China",
+            "France",
+            "Germany",
+            "Hong Kong",
+            "Japan",
+            "Mongolia",
+            "Nepal",
+            "Nigeria",
+            "Philippines",
+            "Taiwan",
+            "Thailand",
+            "United Arab Emirates",
+            "United States",
+            "Vietnam"
+        ],
+        "cfr-target-category": [
+            "Gambling companies",
+            "Government Institutions",
+            "Education",
+            "Media and Entertainment",
+            "Pro-democracy and human rights political organizations",
+            "Telecommunications",
+            "Religious organization",
+            "Cryptocurrency",
+            "Medical",
+            "Covid-19 research organizations"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://hello.global.ntt/-/media/ntt/global/insights/white-papers/the-operations-of-winnti-group.pdf",
+            "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/a/earth-lusca-employs-sophisticated-infrastructure-varied-tools-and-techniques/technical-brief-delving-deep-an-analysis-of-earth-lusca-operations.pdf",
+            "https://www.recordedfuture.com/chinese-group-tag-22-targets-nepal-philippines-taiwan",
+            "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi",
+            "https://media-exp1.licdn.com/dms/document/C561FAQHhWFRcWmdCPw/feedshare-document-pdf-analyzed/0/1639591145314?e=1658966400&v=beta&t=_uCcyEVg6b_VDiBTvWQIXtBOdQ1GQAAydqGyq62KA3E",
+            "https://www.sentinelone.com/wp-content/uploads/2021/08/SentinelOne_-SentinelLabs_ShadowPad_WP_V2.pdf",
+            "https://www.pwc.co.uk/issues/cyber-security-services/research/chasing-shadows.html",
+            "https://www.crowdstrike.com/blog/overwatch-exposes-aquatic-panda-in-possession-of-log-4-shell-exploit-tools",
+            "https://decoded.avast.io/luigicamastra/backdoored-client-from-mongolian-ca-monpass",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",
+            "https://go.recordedfuture.com/hubfs/reports/cta-2023-0808.pdf",
+            "https://securelist.com/apt-annual-review-2021/105127",
+            "https://securelist.com/apt-trends-report-q2-2021/103517",
+            "https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/jolly-jellyfish/NCSC-MAR-Jolly-Jellyfish.pdf",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/pdf/2022-year-in-retrospect-report.pdf",
+            "https://www.youtube.com/watch?v=-7Swd1ZetiQ"
+        ],
+        "synonyms": [
+            "CHROMIUM",
+            "ControlX",
+            "TAG-22",
+            "FISHMONGER",
+            "BRONZE UNIVERSITY",
+            "AQUATIC PANDA",
+            "Red Dev 10",
+            "RedHotel",
+            "Charcoal Typhoon",
+            "BountyGlad",
+            "Red Scylla"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "3f8b7c98-7484-523f-9d58-181274e6fc8f",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "39150b30-61af-4d9c-9682-1595e145f3c1",
+    "value": "Earth Lusca",
+    "mitre_attack_ids": [
+        "intrusion-set--cc613a49-9bfa-4e22-98d1-15ffbb03f034"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1006",
+        "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/a/earth-lusca-employs-sophisticated-infrastructure-varied-tools-and-techniques/technical-brief-delving-deep-an-analysis-of-earth-lusca-operations.pdf",
+        "https://www.recordedfuture.com/chinese-group-tag-22-targets-nepal-philippines-taiwan",
+        "https://go.recordedfuture.com/hubfs/reports/cta-2023-0808.pdf",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+    ],
+    "mitre_description": "[Earth Lusca](https://attack.mitre.org/groups/G1006) is a suspected China-based cyber espionage group that has been active since at least April 2019. [Earth Lusca](https://attack.mitre.org/groups/G1006) has targeted organizations in Australia, China, Hong Kong, Mongolia, Nepal, the Philippines, Taiwan, Thailand, Vietnam, the United Arab Emirates, Nigeria, Germany, France, and the United States. Targets included government institutions, news media outlets, gambling companies, educational institutions, COVID-19 research organizations, telecommunications companies, religious movements banned in China, and cryptocurrency trading platforms; security researchers assess some [Earth Lusca](https://attack.mitre.org/groups/G1006) operations may be financially motivated.(Citation: TrendMicro EarthLusca 2022)\n\n[Earth Lusca](https://attack.mitre.org/groups/G1006) has used malware commonly used by other Chinese threat groups, including [APT41](https://attack.mitre.org/groups/G0096) and the [Winnti Group](https://attack.mitre.org/groups/G0044) cluster, however security researchers assess [Earth Lusca](https://attack.mitre.org/groups/G1006)'s techniques and infrastructure are separate.(Citation: TrendMicro EarthLusca 2022)",
+    "mitre_aliases": [
+        "Earth Lusca",
+        "TAG-22",
+        "Charcoal Typhoon",
+        "CHROMIUM",
+        "ControlX"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2022-07-01T20:12:30.184Z",
+    "mitre_modified": "2024-04-10T21:38:24.226Z"
+}

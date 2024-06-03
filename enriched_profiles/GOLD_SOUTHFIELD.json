@@ -1,0 +1,33 @@
+{
+    "description": "GOLD SOUTHFIELD is a financially motivated cybercriminal threat group that authors and operates the REvil (aka Sodinokibi) ransomware on behalf of various affiliated threat groups. Operational since April 2019, the group obtained the GandCrab source code from GOLD GARDEN, the operators of GandCrab that voluntarily withdrew their ransomware from underground markets in May 2019. GOLD SOUTHFIELD is responsible for authoring REvil and operating the backend infrastructure used by affiliates (also called partners) to create malware builds and to collect ransom payments from victims. CTU researchers assess with high confidence that GOLD SOUTHFIELD is a former GandCrab affiliate and continues to work with other former GandCrab affiliates.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-southfield",
+            "https://www.secureworks.com/research/revil-sodinokibi-ransomware",
+            "https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic",
+            "https://www.secureworks.com/blog/revil-the-gandcrab-connection"
+        ]
+    },
+    "uuid": "262c8537-1cdb-4297-aa3e-1410164160bf",
+    "value": "GOLD SOUTHFIELD",
+    "mitre_attack_ids": [
+        "intrusion-set--c77c5576-ca19-42ed-a36f-4b4486a84133"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0115",
+        "https://www.secureworks.com/research/revil-sodinokibi-ransomware",
+        "https://www.crowdstrike.com/blog/the-evolution-of-revil-ransomware-and-pinchy-spider/",
+        "https://www.secureworks.com/blog/revil-the-gandcrab-connection",
+        "https://www.secureworks.com/research/threat-profiles/gold-southfield"
+    ],
+    "mitre_description": "[GOLD SOUTHFIELD](https://attack.mitre.org/groups/G0115) is a financially motivated threat group active since at least 2018 that operates the [REvil](https://attack.mitre.org/software/S0496) Ransomware-as-a Service (RaaS). [GOLD SOUTHFIELD](https://attack.mitre.org/groups/G0115) provides backend infrastructure for affiliates recruited on underground forums to perpetrate high value deployments. By early 2020, [GOLD SOUTHFIELD](https://attack.mitre.org/groups/G0115) started capitalizing on the new trend of stealing data and further extorting the victim to pay for their data to not get publicly leaked.(Citation: Secureworks REvil September 2019)(Citation: Secureworks GandCrab and REvil September 2019)(Citation: Secureworks GOLD SOUTHFIELD)(Citation: CrowdStrike Evolution of Pinchy Spider July 2021)",
+    "mitre_aliases": [
+        "GOLD SOUTHFIELD",
+        "Pinchy Spider"
+    ],
+    "mitre_contributors": [
+        "Thijn Bukkems, Amazon"
+    ],
+    "mitre_created": "2020-09-22T19:41:27.845Z",
+    "mitre_modified": "2023-03-28T20:49:53.223Z"
+}

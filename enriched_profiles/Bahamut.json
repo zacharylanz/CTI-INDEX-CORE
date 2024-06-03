@@ -1,0 +1,28 @@
+{
+    "description": "Bahamut is a threat actor primarily operating in Middle East and Central Asia, suspected to be a private contractor to several state sponsored actors. They were observed conduct phishing as well as desktop and mobile malware campaigns.",
+    "meta": {
+        "refs": [
+            "https://www.bellingcat.com/news/mena/2017/06/12/bahamut-pursuing-cyber-espionage-actor-middle-east/",
+            "https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-cyber-espionage-middle-east-south-asia/"
+        ]
+    },
+    "uuid": "dc3edacc-bb24-11e8-81fb-8c16458922a7",
+    "value": "Bahamut",
+    "mitre_attack_ids": [
+        "intrusion-set--afec6dc3-a18e-4b62-b1a4-5510e1a498d1"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0112",
+        "https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1554718868.pdf",
+        "https://objective-see.com/blog/blog_0x3B.html",
+        "https://objective-see.com/blog/blog_0x3D.html"
+    ],
+    "mitre_description": "[Windshift](https://attack.mitre.org/groups/G0112) is a threat group that has been active since at least 2017, targeting specific individuals for surveillance in government departments and critical infrastructure across the Middle East.(Citation: SANS Windshift August 2018)(Citation: objective-see windtail1 dec 2018)(Citation: objective-see windtail2 jan 2019)",
+    "mitre_aliases": [
+        "Windshift",
+        "Bahamut"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2020-06-25T17:16:39.168Z",
+    "mitre_modified": "2021-04-26T14:37:33.234Z"
+}

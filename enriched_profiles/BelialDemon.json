@@ -1,0 +1,13 @@
+{
+    "description": "Mentioned as operator of TriumphLoader and Matanbuchus",
+    "meta": {
+        "refs": [
+            "https://unit42.paloaltonetworks.com/matanbuchus-malware-as-a-service/"
+        ],
+        "synonyms": [
+            "Matanbuchus"
+        ]
+    },
+    "uuid": "e7aff414-fc21-43eb-ad5d-9a46e07be9f5",
+    "value": "BelialDemon"
+}

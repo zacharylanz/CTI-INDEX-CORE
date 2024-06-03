@@ -1,0 +1,50 @@
+{
+    "description": "Likely Chinese state-sponsored threat activity group RedDelta targeting organizations within Europe and Southeast Asia using a customized variant of the PlugX backdoor. Since at least 2019, RedDelta has been consistently active within Southeast Asia, particularly in Myanmar and Vietnam, but has also routinely adapted its targeting in response to global geopolitical events. This is historically evident through the group\u2019s targeting of the Vatican and other Catholic organizations in the lead-up to 2021 talks between Chinese Communist Party (CCP) and Vatican officials, as well as throughout 2022 through the group\u2019s shift towards increased targeting of European government and diplomatic entities following Russia\u2019s invasion of Ukraine.\n\nDuring the 3-month period from September through November 2022, RedDelta has regularly used an infection chain employing malicious shortcut (LNK) files, which trigger a dynamic-link library (DLL) search-order-hijacking execution chain to load consistently updated PlugX versions. Throughout this period, the group repeatedly employed decoy documents specific to government and migration policy within Europe. Of note, we identified a European government department focused on trade communicating with RedDelta command-and-control (C2) infrastructure in early August 2022. This activity commenced on the same day that a RedDelta PlugX sample using this C2 infrastructure and featuring an EU trade-themed decoy document surfaced on public malware repositories. We also identified additional probable victim entities within Myanmar and Vietnam regularly communicating with RedDelta C2 infrastructure.\n\nRedDelta closely overlaps with public industry reporting under the aliases BRONZE PRESIDENT, Mustang Panda, TA416, Red Lich, and HoneyMyte.",
+    "meta": {
+        "refs": [
+            "https://go.recordedfuture.com/hubfs/reports/cta-2022-1223.pdf"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "78bf726c-a9e6-11e8-9e43-77249a2f7339",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "overlaps"
+        },
+        {
+            "dest-uuid": "420ac20b-f2b9-42b8-aa1a-6d4b72895ca4",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "overlaps"
+        }
+    ],
+    "uuid": "fceed509-938e-4f9e-acd4-76e6c28dc6f1",
+    "value": "RedDelta",
+    "mitre_attack_ids": [
+        "intrusion-set--420ac20b-f2b9-42b8-aa1a-6d4b72895ca4"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0129",
+        "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
+        "https://www.secureworks.com/research/bronze-president-targets-ngos",
+        "https://go.recordedfuture.com/hubfs/reports/cta-2020-0728.pdf",
+        "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/",
+        "https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader",
+        "https://www.proofpoint.com/us/blog/threat-insight/good-bad-and-web-bug-ta416-increases-operational-tempo-against-european"
+    ],
+    "mitre_description": "[Mustang Panda](https://attack.mitre.org/groups/G0129) is a China-based cyber espionage threat actor that was first observed in 2017 but may have been conducting operations since at least 2014. [Mustang Panda](https://attack.mitre.org/groups/G0129) has targeted government entities, nonprofits, religious, and other non-governmental organizations in the U.S., Europe, Mongolia, Myanmar, Pakistan, and Vietnam, among others.(Citation: Crowdstrike MUSTANG PANDA June 2018)(Citation: Anomali MUSTANG PANDA October 2019)(Citation: Secureworks BRONZE PRESIDENT December 2019) ",
+    "mitre_aliases": [
+        "Mustang Panda",
+        "TA416",
+        "RedDelta",
+        "BRONZE PRESIDENT"
+    ],
+    "mitre_contributors": [
+        "Kyaw Pyiyt Htet, @KyawPyiytHtet"
+    ],
+    "mitre_created": "2021-04-12T15:56:28.861Z",
+    "mitre_modified": "2023-03-22T22:01:13.781Z"
+}

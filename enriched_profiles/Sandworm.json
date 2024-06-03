@@ -1,0 +1,164 @@
+{
+    "description": "This threat actor targets industrial control systems, using a tool called Black Energy, associated with electricity and power generation for espionage, denial of service, and data destruction purposes. Some believe that the threat actor is linked to the 2015 compromise of the Ukrainian electrical grid and a distributed denial of service prior to the Russian invasion of Georgia. Believed to be responsible for the 2008 DDoS attacks in Georgia and the 2015 Ukraine power grid outage",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "Russia",
+            "Lithuania",
+            "Kyrgyzstan",
+            "Israel",
+            "Ukraine",
+            "Belarus",
+            "Kazakhstan",
+            "Georgia",
+            "Poland",
+            "Azerbaijan",
+            "Iran"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://dragos.com/blog/crashoverride/CrashOverride-01.pdf",
+            "https://www.us-cert.gov/ncas/alerts/TA17-163A",
+            "https://ics.sans.org/blog/2016/01/09/confirmation-of-a-coordinated-attack-on-the-ukrainian-power-grid",
+            "https://web.archive.org/web/20141016132823/https://www.symantec.com/connect/blogs/sandworm-windows-zero-day-vulnerability-being-actively-exploited-targeted-attacks",
+            "https://ics.sans.org/blog/2015/12/30/current-reporting-on-the-cyber-attack-in-ukraine-resulting-in-power-outage",
+            "https://web.archive.org/web/20141224060545/http://blog.trendmicro.com/trendlabs-security-intelligence/timeline-of-sandworm-attacks/",
+            "https://attack.mitre.org/groups/G0034",
+            "https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag",
+            "https://www.welivesecurity.com/wp-content/uploads/2017/06/Win32_Industroyer.pdf",
+            "https://dragos.com/media/2017-Review-Industrial-Control-System-Threats.pdf",
+            "https://dragos.com/adversaries.html",
+            "http://www.welivesecurity.com/2016/12/13/rise-telebots-analyzing-disruptive-killdisk-attacks",
+            "https://www.welivesecurity.com/2017/01/05/killdisk-now-targeting-linux-demands-250k-ransom-cant-decrypt",
+            "https://www.welivesecurity.com/2017/06/30/telebots-back-supply-chain-attacks-against-ukraine",
+            "https://www.welivesecurity.com/2017/05/23/xdata-ransomware-making-rounds-amid-global-wannacryptor-scare",
+            "https://www.welivesecurity.com/2017/06/27/new-ransomware-attack-hits-ukraine",
+            "https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back",
+            "https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/",
+            "https://www.recordedfuture.com/russia-nexus-uac-0113-emulating-telecommunication-providers-in-ukraine",
+            "https://cert.gov.ua/article/405538",
+            "https://cip.gov.ua/services/cm/api/attachment/download?id=60068",
+            "https://packetstormsecurity.com/news/view/35790/Recent-OT-And-Espionage-Attacks-Linked-To-Russias-Sandworm-Now-Named-APT44.html",
+            "https://cloud.google.com/blog/topics/threat-intelligence/apt44-unearthing-sandworm?linkId=9627235",
+            "https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf"
+        ],
+        "synonyms": [
+            "Quedagh",
+            "VOODOO BEAR",
+            "TEMP.Noble",
+            "IRON VIKING",
+            "G0034",
+            "ELECTRUM",
+            "TeleBots",
+            "IRIDIUM",
+            "Blue Echidna",
+            "FROZENBARENTS",
+            "UAC-0113",
+            "Seashell Blizzard",
+            "UAC-0082",
+            "APT44"
+        ],
+        "targeted-sector": [
+            "Electric",
+            "Energy",
+            "Industrial"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "381fcf73-60f6-4ab2-9991-6af3cbc35192",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b47250ec-2094-4d06-b658-11456e05fe89",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "feac86e4-6bb2-4ba0-ac99-806aeb0a776c",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "d52ca4c4-d214-11e8-8d29-c3e7cb78acce",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "473eb51c-36cb-5e3a-8347-2f57df809be9",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b4fbf3b0-1a5e-4bdc-8977-74fff1db19ff",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "0fdab65b-3e2b-5fd8-be36-cc18c7bcc1d7",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "f512de42-f76b-40d2-9923-59e7dbdfec35",
+    "value": "Sandworm",
+    "mitre_attack_ids": [
+        "intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0034",
+        "https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/",
+        "https://www.justice.gov/opa/page/file/1098481/download",
+        "https://www.dragos.com/resource/electrum/",
+        "https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf",
+        "https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html",
+        "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/en-us/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/",
+        "https://www.infosecurity-magazine.com/news/microsoft-zero-day-traced-russian/",
+        "https://www.ncsc.gov.uk/news/ncsc-supports-sandworm-advisory",
+        "https://2017-2021.state.gov/the-united-states-condemns-russian-cyber-attack-against-the-country-of-georgia//index.html",
+        "https://www.justice.gov/opa/press-release/file/1328521/download",
+        "https://www.secureworks.com/research/threat-profiles/iron-viking",
+        "https://www.gov.uk/government/news/uk-exposes-series-of-russian-cyber-attacks-against-olympic-and-paralympic-games"
+    ],
+    "mitre_description": "[Sandworm Team](https://attack.mitre.org/groups/G0034) is a destructive threat group that has been attributed to Russia's General Staff Main Intelligence Directorate (GRU) Main Center for Special Technologies (GTsST) military unit 74455.(Citation: US District Court Indictment GRU Unit 74455 October 2020)(Citation: UK NCSC Olympic Attacks October 2020) This group has been active since at least 2009.(Citation: iSIGHT Sandworm 2014)(Citation: CrowdStrike VOODOO BEAR)(Citation: USDOJ Sandworm Feb 2020)(Citation: NCSC Sandworm Feb 2020)\n\nIn October 2020, the US indicted six GRU Unit 74455 officers associated with [Sandworm Team](https://attack.mitre.org/groups/G0034) for the following cyber operations: the 2015 and 2016 attacks against Ukrainian electrical companies and government organizations, the 2017 worldwide [NotPetya](https://attack.mitre.org/software/S0368) attack, targeting of the 2017 French presidential campaign, the 2018 [Olympic Destroyer](https://attack.mitre.org/software/S0365) attack against the Winter Olympic Games, the 2018 operation against the Organisation for the Prohibition of Chemical Weapons, and attacks against the country of Georgia in 2018 and 2019.(Citation: US District Court Indictment GRU Unit 74455 October 2020)(Citation: UK NCSC Olympic Attacks October 2020) Some of these were conducted with the assistance of GRU Unit 26165, which is also referred to as [APT28](https://attack.mitre.org/groups/G0007).(Citation: US District Court Indictment GRU Oct 2018)",
+    "mitre_aliases": [
+        "Sandworm Team",
+        "ELECTRUM",
+        "Telebots",
+        "IRON VIKING",
+        "BlackEnergy (Group)",
+        "Quedagh",
+        "Voodoo Bear",
+        "IRIDIUM",
+        "Seashell Blizzard",
+        "FROZENBARENTS"
+    ],
+    "mitre_contributors": [
+        "Dragos Threat Intelligence"
+    ],
+    "mitre_created": "2017-05-31T21:32:04.588Z",
+    "mitre_modified": "2024-04-06T19:05:38.712Z"
+}

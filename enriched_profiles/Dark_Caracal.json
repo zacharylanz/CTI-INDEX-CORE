@@ -1,0 +1,31 @@
+{
+    "description": "Lookout and Electronic Frontier Foundation (EFF) have discovered Dark Caracal, a persistent and prolific actor, who at the time of writing is believed to be administered out of a building belonging to the Lebanese General Security Directorate in Beirut. At present, we have knowledge of hundreds of gigabytes of exfiltrated data, in 21+ countries, across thousands of victims. Stolen data includes enterprise intellectual property and personally identifiable information.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "LB",
+        "refs": [
+            "https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf",
+            "https://research.checkpoint.com/2020/bandook-signed-delivered",
+            "https://attack.mitre.org/groups/G0070/"
+        ],
+        "synonyms": [
+            "G0070"
+        ]
+    },
+    "uuid": "3d449c83-4426-431a-b06a-cb4f8a0fca94",
+    "value": "Dark Caracal",
+    "mitre_attack_ids": [
+        "intrusion-set--8a831aaa-f3e0-47a3-bed8-a9ced744dd12"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0070",
+        "https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf"
+    ],
+    "mitre_description": "[Dark Caracal](https://attack.mitre.org/groups/G0070) is threat group that has been attributed to the Lebanese General Directorate of General Security (GDGS) and has operated since at least 2012. (Citation: Lookout Dark Caracal Jan 2018)",
+    "mitre_aliases": [
+        "Dark Caracal"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2024-04-11T02:42:07.325Z"
+}

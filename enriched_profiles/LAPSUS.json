@@ -1,0 +1,51 @@
+{
+    "description": "An actor group conducting large-scale social engineering and extortion campaign against multiple organizations with some seeing evidence of destructive elements.",
+    "meta": {
+        "refs": [
+            "https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/",
+            "https://blog.checkpoint.com/2022/03/07/lapsus-ransomware-gang-uses-stolen-source-code-to-disguise-malware-files-as-trustworthy-check-point-customers-remain-protected/",
+            "https://www.crowdstrike.com/adversaries/slippy-spider/"
+        ],
+        "synonyms": [
+            "LAPSUS$",
+            "DEV-0537",
+            "SLIPPY SPIDER",
+            "Strawberry Tempest"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "d4dfb329-822c-5db3-a078-a8c0f77924da",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "d9e5be22-1a04-4956-af6c-37af02330980",
+    "value": "LAPSUS",
+    "mitre_attack_ids": [
+        "intrusion-set--d8bc9788-4f7d-41a9-9e9d-ee1ea18a8cf7"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1004",
+        "https://www.bbc.com/news/technology-60953527",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/",
+        "https://unit42.paloaltonetworks.com/lapsus-group/"
+    ],
+    "mitre_description": "[LAPSUS$](https://attack.mitre.org/groups/G1004) is cyber criminal threat group that has been active since at least mid-2021. [LAPSUS$](https://attack.mitre.org/groups/G1004) specializes in large-scale social engineering and extortion operations, including destructive attacks without the use of ransomware. The group has targeted organizations globally, including in the government, manufacturing, higher education, energy, healthcare, technology, telecommunications, and media sectors.(Citation: BBC LAPSUS Apr 2022)(Citation: MSTIC DEV-0537 Mar 2022)(Citation: UNIT 42 LAPSUS Mar 2022)",
+    "mitre_aliases": [
+        "LAPSUS$",
+        "DEV-0537",
+        "Strawberry Tempest"
+    ],
+    "mitre_contributors": [
+        "David Hughes, BT Security",
+        "Matt Brenton, Zurich Insurance Group",
+        "Flavio Costa, Cisco",
+        "Caio Silva"
+    ],
+    "mitre_created": "2022-06-09T19:14:31.327Z",
+    "mitre_modified": "2024-01-11T21:51:11.405Z"
+}

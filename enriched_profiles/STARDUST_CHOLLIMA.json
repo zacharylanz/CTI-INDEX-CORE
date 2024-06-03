@@ -1,0 +1,37 @@
+{
+    "description": "Open-source reporting has claimed that the Hermes ransomware was developed by the North Korean group STARDUST CHOLLIMA (activities of which have been public reported as part of the \u201cLazarus Group\u201d), because Hermes was executed on a host during the SWIFT compromise of FEIB in October 2017. ",
+    "meta": {
+        "refs": [
+            "https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/"
+        ]
+    },
+    "uuid": "d8e1762a-0063-48c2-9ea1-8d176d14b70f",
+    "value": "STARDUST CHOLLIMA",
+    "mitre_attack_ids": [
+        "intrusion-set--00f67a77-86a4-4adf-be26-1a54fc713340"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0082",
+        "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf",
+        "https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and",
+        "https://us-cert.cisa.gov/ncas/alerts/aa20-239a",
+        "https://content.fireeye.com/apt/rpt-apt38",
+        "https://securelist.com/lazarus-under-the-hood/77908/",
+        "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-april-stardust-chollima/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.secureworks.com/research/threat-profiles/nickel-gladstone"
+    ],
+    "mitre_description": "[APT38](https://attack.mitre.org/groups/G0082) is a North Korean state-sponsored threat group that specializes in financial cyber operations; it has been attributed to the Reconnaissance General Bureau.(Citation: CISA AA20-239A BeagleBoyz August 2020) Active since at least 2014, [APT38](https://attack.mitre.org/groups/G0082) has targeted banks, financial institutions, casinos, cryptocurrency exchanges, SWIFT system endpoints, and ATMs in at least 38 countries worldwide. Significant operations include the 2016 Bank of Bangladesh heist, during which [APT38](https://attack.mitre.org/groups/G0082) stole $81 million, as well as attacks against Bancomext (Citation: FireEye APT38 Oct 2018) and Banco de Chile (Citation: FireEye APT38 Oct 2018); some of their attacks have been destructive.(Citation: CISA AA20-239A BeagleBoyz August 2020)(Citation: FireEye APT38 Oct 2018)(Citation: DOJ North Korea Indictment Feb 2021)(Citation: Kaspersky Lazarus Under The Hood Blog 2017)\n\nNorth Korean group definitions are known to have significant overlap, and some security researchers report all North Korean state-sponsored cyber activity under the name [Lazarus Group](https://attack.mitre.org/groups/G0032) instead of tracking clusters or subgroups.",
+    "mitre_aliases": [
+        "APT38",
+        "NICKEL GLADSTONE",
+        "BeagleBoyz",
+        "Bluenoroff",
+        "Stardust Chollima",
+        "Sapphire Sleet",
+        "COPERNICIUM"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2019-01-29T21:27:24.793Z",
+    "mitre_modified": "2024-04-17T22:08:29.146Z"
+}

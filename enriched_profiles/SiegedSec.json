@@ -1,0 +1,15 @@
+{
+    "description": "SiegedSec, a hacktivist collective, emerged coincidentally just days before Russia\u2019s invasion of Ukraine. Under the leadership of the hacktivist known as \u201cYourAnonWolf,\u201d the group swiftly gained strength, announcing an increasing number of victims after its inception. The group humorously self-identifies as \u201cgay furry hackers\u201d and is renowned for its comical slogans and the use of vulgar language. SiegedSec has affiliations with other hacker groups like GhostSec and typically consists of members aged between 18 and 26.",
+    "meta": {
+        "refs": [
+            "https://therecord.media/nato-siegedsec-unclassified-websites-alleged-cyberattack",
+            "https://socradar.io/threat-actor-profile-siegedsec/",
+            "https://socradar.io/the-five-families-hacker-collaboration-redefining-the-game/",
+            "https://therecord.media/fort-worth-officials-say-leaked-data-was-public",
+            "https://webz.io/dwp/exclusive-hacktivists-attack-anti-abortion-u-s-states/",
+            "https://www.darkowl.com/blog-content/darkowl-threat-actor-spotlight-siegedsec-and-leaked-data/"
+        ]
+    },
+    "uuid": "3c2f534a-a898-4af6-b3e8-f2740c473de0",
+    "value": "SiegedSec"
+}

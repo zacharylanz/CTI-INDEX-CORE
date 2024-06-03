@@ -1,0 +1,32 @@
+{
+    "description": "In August of 2018, DarkMatter released a report entitled \u201cIn the Trails of WINDSHIFT APT\u201d, which unveiled a threat actor with TTPs very similar to those of Bahamut. Subsequently, two additional articles were released by Objective-See which provide an analysis of some validated WINDSHIFT samples targeting OSX systems. Pivoting on specific file attributes and infrastructure indicators, Unit 42 was able to identify and correlate additional attacker activity and can now provide specific details on a targeted WINDSHIFT attack as it unfolded at a Middle Eastern government agency.",
+    "meta": {
+        "refs": [
+            "https://unit42.paloaltonetworks.com/shifting-in-the-wind-windshift-attacks-target-middle-eastern-governments/",
+            "https://gsec.hitb.org/materials/sg2018/D1%20COMMSEC%20-%20In%20the%20Trails%20of%20WINDSHIFT%20APT%20-%20Taha%20Karim.pdf",
+            "https://unit42.paloaltonetworks.com/atoms/windyphoenix/"
+        ],
+        "synonyms": [
+            "Windy Phoenix"
+        ]
+    },
+    "uuid": "cbbbfc82-9294-11e9-8e19-2bc14137b25b",
+    "value": "WindShift",
+    "mitre_attack_ids": [
+        "intrusion-set--afec6dc3-a18e-4b62-b1a4-5510e1a498d1"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0112",
+        "https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1554718868.pdf",
+        "https://objective-see.com/blog/blog_0x3B.html",
+        "https://objective-see.com/blog/blog_0x3D.html"
+    ],
+    "mitre_description": "[Windshift](https://attack.mitre.org/groups/G0112) is a threat group that has been active since at least 2017, targeting specific individuals for surveillance in government departments and critical infrastructure across the Middle East.(Citation: SANS Windshift August 2018)(Citation: objective-see windtail1 dec 2018)(Citation: objective-see windtail2 jan 2019)",
+    "mitre_aliases": [
+        "Windshift",
+        "Bahamut"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2020-06-25T17:16:39.168Z",
+    "mitre_modified": "2021-04-26T14:37:33.234Z"
+}

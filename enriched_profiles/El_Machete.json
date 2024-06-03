@@ -1,0 +1,75 @@
+{
+    "description": "El Machete is one of these threats that was first publicly disclosed and named by Kaspersky here. We\u2019ve found that this group has continued to operate successfully, predominantly in Latin America, since 2014. All attackers simply moved to new C2 infrastructure, based largely around dynamic DNS domains, in addition to making minimal changes to the malware in order to evade signature-based detection.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+            "Venezuela",
+            "Russia",
+            "Cuba",
+            "China",
+            "Belgium",
+            "Ecuador",
+            "Brazil",
+            "Spain",
+            "Germany",
+            "France",
+            "Colombia",
+            "Peru",
+            "Sweden",
+            "United States",
+            "Malaysia"
+        ],
+        "cfr-target-category": [
+            "Military",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://attack.mitre.org/groups/G0095/",
+            "https://securelist.com/el-machete/66108/",
+            "https://www.cylance.com/en_us/blog/el-machete-malware-attacks-cut-through-latam.html",
+            "https://www.cfr.org/interactive/cyber-operations/machete",
+            "https://threatvector.cylance.com/en_us/home/el-machete-malware-attacks-cut-through-latam.html",
+            "https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/"
+        ],
+        "synonyms": [
+            "Machete",
+            "machete-apt",
+            "APT-C-43",
+            "G0095"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "d0b9840d-efe2-5200-89d1-2f1a37737e30",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "827c17e0-c3f5-4ad1-a4f4-30a40ed0a2d3",
+    "value": "El Machete",
+    "mitre_attack_ids": [
+        "intrusion-set--38863958-a201-4ce1-9dbe-539b0b6804e0"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0095",
+        "https://threatvector.cylance.com/en_us/home/el-machete-malware-attacks-cut-through-latam.html",
+        "https://securelist.com/el-machete/66108/",
+        "https://www.welivesecurity.com/wp-content/uploads/2019/08/ESET_Machete.pdf",
+        "https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/"
+    ],
+    "mitre_description": "[Machete](https://attack.mitre.org/groups/G0095) is a suspected Spanish-speaking cyber espionage group that has been active since at least 2010. It has primarily focused its operations within Latin America, with a particular emphasis on Venezuela, but also in the US, Europe, Russia, and parts of Asia. [Machete](https://attack.mitre.org/groups/G0095) generally targets high-profile organizations such as government institutions, intelligence services, and military units, as well as telecommunications and power companies.(Citation: Cylance Machete Mar 2017)(Citation: Securelist Machete Aug 2014)(Citation: ESET Machete July 2019)(Citation: 360 Machete Sep 2020)",
+    "mitre_aliases": [
+        "Machete",
+        "APT-C-43",
+        "El Machete"
+    ],
+    "mitre_contributors": [
+        "Matias Nicolas Porolli, ESET"
+    ],
+    "mitre_created": "2019-09-13T12:37:10.394Z",
+    "mitre_modified": "2021-10-06T19:26:47.988Z"
+}

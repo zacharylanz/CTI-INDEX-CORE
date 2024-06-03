@@ -1,0 +1,45 @@
+{
+    "description": "Ghostwriter is referred as an 'activity set', with various incidents tied together by overlapping behavioral characteristics and personas, rather than as an actor or group in itself.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Belarus",
+        "cfr-suspected-victims": [
+            "Germany",
+            "Latvia",
+            "Lithuania",
+            "Poland",
+            "Ukraine"
+        ],
+        "cfr-target-category": [
+            "Government"
+        ],
+        "country": "BY",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2020/07/ghostwriter-influence-campaign.html",
+            "https://twitter.com/hatr/status/1377220336597483520",
+            "https://www.mandiant.com/resources/unc1151-linked-to-belarus-government",
+            "https://www.bleepingcomputer.com/news/security/meta-ukrainian-officials-military-targeted-by-ghostwriter-hackers",
+            "https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag",
+            "https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html"
+        ],
+        "synonyms": [
+            "UNC1151",
+            "TA445",
+            "PUSHCHA",
+            "Storm-0257",
+            "DEV-0257"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "60ac9e2c-b3b2-5c6b-913e-935952e14c28",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "749aaa11-f0fd-416b-bf6c-112f9b5930a5",
+    "value": "Ghostwriter"
+}

@@ -1,0 +1,10 @@
+{
+    "description": "GOLD FAIRFAX is a financially motivated cybercriminal threat group responsible for the creation, distribution, and operation of the Ramnit botnet. Ramnit, the phonetic spelling of RMNet, the internal name of the core module, began operation in April 2010 and became widespread in July 2010. A particularly virulent file-infecting component of early Ramnit variants that spreads by modifying executables and HTML files has resulted in the continued prevalence of those early variants. Currently, Ramnit remains an actively maintained and distributed threat. The intent of Ramnit is to intercept and manipulate online financial transactions through modification of web browser behavior ('man-in-the-browser').",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-fairfax"
+        ]
+    },
+    "uuid": "eadc8c5c-a97d-454e-8e67-475ac60749bf",
+    "value": "GOLD FAIRFAX"
+}

@@ -1,0 +1,49 @@
+{
+    "description": "Longhorn has been active since at least 2011. It has used a range of back door Trojans in addition to zero-day vulnerabilities to compromise its targets. Longhorn has infiltrated governments and internationally operating organizations, in addition to targets in the financial, telecoms, energy, aerospace, information technology, education, and natural resources sectors. All of the organizations targeted would be of interest to a nation-state attacker.  Longhorn has infected 40 targets in at least 16 countries across the Middle East, Europe, Asia, and Africa. On one occasion a computer in the United States was compromised but, following infection, an uninstaller was launched within hours, which may indicate this victim was infected unintentionally. According to cfr, this threat actor compromises governments, international organizations, academic institutions, and financial, telecommunications, energy, aerospace, information technology, and natural resource  industries for espionage purposes. Some of the tools used by this threat actor were released by Wikileaks under the name \"Vault 7.\"",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "United States",
+        "cfr-suspected-victims": [
+            "Global"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "US",
+        "refs": [
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=7ca2e331-2209-46a8-9e60-4cb83f9602de&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://www.bleepingcomputer.com/news/security/longhorn-cyber-espionage-group-is-actually-the-cia/",
+            "https://www.cfr.org/interactive/cyber-operations/longhorn",
+            "http://blogs.360.cn/post/APT-C-39_CIA_EN.html",
+            "https://www.secureworks.com/research/threat-profiles/platinum-terminal"
+        ],
+        "synonyms": [
+            "Lamberts",
+            "the Lamberts",
+            "APT-C-39",
+            "PLATINUM TERMINAL"
+        ],
+        "targeted-sector": [
+            "Telecoms",
+            "Aerospace",
+            "Energy",
+            "Education",
+            "Government, Administration",
+            "Finance",
+            "News - Media"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7036fb3d-86b7-4d9c-bc66-1e1ead8b7840",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "2f3311cd-8476-4be7-9005-ead920afc781",
+    "value": "Longhorn"
+}

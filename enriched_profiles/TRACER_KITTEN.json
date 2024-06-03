@@ -1,0 +1,14 @@
+{
+    "description": "In April 2020, Crowstrike Falcon OverWatch discovered Iran-based adversary TRACER KITTEN conducting malicious interactive activity against multiple hosts at a telecommunications company in the Europe, Middle East and Africa (EMEA) region. The actor was found operating under valid user accounts, using custom backdoors in combination with SSH tunnels for C2. The adversary leveraged their foothold to conduct a variety of reconnaissance activities, undertake credential harvesting and prepare for data exfiltration.",
+    "meta": {
+        "country": "IR",
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020OverWatchNowheretoHide.pdf"
+        ],
+        "targeted-sector": [
+            "Telecoms"
+        ]
+    },
+    "uuid": "6cc574c0-3dfa-459c-933a-4c63490c4e93",
+    "value": "TRACER KITTEN"
+}

@@ -1,0 +1,37 @@
+{
+    "description": "Since 2017, Mandiant has been tracking FIN13, an industrious and versatile financially motivated threat actor conducting long-term intrusions in Mexico with an activity timeframe stretching back as early as 2016. Although their operations continue through the present day, in many ways FIN13's intrusions are like a time capsule of traditional financial cybercrime from days past. Instead of today's prevalent smash-and-grab ransomware groups, FIN13 takes their time to gather information to perform fraudulent money transfers. Rather than relying heavily on attack frameworks such as Cobalt Strike, the majority of FIN13 intrusions involve heavy use of custom passive backdoors and tools to lurk in environments for the long haul.",
+    "meta": {
+        "country": "RU",
+        "refs": [
+            "https://www.mandiant.com/resources/fin13-cybercriminal-mexico",
+            "https://blog.sygnia.co/elephant-beetle-an-organized-financial-theft-operation",
+            "https://f.hubspotusercontent30.net/hubfs/8776530/Sygnia-%20Elephant%20Beetle_Jan2022.pdf",
+            "https://www.netwitness.com/wp-content/uploads/FIN13-Elephant-Beetle-NetWitness.pdf"
+        ],
+        "synonyms": [
+            "TG2003",
+            "Elephant Beetle"
+        ]
+    },
+    "uuid": "60fa684d-c738-4b77-98fb-3f6605e2bb82",
+    "value": "FIN13",
+    "mitre_attack_ids": [
+        "intrusion-set--fd66436e-4d33-450e-ac4c-f7810f1c85f4"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1016",
+        "https://f.hubspotusercontent30.net/hubfs/8776530/Sygnia-%20Elephant%20Beetle_Jan2022.pdf?__hstc=147695848.3e8f1a482c8f8d4531507747318e660b.1680005306711.1680005306711.1680005306711.1&__hssc=147695848.1.1680005306711&__hsfp=3000179024&hsCtaTracking=189ec409-ae2d-4909-8bf1-62dcdd694372%7Cca91d317-8f10-4a38-9f80-367f551ad64d",
+        "https://www.mandiant.com/resources/blog/fin13-cybercriminal-mexico"
+    ],
+    "mitre_description": "[FIN13](https://attack.mitre.org/groups/G1016) is a financially motivated cyber threat group that has targeted the financial, retail, and hospitality industries in Mexico and Latin America, as early as 2016. [FIN13](https://attack.mitre.org/groups/G1016) achieves its objectives by stealing intellectual property, financial data, mergers and acquisition information, or PII.(Citation: Mandiant FIN13 Aug 2022)(Citation: Sygnia Elephant Beetle Jan 2022)",
+    "mitre_aliases": [
+        "FIN13",
+        "Elephant Beetle"
+    ],
+    "mitre_contributors": [
+        "Oren Biderman, Sygnia",
+        "Noam Lifshitz, Sygnia"
+    ],
+    "mitre_created": "2023-07-27T15:24:02.162Z",
+    "mitre_modified": "2023-09-29T19:08:47.861Z"
+}

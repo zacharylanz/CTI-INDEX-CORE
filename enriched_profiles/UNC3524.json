@@ -1,0 +1,74 @@
+{
+    "description": "Mandiant observed this group operating since December 2019. Its techniques partially overlap with multiple Russian-based espionage actors (APT28 and APT29). They are described as having a high level of operational security, low malware footprint, adept evasive skills, and a large Internet of Things (IoT) device botnet at their disposal.",
+    "meta": {
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://www.mandiant.com/resources/unc3524-eye-spy-email"
+        ]
+    },
+    "uuid": "bee8b09c-07e5-4c12-94d6-266ebcb1ec24",
+    "value": "UNC3524",
+    "mitre_attack_ids": [
+        "intrusion-set--899ce53f-13a0-479b-a0e4-67d46e241542"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0016",
+        "https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/",
+        "https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/",
+        "https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/",
+        "https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/",
+        "https://www.us-cert.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf",
+        "https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html",
+        "https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf",
+        "https://www.welivesecurity.com/wp-content/uploads/2019/10/ESET_Operation_Ghost_Dukes.pdf",
+        "https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html",
+        "https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/",
+        "https://www.mandiant.com/resources/blog/unc3524-eye-spy-email",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/security/blog/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/",
+        "https://www.microsoft.com/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/",
+        "https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/",
+        "https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/",
+        "https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/",
+        "https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development-V1-1.pdf",
+        "https://www.ncsc.gov.uk/files/Advisory-further-TTPs-associated-with-SVR-cyber-actors.pdf",
+        "https://media.defense.gov/2021/Apr/15/2002621240/-1/-1/0/CSA_SVR_TARGETS_US_ALLIES_UOO13234021.PDF/CSA_SVR_TARGETS_US_ALLIES_UOO13234021.PDF",
+        "https://www.pwc.co.uk/issues/cyber-security-services/insights/wellmess-analysis-command-control.html",
+        "https://www.pwc.co.uk/issues/cyber-security-services/insights/cleaning-up-after-wellmess.html",
+        "http://www.secureworks.com/research/threat-profiles/iron-hemlock",
+        "https://www.secureworks.com/research/threat-profiles/iron-ritual",
+        "https://www.gov.uk/government/news/russia-uk-and-us-expose-global-campaigns-of-malign-activity-by-russian-intelligence-services",
+        "https://www.gov.uk/government/news/russia-uk-exposes-russian-involvement-in-solarwinds-cyber-compromise",
+        "https://www.ncsc.gov.uk/news/uk-and-us-call-out-russia-for-solarwinds-compromise",
+        "https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/",
+        "https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/"
+    ],
+    "mitre_description": "[APT29](https://attack.mitre.org/groups/G0016) is threat group that has been attributed to Russia's Foreign Intelligence Service (SVR).(Citation: White House Imposing Costs RU Gov April 2021)(Citation: UK Gov Malign RIS Activity April 2021) They have operated since at least 2008, often targeting government networks in Europe and NATO member countries, research institutes, and think tanks. [APT29](https://attack.mitre.org/groups/G0016) reportedly compromised the Democratic National Committee starting in the summer of 2015.(Citation: F-Secure The Dukes)(Citation: GRIZZLY STEPPE JAR)(Citation: Crowdstrike DNC June 2016)(Citation: UK Gov UK Exposes Russia SolarWinds April 2021)\n\nIn April 2021, the US and UK governments attributed the [SolarWinds Compromise](https://attack.mitre.org/campaigns/C0024) to the SVR; public statements included citations to [APT29](https://attack.mitre.org/groups/G0016), Cozy Bear, and The Dukes.(Citation: NSA Joint Advisory SVR SolarWinds April 2021)(Citation: UK NSCS Russia SolarWinds April 2021) Industry reporting also referred to the actors involved in this campaign as UNC2452, NOBELIUM, StellarParticle, Dark Halo, and SolarStorm.(Citation: FireEye SUNBURST Backdoor December 2020)(Citation: MSTIC NOBELIUM Mar 2021)(Citation: CrowdStrike SUNSPOT Implant January 2021)(Citation: Volexity SolarWinds)(Citation: Cybersecurity Advisory SVR TTP May 2021)(Citation: Unit 42 SolarStorm December 2020)",
+    "mitre_aliases": [
+        "APT29",
+        "IRON RITUAL",
+        "IRON HEMLOCK",
+        "NobleBaron",
+        "Dark Halo",
+        "StellarParticle",
+        "NOBELIUM",
+        "UNC2452",
+        "YTTRIUM",
+        "The Dukes",
+        "Cozy Bear",
+        "CozyDuke",
+        "SolarStorm",
+        "Blue Kitsune",
+        "UNC3524",
+        "Midnight Blizzard"
+    ],
+    "mitre_contributors": [
+        "Daniyal Naeem, BT Security",
+        "Matt Brenton, Zurich Insurance Group",
+        "Katie Nickels, Red Canary",
+        "Joe Gumke, U.S. Bank",
+        "Liran Ravich, CardinalOps"
+    ],
+    "mitre_created": "2017-05-31T21:31:52.748Z",
+    "mitre_modified": "2024-04-12T21:15:41.833Z"
+}

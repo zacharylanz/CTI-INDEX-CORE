@@ -1,0 +1,20 @@
+{
+    "description": "YoroTrooper\u2019s main targets are government or energy organizations in Azerbaijan, Tajikistan, Kyrgyzstan and other Commonwealth of Independent States, based on Cisco Talos analysis. YoroTrooper was also observed compromising accounts from at least two international organizations: a critical European Union health care agency and the World Intellectual Property Organization. Successful compromises also included Embassies of European countries including Azerbaijan and Turkmenistan.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Germany"
+        ],
+        "country": "KZ",
+        "refs": [
+            "https://blog.talosintelligence.com/attributing-yorotrooper/",
+            "https://blog.talosintelligence.com/yorotrooper-espionage-campaign-cis-turkey-europe/",
+            "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html"
+        ],
+        "synonyms": [
+            "Salted Earth",
+            "Sturgeon Fisher"
+        ]
+    },
+    "uuid": "2031ae01-e962-4861-a224-0934af6cdd3a",
+    "value": "YoroTrooper"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Threat actors behind the Operation Dust Storm have been active since at least 2010, the hackers targeted several organizations in Japan, South Korea, the US, Europe, and other Asian countries.",
+    "meta": {
+        "refs": [
+            "https://www.cylance.com/content/dam/cylance/pdfs/reports/Op_Dust_Storm_Report.pdf",
+            "https://web.archive.org/web/20140816135909/https://www.symantec.com/connect/blogs/inside-back-door-attack",
+            "https://attack.mitre.org/groups/G0031/"
+        ],
+        "synonyms": [
+            "G0031"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "ae41895a-243f-4a65-b99b-d85022326c31",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "9e71024e-817f-45b0-92a0-d886c30bc929",
+    "value": "Dust Storm",
+    "mitre_attack_ids": [
+        "intrusion-set--ae41895a-243f-4a65-b99b-d85022326c31"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0031",
+        "https://s7d2.scene7.com/is/content/cylance/prod/cylance-web/en-us/resources/knowledge-center/resource-library/reports/Op_Dust_Storm_Report.pdf"
+    ],
+    "mitre_description": "[Dust Storm](https://attack.mitre.org/groups/G0031) is a threat group that has targeted multiple industries in Japan, South Korea, the United States, Europe, and several Southeast Asian countries. (Citation: Cylance Dust Storm)",
+    "mitre_aliases": [
+        "Dust Storm"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:32:03.306Z",
+    "mitre_modified": "2022-09-29T21:28:39.974Z"
+}

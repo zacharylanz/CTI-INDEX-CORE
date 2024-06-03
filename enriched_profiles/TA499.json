@@ -1,0 +1,14 @@
+{
+    "description": "TA499, also known as Vovan and Lexus, is a Russia-aligned threat actor that has aggressively engaged in email campaigns since at least 2021.  The threat actor\u2019s campaigns attempt to convince high-profile North American and European government officials as well as CEOs of prominent companies and celebrities into participating in recorded phone calls or video chats.",
+    "meta": {
+        "refs": [
+            "https://www.proofpoint.com/us/blog/threat-insight/dont-answer-russia-aligned-ta499-beleaguers-targets-video-call-requests"
+        ],
+        "synonyms": [
+            "Vovan",
+            "Lexus"
+        ]
+    },
+    "uuid": "0e9bbcf1-9273-4438-b437-287317bfb989",
+    "value": "TA499"
+}

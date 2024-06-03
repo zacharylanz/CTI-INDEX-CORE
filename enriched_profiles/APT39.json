@@ -1,0 +1,51 @@
+{
+    "description": "APT39 was created to bring together previous activities and methods used by this actor, and its activities largely align with a group publicly referred to as \"Chafer.\" However, there are differences in what has been publicly reported due to the variances in how organizations track activity. APT39 primarily leverages the SEAWEED and CACHEMONEY backdoors along with a specific variant of the POWBAT backdoor. While APT39's targeting scope is global, its activities are concentrated in the Middle East. APT39 has prioritized the telecommunications sector, with additional targeting of the travel industry and IT firms that support it and the high-tech industry.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "IR",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2019/01/apt39-iranian-cyber-espionage-group-focused-on-personal-information.html",
+            "https://www.symantec.com/blogs/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions",
+            "https://unit42.paloaltonetworks.com/new-python-based-payload-mechaflounder-used-by-chafer/",
+            "https://securelist.com/chafer-used-remexi-malware/89538/",
+            "https://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets",
+            "https://attack.mitre.org/groups/G0087/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://www.secureworks.com/research/threat-profiles/cobalt-hickman",
+            "https://unit42.paloaltonetworks.com/atoms/radioserpens/"
+        ],
+        "synonyms": [
+            "Chafer",
+            "REMIX KITTEN",
+            "COBALT HICKMAN",
+            "G0087",
+            "Radio Serpens",
+            "TA454"
+        ]
+    },
+    "uuid": "c2c64bd3-a325-446f-91a8-b4c0f173a30b",
+    "value": "APT39",
+    "mitre_attack_ids": [
+        "intrusion-set--44e43fad-ffcb-4210-abcf-eaaed9735f80"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0087",
+        "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+        "https://home.treasury.gov/news/press-releases/sm1127",
+        "https://www.justice.gov/opa/pr/department-justice-and-partner-departments-and-agencies-conduct-coordinated-actions-disrupt",
+        "https://www.iranwatch.org/sites/default/files/public-intelligence-alert.pdf",
+        "https://www.fireeye.com/blog/threat-research/2019/01/apt39-iranian-cyber-espionage-group-focused-on-personal-information.html",
+        "https://www.darkreading.com/attacks-breaches/iran-ups-its-traditional-cyber-espionage-tradecraft/d/d-id/1333764",
+        "https://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets"
+    ],
+    "mitre_description": "[APT39](https://attack.mitre.org/groups/G0087) is one of several names for cyber espionage activity conducted by the Iranian Ministry of Intelligence and Security (MOIS) through the front company Rana Intelligence Computing since at least 2014. [APT39](https://attack.mitre.org/groups/G0087) has primarily targeted the travel, hospitality, academic, and telecommunications industries in Iran and across Asia, Africa, Europe, and North America to track individuals and entities considered to be a threat by the MOIS.(Citation: FireEye APT39 Jan 2019)(Citation: Symantec Chafer Dec 2015)(Citation: FBI FLASH APT39 September 2020)(Citation: Dept. of Treasury Iran Sanctions September 2020)(Citation: DOJ Iran Indictments September 2020)",
+    "mitre_aliases": [
+        "APT39",
+        "ITG07",
+        "Chafer",
+        "Remix Kitten"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2019-02-19T16:01:38.585Z",
+    "mitre_modified": "2024-04-11T02:59:52.392Z"
+}

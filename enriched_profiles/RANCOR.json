@@ -1,0 +1,46 @@
+{
+    "description": "The Rancor group\u2019s attacks use two primary malware families which are naming DDKONG and PLAINTEE. DDKONG is used throughout the campaign and PLAINTEE appears to be new addition to these attackers\u2019 toolkit.  Countries Unit 42 has identified as targeted by Rancor with these malware families include, but are not limited to Singapore and Cambodia.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Singapore",
+            "Cambodia"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://unit42.paloaltonetworks.com/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",
+            "https://www.cfr.org/interactive/cyber-operations/rancor",
+            "https://attack.mitre.org/groups/G0075/",
+            "https://unit42.paloaltonetworks.com/atoms/rancortaurus/"
+        ],
+        "synonyms": [
+            "Rancor group",
+            "Rancor",
+            "Rancor Group",
+            "G0075",
+            "Rancor Taurus"
+        ]
+    },
+    "uuid": "79c7c7e0-79d5-11e8-9b9c-1ff96be20c0b",
+    "value": "RANCOR",
+    "mitre_attack_ids": [
+        "intrusion-set--f40eb8ce-2a74-4e56-89a1-227021410142"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0075",
+        "https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/"
+    ],
+    "mitre_description": "[Rancor](https://attack.mitre.org/groups/G0075) is a threat group that has led targeted campaigns against the South East Asia region. [Rancor](https://attack.mitre.org/groups/G0075) uses politically-motivated lures to entice victims to open malicious documents. (Citation: Rancor Unit42 June 2018)",
+    "mitre_aliases": [
+        "Rancor"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2024-02-09T19:30:38.407Z"
+}

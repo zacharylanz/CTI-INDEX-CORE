@@ -1,0 +1,34 @@
+{
+    "description": "The SideCopy APT is a Pakistani threat actor that has been operating since at least 2019, mainly targeting South Asian countries and more specifically India and Afghanistan. Its name comes from its infection chain that tries to mimic that of the SideWinder APT. It has been reported that this actor has similarities with Transparent Tribe (APT36) and possibly is a subdivision of this actor. Cisco Talos and Seqrite have provided comprehensive reports on this actor\u2019s activities.",
+    "meta": {
+        "country": "PK",
+        "refs": [
+            "https://www.seqrite.com/blog/operation-sidecopy/",
+            "https://blog.malwarebytes.com/threat-intelligence/2021/12/sidecopy-apt-connecting-lures-to-victims-payloads-to-infrastructure/",
+            "https://www.telsy.com/sidecopy-apt-from-windows-to-nix/",
+            "https://blog.talosintelligence.com/2021/07/sidecopy.html",
+            "https://about.fb.com/news/2021/11/taking-action-against-hackers-in-pakistan-and-syria/",
+            "https://sebdraven.medium.com/copy-cat-of-apt-sidewinder-1893059ca68d"
+        ]
+    },
+    "uuid": "f6d02ac3-3447-4892-b844-1ef31839e04f",
+    "value": "SideCopy",
+    "mitre_attack_ids": [
+        "intrusion-set--03be849d-b5a2-4766-9dda-48976bae5710"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1008",
+        "https://www.malwarebytes.com/blog/news/2021/12/sidecopy-apt-connecting-lures-to-victims-payloads-to-infrastructure"
+    ],
+    "mitre_description": "[SideCopy](https://attack.mitre.org/groups/G1008) is a Pakistani threat group that has primarily targeted South Asian countries, including Indian and Afghani government personnel, since at least 2019. [SideCopy](https://attack.mitre.org/groups/G1008)'s name comes from its infection chain that tries to mimic that of [Sidewinder](https://attack.mitre.org/groups/G0121), a suspected Indian threat group.(Citation: MalwareBytes SideCopy Dec 2021)",
+    "mitre_aliases": [
+        "SideCopy"
+    ],
+    "mitre_contributors": [
+        "Pooja Natarajan, NEC Corporation India",
+        "Hiroki Nagahama, NEC Corporation",
+        "Manikantan Srinivasan, NEC Corporation India"
+    ],
+    "mitre_created": "2022-08-07T13:52:07.791Z",
+    "mitre_modified": "2022-10-24T18:51:09.213Z"
+}

@@ -1,0 +1,13 @@
+{
+    "description": "The group\u2019s existence came to light during Context\u2019s investigation of a number of attacks against multinational enterprises that compromise smaller engineering services and consultancies working in their supply chains.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://www.computerweekly.com/news/252471769/New-threat-group-behind-Airbus-cyber-attacks-claim-researchers",
+            "https://www.contextis.com/en/news/context-identifies-new-avivore-threat-group",
+            "https://web.archive.org/web/20191208223958/https://www.contextis.com/en/blog/avivore"
+        ]
+    },
+    "uuid": "8045fc09-13d6-4f90-b239-ed5060b9297b",
+    "value": "Avivore"
+}

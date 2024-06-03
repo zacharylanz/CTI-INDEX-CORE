@@ -1,0 +1,59 @@
+{
+    "description": "PIONEER KITTEN is an Iran-based adversary that has been active since at least 2017 and has a suspected nexus to the Iranian government. This adversary appears to be primarily focused on gaining and maintaining access to entities possessing sensitive information of likely intelligence interest to the Iranian government. According to DRAGOS, they also targeted ICS-related entities using known VPN vulnerabilities. They are widely known to use open source penetration testing tools for reconnaissance and to establish encrypted communications.",
+    "meta": {
+        "country": "IR",
+        "refs": [
+            "https://youtu.be/pBDu8EGWRC4?t=2492",
+            "https://www.dragos.com/threat/parisite",
+            "https://www.dragos.com/wp-content/uploads/The-ICS-Threat-Landscape.pdf",
+            "https://www.dragos.com/wp-content/uploads/NA-EL-Threat-Perspective-2019.pdf",
+            "https://www.clearskysec.com/wp-content/uploads/2020/02/ClearSky-Fox-Kitten-Campaign.pdf",
+            "https://www.zdnet.com/article/fbi-says-an-iranian-hacking-group-is-attacking-f5-networking-devices",
+            "https://www.crowdstrike.com/blog/who-is-pioneer-kitten",
+            "https://www.zdnet.com/article/iranian-hackers-are-selling-access-to-compromised-companies-on-an-underground-forum",
+            "https://us-cert.cisa.gov/ncas/alerts/aa20-259a"
+        ],
+        "synonyms": [
+            "PIONEER KITTEN",
+            "PARISITE",
+            "UNC757",
+            "Lemon Sandstorm",
+            "RUBIDIUM"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "0757856a-1313-57d8-bb6c-f4c537e110da",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "bfb0bc20-5bdf-47ff-b07f-dbd9a3cb9772",
+    "value": "Fox Kitten",
+    "mitre_attack_ids": [
+        "intrusion-set--c21dd6f1-1364-4a70-a1f7-783080ec34ee"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0117",
+        "https://us-cert.cisa.gov/ncas/alerts/aa20-259a",
+        "https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf",
+        "https://www.clearskysec.com/fox-kitten/",
+        "https://www.dragos.com/threat/parisite/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.crowdstrike.com/blog/who-is-pioneer-kitten/"
+    ],
+    "mitre_description": "[Fox Kitten](https://attack.mitre.org/groups/G0117) is threat actor with a suspected nexus to the Iranian government that has been active since at least 2017 against entities in the Middle East, North Africa, Europe, Australia, and North America. [Fox Kitten](https://attack.mitre.org/groups/G0117) has targeted multiple industrial verticals including oil and gas, technology, government, defense, healthcare, manufacturing, and engineering.(Citation: ClearkSky Fox Kitten February 2020)(Citation: CrowdStrike PIONEER KITTEN August 2020)(Citation: Dragos PARISITE )(Citation: ClearSky Pay2Kitten December 2020)",
+    "mitre_aliases": [
+        "Fox Kitten",
+        "UNC757",
+        "Parisite",
+        "Pioneer Kitten",
+        "RUBIDIUM",
+        "Lemon Sandstorm"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2020-12-21T21:49:47.307Z",
+    "mitre_modified": "2024-01-08T22:00:34.410Z"
+}

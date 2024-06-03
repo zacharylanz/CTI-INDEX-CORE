@@ -1,0 +1,42 @@
+{
+    "description": "BRONZE SPRING is a threat group that CTU researchers assess with high confidence operates on behalf of China in the theft of intellectual property from defense, engineering, pharmaceutical and technology companies. The threat group typically uses scan-and-exploit for initial access, deploys the China Chopper webshell for remote execution and persistence, and creates RAR archives with a '.jpg' file extension for data exfiltration. \nIn July 2020 the U.S. Department of Justice indicted two Chinese hackers CTU researchers assess are members of the BRONZE SPRING threat group. The Department of Justice allege these hackers were responsible for compromising networks of hundreds of organisations and individuals in the U.S. and abroad since 2009, and that exfiltrated data would be passed to the Chinese Ministry of State Security or sold for financial gain.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "United States",
+            "Australia",
+            "Belgium",
+            "Germany",
+            "Japan",
+            "Lithuania",
+            "Netherlands",
+            "Spain",
+            "South Korea",
+            "Sweden",
+            "United Kingdom"
+        ],
+        "cfr-target-category": [
+            "Information technology",
+            "Medical",
+            "Civil engineering",
+            "Business",
+            "Education",
+            "Gaming",
+            "Energy",
+            "Pharmaceuticals",
+            "Defense industrial base"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://www.justice.gov/opa/pr/two-chinese-hackers-working-ministry-state-security-charged-global-computer-intrusion",
+            "https://www.justice.gov/opa/press-release/file/1295981/download",
+            "https://www.justice.gov/opa/press-release/file/1295986/download",
+            "https://intrusiontruth.wordpress.com/2021/05/06/an-apt-with-no-name",
+            "https://twitter.com/MrDanPerez/status/1390285821786394624"
+        ],
+        "synonyms": [
+            "UNC302"
+        ]
+    },
+    "uuid": "8b77424e-18bc-4ea7-baa4-d87441978e20",
+    "value": "BRONZE SPRING"
+}

@@ -1,0 +1,66 @@
+{
+    "description": "A group of China-based attackers, who conducted a number of spear phishing attacks in 2013.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Taiwan",
+            "Japan"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "http://www.crowdstrike.com/blog/whois-numbered-panda/",
+            "https://www.cfr.org/interactive/cyber-operations/apt-12",
+            "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html",
+            "https://www.secureworks.com/research/threat-profiles/bronze-globe",
+            "https://www.mandiant.com/resources/insights/apt-groups"
+        ],
+        "synonyms": [
+            "NUMBERED PANDA",
+            "TG-2754",
+            "BeeBus",
+            "Group 22",
+            "DynCalc",
+            "Calc Team",
+            "DNSCalc",
+            "Crimson Iron",
+            "IXESHE",
+            "BRONZE GLOBE"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "c47f937f-1022-4f42-8525-e7a4779a14cb",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "48146604-6693-4db1-bd94-159744726514",
+    "value": "APT12",
+    "mitre_attack_ids": [
+        "intrusion-set--c47f937f-1022-4f42-8525-e7a4779a14cb"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0005",
+        "http://www.crowdstrike.com/blog/whois-numbered-panda/",
+        "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html"
+    ],
+    "mitre_description": "[APT12](https://attack.mitre.org/groups/G0005) is a threat group that has been attributed to China. The group has targeted a variety of victims including but not limited to media outlets, high-tech companies, and multiple governments.(Citation: Meyers Numbered Panda)",
+    "mitre_aliases": [
+        "APT12",
+        "IXESHE",
+        "DynCalc",
+        "Numbered Panda",
+        "DNSCALC"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:31:47.537Z",
+    "mitre_modified": "2020-03-30T18:44:59.268Z"
+}

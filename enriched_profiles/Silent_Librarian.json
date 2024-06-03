@@ -1,0 +1,49 @@
+{
+    "description": "Last Friday, Deputy Attorney General Rod Rosenstein announced the indictment of nine Iranians who worked for an organization named the Mabna Institute. According to prosecutors, the defendants stole more than 31 terabytes of data from universities, companies, and government agencies around the world. The cost to the universities alone reportedly amounted to approximately $3.4 billion. The information stolen from these universities was used by the Islamic Revolutionary Guard Corps (IRGC) or sold for profit inside Iran. PhishLabs has been tracking this same threat group since late-2017, designating them Silent Librarian. Since discovery, we have been working with the FBI, ISAC partners, and other international law enforcement agencies to help understand and mitigate these attacks.",
+    "meta": {
+        "country": "IR",
+        "refs": [
+            "https://info.phishlabs.com/blog/silent-librarian-more-to-the-story-of-the-iranian-mabna-institute-indictment",
+            "https://info.phishlabs.com/blog/silent-librarian-university-attacks-continue-unabated-in-days-following-indictment",
+            "https://www.justice.gov/usao-sdny/pr/nine-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic",
+            "https://www.justice.gov/opa/pr/nine-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary",
+            "https://www.secureworks.com/blog/cobalt-dickens-goes-back-to-school-again",
+            "https://www.secureworks.com/blog/back-to-school-cobalt-dickens-targets-universities",
+            "https://www.proofpoint.com/us/threat-insight/post/seems-phishy-back-school-lures-target-university-students-and-staff",
+            "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta407-silent-librarian",
+            "https://www.secureworks.com/research/threat-profiles/cobalt-dickens",
+            "https://community.riskiq.com/article/44eb0802",
+            "https://www.proofpoint.com/us/corporate-blog/post/iranian-state-sponsored-and-aligned-attacks-what-you-need-know-and-steps-protect"
+        ],
+        "synonyms": [
+            "COBALT DICKENS",
+            "Mabna Institute",
+            "TA407",
+            "TA4900",
+            "Yellow Nabu"
+        ]
+    },
+    "uuid": "5059b44d-2753-4977-b987-4922f09afe6b",
+    "value": "Silent Librarian",
+    "mitre_attack_ids": [
+        "intrusion-set--90784c1e-4aba-40eb-9adf-7556235e6384"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0122",
+        "https://www.justice.gov/usao-sdny/press-release/file/1045781/download",
+        "https://info.phishlabs.com/blog/silent-librarian-more-to-the-story-of-the-iranian-mabna-institute-indictment",
+        "https://blog.malwarebytes.com/malwarebytes-news/2020/10/silent-librarian-apt-phishing-attack/",
+        "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta407-silent-librarian",
+        "https://www.secureworks.com/blog/back-to-school-cobalt-dickens-targets-universities",
+        "https://www.secureworks.com/blog/cobalt-dickens-goes-back-to-school-again"
+    ],
+    "mitre_description": "[Silent Librarian](https://attack.mitre.org/groups/G0122) is a group that has targeted research and proprietary data at universities, government agencies, and private sector companies worldwide since at least 2013. Members of  [Silent Librarian](https://attack.mitre.org/groups/G0122) are known to have been affiliated with the Iran-based Mabna Institute which has conducted cyber intrusions at the behest of the government of Iran, specifically the Islamic Revolutionary Guard Corps (IRGC).(Citation: DOJ Iran Indictments March 2018)(Citation: Phish Labs Silent Librarian)(Citation: Malwarebytes Silent Librarian October 2020)",
+    "mitre_aliases": [
+        "Silent Librarian",
+        "TA407",
+        "COBALT DICKENS"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2021-02-03T16:36:38.145Z",
+    "mitre_modified": "2021-04-21T12:02:00.278Z"
+}

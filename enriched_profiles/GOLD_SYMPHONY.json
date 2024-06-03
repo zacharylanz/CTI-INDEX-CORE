@@ -1,0 +1,10 @@
+{
+    "description": "GOLD SYMPHONY is a financially motivated cybercrime group, likely based in Russia, that is responsible for the development and sale on underground forums of the Buer Loader malware. First discovered around August 2019, Buer Loader is offered as a malware-as-a-service (MasS) and has been advertised by a threat actor using the handle 'memeos'. Customers include GOLD BLACKBURN, the operators of the TrickBot malware. In addition to TrickBot, Buer Loader has been reported to download Cobalt Strike and other tools for use in post-intrusion ransomware attacks.",
+    "meta": {
+        "refs": [
+            "http://www.secureworks.com/research/threat-profiles/gold-symphony"
+        ]
+    },
+    "uuid": "bf151740-b667-4f06-87a1-131c3261cca2",
+    "value": "GOLD SYMPHONY"
+}

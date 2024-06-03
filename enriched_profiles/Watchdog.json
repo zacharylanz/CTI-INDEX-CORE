@@ -1,0 +1,13 @@
+{
+    "description": "Thief Libra is a cloud-focused threat group that has a history of cryptojacking operations as well as cloud service platform credential scraping. They were first known to operate on January 27, 2019. They use a variety of custom build Go Scripts as well as repurposed cryptojacking scripts from other groups including TeamTNT. They are currently considered to be an opportunistic threat group that targets exposed cloud instances and applications.",
+    "meta": {
+        "refs": [
+            "https://unit42.paloaltonetworks.com/atoms/thieflibra/"
+        ],
+        "synonyms": [
+            "Thief Libra"
+        ]
+    },
+    "uuid": "4b4b4717-d31e-4be6-a3ba-b13edb42decd",
+    "value": "Watchdog"
+}

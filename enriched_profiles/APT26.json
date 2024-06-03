@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://www.secureworks.com/research/threat-profiles/bronze-express",
+            "https://www.uscc.gov/sites/default/files/2022-02/Adam_Kozy_Testimony.pdf",
+            "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
+        ],
+        "synonyms": [
+            "JerseyMikes",
+            "TURBINE PANDA",
+            "BRONZE EXPRESS",
+            "TECHNETIUM"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7a19ecb1-3c65-4de3-a230-993516aed6a6",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "fa80877c-f509-4daf-8b62-20aba1635f68",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "c097471c-2405-4393-b6d7-afbcb5f0cd11",
+    "value": "APT26"
+}

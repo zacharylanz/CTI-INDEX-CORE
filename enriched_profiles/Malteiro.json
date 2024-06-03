@@ -1,0 +1,37 @@
+{
+    "description": "This group of cybercriminals is named Malteiroby SCILabs, they operate and distribute the URSA/Mispadu banking trojan.",
+    "meta": {
+        "refs": [
+            "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/",
+            "https://blog.scilabs.mx/cyber-threat-profile-malteiro/"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "d27eea57-e55f-40b1-9690-55c2c8500876",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "delivers"
+        }
+    ],
+    "uuid": "ba57c28a-47d0-46ba-a933-9aed69f7b84f",
+    "value": "Malteiro",
+    "mitre_attack_ids": [
+        "intrusion-set--bf668120-e9a6-4017-a014-bfc0f5232656"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1026",
+        "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/"
+    ],
+    "mitre_description": "[Malteiro](https://attack.mitre.org/groups/G1026) is a financially motivated criminal group that is likely based in Brazil and has been active since at least November 2019. The group operates and distributes the [Mispadu](https://attack.mitre.org/software/S1122)  banking trojan via a Malware-as-a-Service (MaaS) business model. [Malteiro](https://attack.mitre.org/groups/G1026) mainly targets victims throughout Latin America (particularly Mexico) and Europe (particularly Spain and Portugal).(Citation: SCILabs Malteiro 2021)",
+    "mitre_aliases": [
+        "Malteiro"
+    ],
+    "mitre_contributors": [
+        "Daniel Fernando Soriano Espinosa",
+        "SCILabs"
+    ],
+    "mitre_created": "2024-03-13T20:23:54.698Z",
+    "mitre_modified": "2024-03-29T14:10:35.711Z"
+}

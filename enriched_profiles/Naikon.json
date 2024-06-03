@@ -1,0 +1,96 @@
+{
+    "description": "Kaspersky described Naikon in a 2015 report as: 'The Naikon group is mostly active in countries such as the Philippines, Malaysia, Cambodia, Indonesia, Vietnam, Myanmar, Singapore, and Nepal, hitting a variety of targets in a very opportunistic way.'",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "India",
+            "Saudi Arabia",
+            "Vietnam",
+            "Myanmar",
+            "Singapore",
+            "Thailand",
+            "Malaysia",
+            "Cambodia",
+            "China",
+            "Philippines",
+            "South Korea",
+            "United States",
+            "Indonesia",
+            "Laos"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://securelist.com/analysis/publications/69953/the-naikon-apt/",
+            "https://www.fireeye.com/blog/threat-research/2014/03/spear-phishing-the-news-cycle-apt-actors-leverage-interest-in-the-disappearance-of-malaysian-flight-mh-370.html",
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+            "https://usa.kaspersky.com/resource-center/threats/naikon-targeted-attacks",
+            "https://web.archive.org/web/20210925164035/https://blog.trendmicro.com/trendlabs-security-intelligence/bkdr_rarstone-new-rat-to-watch-out-for/",
+            "https://threatconnect.com/blog/tag/naikon/",
+            "https://attack.mitre.org/groups/G0019/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-geneva",
+            "https://cyware.com/news/chinese-naikon-group-back-with-new-espionage-attack-66a8413d",
+            "https://cluster25.io/2022/04/29/lotus-panda-awake-last-strike/",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
+        ],
+        "synonyms": [
+            "PLA Unit 78020",
+            "OVERRIDE PANDA",
+            "Camerashy",
+            "BRONZE GENEVA",
+            "G0019",
+            "Naikon",
+            "BRONZE STERLING",
+            "G0013"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "2a158b0a-7ef8-43cb-9985-bf34d1e12050",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "5e0a7cf2-6107-4d5f-9dd0-9df38b1fcba8",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f047ee18-7985-4946-8bfb-4ed754d3a0dd",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "2f1fd017-9df6-4759-91fb-e7039609b5ff",
+    "value": "Naikon",
+    "mitre_attack_ids": [
+        "intrusion-set--2a158b0a-7ef8-43cb-9985-bf34d1e12050"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0019",
+        "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+        "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+        "https://securelist.com/the-naikon-apt/69953/"
+    ],
+    "mitre_description": "[Naikon](https://attack.mitre.org/groups/G0019) is assessed to be a state-sponsored cyber espionage group attributed to the Chinese People\u2019s Liberation Army\u2019s (PLA) Chengdu Military Region Second Technical Reconnaissance Bureau (Military Unit Cover Designator 78020).(Citation: CameraShy) Active since at least 2010, [Naikon](https://attack.mitre.org/groups/G0019) has primarily conducted operations against government, military, and civil organizations in Southeast Asia, as well as against international bodies such as the United Nations Development Programme (UNDP) and the Association of Southeast Asian Nations (ASEAN).(Citation: CameraShy)(Citation: Baumgartner Naikon 2015) \n\nWhile [Naikon](https://attack.mitre.org/groups/G0019) shares some characteristics with [APT30](https://attack.mitre.org/groups/G0013), the two groups do not appear to be exact matches.(Citation: Baumgartner Golovkin Naikon 2015)",
+    "mitre_aliases": [
+        "Naikon"
+    ],
+    "mitre_contributors": [
+        "Kyaw Pyiyt Htet, @KyawPyiytHtet"
+    ],
+    "mitre_created": "2017-05-31T21:31:54.232Z",
+    "mitre_modified": "2021-08-19T18:23:23.507Z"
+}

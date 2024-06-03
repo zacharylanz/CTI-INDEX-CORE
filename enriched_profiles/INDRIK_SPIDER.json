@@ -1,0 +1,42 @@
+{
+    "description": "INDRIK SPIDER is a sophisticated eCrime group that has been operating Dridex since June 2014. In 2015 and 2016, Dridex was one of the most prolific eCrime banking trojans on the market and, since 2014, those efforts are thought to have netted INDRIK SPIDER millions of dollars in criminal profits. Throughout its years of operation, Dridex has received multiple updates with new modules developed and new anti-analysis features added to the malware.\nIn August 2017, a new ransomware variant identified as BitPaymer was reported to have ransomed the U.K.\u2019s National Health Service (NHS), with a high ransom demand of 53 BTC (approximately $200,000 USD). The targeting of an organization rather than individuals, and the high ransom demands, made BitPaymer stand out from other contemporary ransomware at the time. Though the encryption and ransom functionality of BitPaymer was not technically sophisticated, the malware contained multiple anti-analysis features that overlapped with Dridex. Later technical analysis of BitPaymer indicated that it had been developed by INDRIK SPIDER, suggesting the group had expanded its criminal operation to include ransomware as a monetization strategy.",
+    "meta": {
+        "country": "RU",
+        "refs": [
+            "https://www.crowdstrike.com/blog/big-game-hunting-the-evolution-of-indrik-spider-from-dridex-wire-fraud-to-bitpaymer-targeted-ransomware/"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "b19bc1a0-2489-56ae-aa61-ed147310363e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "658314bc-3bb8-48d2-913a-c528607b75c8",
+    "value": "INDRIK SPIDER",
+    "mitre_attack_ids": [
+        "intrusion-set--01e28736-2ffc-455b-9880-ed4d1407ae07"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0119",
+        "https://www.crowdstrike.com/blog/big-game-hunting-the-evolution-of-indrik-spider-from-dridex-wire-fraud-to-bitpaymer-targeted-ransomware/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.crowdstrike.com/blog/hades-ransomware-successor-to-indrik-spiders-wastedlocker/",
+        "https://home.treasury.gov/news/press-releases/sm845"
+    ],
+    "mitre_description": "[Indrik Spider](https://attack.mitre.org/groups/G0119) is a Russia-based cybercriminal group that has been active since at least 2014. [Indrik Spider](https://attack.mitre.org/groups/G0119) initially started with the [Dridex](https://attack.mitre.org/software/S0384) banking Trojan, and then by 2017 they began running ransomware operations using [BitPaymer](https://attack.mitre.org/software/S0570), [WastedLocker](https://attack.mitre.org/software/S0612), and Hades ransomware. Following U.S. sanctions and an indictment in 2019, [Indrik Spider](https://attack.mitre.org/groups/G0119) changed their tactics and diversified their toolset.(Citation: Crowdstrike Indrik November 2018)(Citation: Crowdstrike EvilCorp March 2021)(Citation: Treasury EvilCorp Dec 2019)",
+    "mitre_aliases": [
+        "Indrik Spider",
+        "Evil Corp",
+        "Manatee Tempest",
+        "DEV-0243"
+    ],
+    "mitre_contributors": [
+        "Jennifer Kim Roman, CrowdStrike"
+    ],
+    "mitre_created": "2021-01-06T17:46:35.134Z",
+    "mitre_modified": "2024-04-17T22:10:56.266Z"
+}

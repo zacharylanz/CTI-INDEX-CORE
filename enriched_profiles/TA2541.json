@@ -1,0 +1,28 @@
+{
+    "description": "Persistent cybercrime threat actor targeting aviation, aerospace, transportation, manufacturing, and defense industries for years. This threat actor consistently uses remote access trojans (RATs) that can be used to remotely control compromised machines. This threat actor uses consistent themes related to aviation, transportation, and travel. The threat actor has used similar themes and targeting since 2017.",
+    "meta": {
+        "refs": [
+            "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight"
+        ]
+    },
+    "uuid": "a57e5bf5-d7f4-43a1-9c15-8a44cdb95079",
+    "value": "TA2541",
+    "mitre_attack_ids": [
+        "intrusion-set--467271fd-47c0-4e90-a3f9-d84f5cf790d0"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1018",
+        "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight",
+        "https://blog.talosintelligence.com/operation-layover-how-we-tracked-attack/"
+    ],
+    "mitre_description": "[TA2541](https://attack.mitre.org/groups/G1018) is a cybercriminal group that has been targeting the aviation, aerospace, transportation, manufacturing, and defense industries since at least 2017. [TA2541](https://attack.mitre.org/groups/G1018) campaigns are typically high volume and involve the use of commodity remote access tools obfuscated by crypters and themes related to aviation, transportation, and travel.(Citation: Proofpoint TA2541 February 2022)(Citation: Cisco Operation Layover September 2021)",
+    "mitre_aliases": [
+        "TA2541"
+    ],
+    "mitre_contributors": [
+        "Pooja Natarajan, NEC Corporation India",
+        "Aaron Jornet"
+    ],
+    "mitre_created": "2023-09-12T17:00:22.615Z",
+    "mitre_modified": "2024-04-10T22:38:45.199Z"
+}

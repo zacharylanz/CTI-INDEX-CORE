@@ -1,0 +1,181 @@
+{
+    "description": "Charming Kitten (aka Parastoo, aka Newscaster) is an group with a suspected nexus to Iran that targets organizations involved in government, defense technology, military, and diplomacy sectors.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+            "U.S. government/defense sector websites",
+            "Saudi Arabia",
+            "Israel",
+            "Iraq",
+            "United Kingdom"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "refs": [
+            "https://en.wikipedia.org/wiki/Operation_Newscaster",
+            "https://iranthreats.github.io/resources/macdownloader-macos-malware/",
+            "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/2014.05.28.NewsCaster_An_Iranian_Threat_Within_Social_Networks/file-2581720763-pdf.pdf",
+            "https://www.forbes.com/sites/thomasbrewster/2017/07/27/iran-hackers-oilrig-use-fake-personas-on-facebook-linkedin-for-cyberespionage/",
+            "https://cryptome.org/2012/11/parastoo-hacks-iaea.htm",
+            "https://securelist.com/files/2017/03/Report_Shamoon_StoneDrill_final.pdf",
+            "https://securelist.com/blog/software/74503/freezer-paper-around-free-meat/",
+            "https://www.verfassungsschutz.de/download/broschuere-2016-10-bfv-cyber-brief-2016-04.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/newscaster",
+            "https://www.washingtontimes.com/news/2014/may/29/iranian-hackers-sucker-punch-us-defense-heads-crea/",
+            "https://securelist.com/freezer-paper-around-free-meat/74503/",
+            "https://www.scmagazine.com/home/security-news/cybercrime/hbo-breach-accomplished-with-hard-work-by-hacker-poor-security-practices-by-victim/",
+            "http://www.arabnews.com/node/1195681/media",
+            "https://cyware.com/news/iranian-apt-charming-kitten-impersonates-clearsky-the-security-firm-that-uncovered-its-campaigns-7fea0b4f",
+            "https://blog.certfa.com/posts/the-return-of-the-charming-kitten/",
+            "https://www.justice.gov/opa/pr/former-us-counterintelligence-agent-charged-espionage-behalf-iran-four-iranians-charged-cyber",
+            "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+            "https://www.clearskysec.com/wp-content/uploads/2017/12/Charming_Kitten_2017.pdf",
+            "https://attack.mitre.org/groups/G0058/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/"
+        ],
+        "synonyms": [
+            "Newscaster",
+            "Parastoo",
+            "iKittens",
+            "Group 83",
+            "NewsBeef",
+            "G0058",
+            "CharmingCypress"
+        ],
+        "targeted-sector": [
+            "Defense",
+            "Diplomacy",
+            "Military",
+            "Technology",
+            "Government, Administration"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "7636484c-adc5-45d4-9bfe-c3e062fbc4a0",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f9d6633a-55e6-4adc-9263-6ae080421a13",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "ba724df5-9aa0-45ca-8e0e-7101c208ae48",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f873db71-3d53-41d5-b141-530675ade27a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "86724806-7ec9-4a48-a0a7-ecbde3bf4810",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "42be2a84-5a5c-4c6d-9864-3f09d75bb0ba",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "d56c99fa-4710-472c-81a6-41b7a84ea4be",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "a0082cfa-32e2-42b8-92d8-5c7a7409dcf1",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "8f5e8dc7-739d-4f5e-a8a1-a66e004d7063",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "b96e02f1-4037-463f-b158-5a964352f8d9",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "400cd1b8-52b7-5a5c-984f-9b4af35ea231",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "f98bac6b-12fd-4cad-be84-c84666932232",
+    "value": "Charming Kitten",
+    "mitre_attack_ids": [
+        "intrusion-set--f9d6633a-55e6-4adc-9263-6ae080421a13"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0059",
+        "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+        "https://blogs.microsoft.com/on-the-issues/2020/10/28/cyberattacks-phosphorus-t20-munich-security-conference/",
+        "https://blog.certfa.com/posts/charming-kitten-christmas-gift/",
+        "https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/",
+        "http://www.clearskysec.com/wp-content/uploads/2017/12/Charming_Kitten_2017.pdf",
+        "https://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-Town-2-1.pdf",
+        "https://www.clearskysec.com/wp-content/uploads/2020/08/The-Kittens-are-Back-in-Town-3.pdf",
+        "https://www.eweek.com/security/newscaster-threat-uses-social-media-for-intelligence-gathering",
+        "https://researchcenter.paloaltonetworks.com/2017/02/unit42-magic-hound-campaign-attacks-saudi-targets/",
+        "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.proofpoint.com/us/blog/threat-insight/operation-spoofedscholars-conversation-ta453",
+        "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential",
+        "https://www.secureworks.com/research/threat-profiles/cobalt-illusion",
+        "https://noticeofpleadings.com/phosphorus/files/Complaint.pdf",
+        "https://securityintelligence.com/posts/new-research-exposes-iranian-threat-group-operations/"
+    ],
+    "mitre_description": "[Magic Hound](https://attack.mitre.org/groups/G0059) is an Iranian-sponsored threat group that conducts long term, resource-intensive cyber espionage operations, likely on behalf of the Islamic Revolutionary Guard Corps. They have targeted European, U.S., and Middle Eastern government and military personnel, academics, journalists, and organizations such as the World Health Organization (WHO), via complex social engineering campaigns since at least 2014.(Citation: FireEye APT35 2018)(Citation: ClearSky Kittens Back 3 August 2020)(Citation: Certfa Charming Kitten January 2021)(Citation: Secureworks COBALT ILLUSION Threat Profile)(Citation: Proofpoint TA453 July2021)",
+    "mitre_aliases": [
+        "Magic Hound",
+        "TA453",
+        "COBALT ILLUSION",
+        "Charming Kitten",
+        "ITG18",
+        "Phosphorus",
+        "Newscaster",
+        "APT35",
+        "Mint Sandstorm"
+    ],
+    "mitre_contributors": [
+        "Anastasios Pingios",
+        "Bryan Lee",
+        "Daniyal Naeem, BT Security"
+    ],
+    "mitre_created": "2018-01-16T16:13:52.465Z",
+    "mitre_modified": "2024-01-08T21:54:31.501Z"
+}

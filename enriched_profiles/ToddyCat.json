@@ -1,0 +1,53 @@
+{
+    "description": "ToddyCat is responsible for multiple sets of attacks detected since December 2020 against high-profile entities in Europe and Asia. There is still little information about this actor, but its main distinctive signs are two formerly unknown tools that Kaspersky call \u2018Samurai backdoor\u2019 and \u2018Ninja Trojan\u2019.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Afghanistan",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Kyrgyzstan",
+            "Malaysia",
+            "Pakistan",
+            "Russia",
+            "Slovakia",
+            "Taiwan",
+            "Thailand",
+            "United Kingdom",
+            "Uzbekistan",
+            "Vietnam"
+        ],
+        "cfr-target-category": [
+            "Military",
+            "Government"
+        ],
+        "refs": [
+            "https://www.bleepingcomputer.com/news/security/new-toddycat-apt-group-targets-exchange-servers-in-asia-europe/",
+            "https://securelist.com/toddycat/106799/",
+            "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/",
+            "https://gteltsc.vn/blog/cap-nhat-nhe-ve-lo-hong-bao-mat-0day-microsoft-exchange-dang-duoc-su-dung-de-tan-cong-cac-to-chuc-tai-viet-nam-9685.html",
+            "https://community.riskiq.com/article/d8b749f2",
+            "https://teamt5.org/en/posts/assassinations-of-minininja-in-various-apac-countries/"
+        ],
+        "synonyms": [
+            "Websiic"
+        ]
+    },
+    "uuid": "091a0b69-74de-44b6-bb12-16b7a8fd078b",
+    "value": "ToddyCat",
+    "mitre_attack_ids": [
+        "intrusion-set--b516b235-fc7d-4635-aca5-3d33312339c3"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1022",
+        "https://securelist.com/toddycat/106799/",
+        "https://securelist.com/toddycat-keep-calm-and-check-logs/110696/"
+    ],
+    "mitre_description": "[ToddyCat](https://attack.mitre.org/groups/G1022) is a sophisticated threat group that has been active since at least 2020 using custom loaders and malware in multi-stage infection chains against government and military targets across Europe and Asia.(Citation: Kaspersky ToddyCat June 2022)(Citation: Kaspersky ToddyCat Check Logs October 2023)",
+    "mitre_aliases": [
+        "ToddyCat"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2024-01-03T21:34:10.988Z",
+    "mitre_modified": "2024-02-14T20:35:53.080Z"
+}

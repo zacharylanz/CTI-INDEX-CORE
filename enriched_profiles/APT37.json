@@ -1,0 +1,103 @@
+{
+    "description": "APT37 has likely been active since at least 2012 and focuses on targeting the public and private sectors primarily in South Korea. In 2017, APT37 expanded its targeting beyond the Korean peninsula to include Japan, Vietnam and the Middle East, and to a wider range of industry verticals, including chemicals, electronics, manufacturing, aerospace, automotive and healthcare entities",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Korea (Democratic People's Republic of)",
+        "cfr-suspected-victims": [
+            "Republic of Korea",
+            "Japan",
+            "Vietnam"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "country": "KP",
+        "refs": [
+            "https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/",
+            "https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html",
+            "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+            "http://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html",
+            "https://twitter.com/mstoned7/status/966126706107953152",
+            "https://www.cfr.org/interactive/cyber-operations/apt-37",
+            "https://www.bleepingcomputer.com/news/security/report-ties-north-korean-attacks-to-new-malware-linked-by-word-macros/",
+            "https://unit42.paloaltonetworks.com/unit42-freemilk-highly-targeted-spear-phishing-campaign/",
+            "https://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html",
+            "https://attack.mitre.org/groups/G0067/",
+            "https://securelist.com/cve-2016-4171-adobe-flash-zero-day-used-in-targeted-attacks/75082/",
+            "https://securelist.com/operation-daybreak/75100/",
+            "https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/",
+            "https://threatpost.com/scarcruft-apt-group-used-latest-flash-zero-day-in-two-dozen-attacks/118642/",
+            "https://unit42.paloaltonetworks.com/atoms/moldypisces/"
+        ],
+        "synonyms": [
+            "APT 37",
+            "Group 123",
+            "Group123",
+            "InkySquid",
+            "Operation Daybreak",
+            "Operation Erebus",
+            "Reaper Group",
+            "Reaper",
+            "Red Eyes",
+            "Ricochet Chollima",
+            "ScarCruft",
+            "Venus 121",
+            "ATK4",
+            "G0067",
+            "Moldy Pisces"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "4a2ce82e-1a74-468a-a6fb-bbead541383c",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "68391641-859f-4a9a-9a1e-3e5cf71ec376",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "linked-to"
+        },
+        {
+            "dest-uuid": "96c3508e-f5f9-52b4-9d1e-b246d68f643d",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "50cd027f-df14-40b2-aa22-bf5de5061163",
+    "value": "APT37",
+    "mitre_attack_ids": [
+        "intrusion-set--4a2ce82e-1a74-468a-a6fb-bbead541383c"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0067",
+        "https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/",
+        "https://www.crowdstrike.com/adversaries/ricochet-chollima/",
+        "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+        "https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/",
+        "https://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html",
+        "https://securelist.com/operation-daybreak/75100/"
+    ],
+    "mitre_description": "[APT37](https://attack.mitre.org/groups/G0067) is a North Korean state-sponsored cyber espionage group that has been active since at least 2012. The group has targeted victims primarily in South Korea, but also in Japan, Vietnam, Russia, Nepal, China, India, Romania, Kuwait, and other parts of the Middle East. [APT37](https://attack.mitre.org/groups/G0067) has also been linked to the following campaigns between 2016-2018: Operation Daybreak, Operation Erebus, Golden Time, Evil New Year, Are you Happy?, FreeMilk, North Korean Human Rights, and Evil New Year 2018.(Citation: FireEye APT37 Feb 2018)(Citation: Securelist ScarCruft Jun 2016)(Citation: Talos Group123)\n\nNorth Korean group definitions are known to have significant overlap, and some security researchers report all North Korean state-sponsored cyber activity under the name [Lazarus Group](https://attack.mitre.org/groups/G0032) instead of tracking clusters or subgroups.",
+    "mitre_aliases": [
+        "APT37",
+        "InkySquid",
+        "ScarCruft",
+        "Reaper",
+        "Group123",
+        "TEMP.Reaper",
+        "Ricochet Chollima"
+    ],
+    "mitre_contributors": [
+        "Valerii Marchuk, Cybersecurity Help s.r.o."
+    ],
+    "mitre_created": "2018-04-18T17:59:24.739Z",
+    "mitre_modified": "2023-06-26T18:59:30.461Z"
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
+        ],
+        "synonyms": [
+            "Red Chimera"
+        ]
+    },
+    "uuid": "ba8973b2-fd97-4aa7-9307-ea4838d96428",
+    "value": "WET PANDA"
+}

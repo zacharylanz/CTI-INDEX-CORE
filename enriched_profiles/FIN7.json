@@ -1,0 +1,110 @@
+{
+    "description": "Groups targeting financial organizations or people with significant financial assets.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "RU",
+        "motive": "Cybercrime",
+        "refs": [
+            "https://en.wikipedia.org/wiki/Carbanak",
+            "https://app.box.com/s/p7qzcury97tuwk26694uutujwqmwqyhe",
+            "http://2014.zeronights.ru/assets/files/slides/ivanovb-zeronights.pdf",
+            "https://web.archive.org/web/20161223002016/https://www.symantec.com/connect/blogs/odinaff-new-trojan-used-high-level-financial-attacks",
+            "https://www.proofpoint.com/us/threat-insight/post/fin7carbanak-threat-actor-unleashes-bateleur-jscript-backdoor",
+            "https://www.icebrg.io/blog/footprints-of-fin7-tracking-actor-patterns",
+            "https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/",
+            "https://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+            "https://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested",
+            "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064518/Carbanak_APT_eng.pdf",
+            "https://www.group-ib.com/resources/threat-research/Anunak_APT_against_financial_institutions.pdf",
+            "https://attack.mitre.org/groups/G0008/",
+            "https://www.fireeye.com/blog/threat-research/2017/03/fin7_spear_phishing.html",
+            "https://threatpost.com/fileless-malware-campaigns-tied-to-same-attacker/124369/",
+            "https://www.fireeye.com/blog/threat-research/2017/04/fin7-phishing-lnk.html",
+            "https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html",
+            "https://blog.morphisec.com/fin7-attacks-restaurant-industry",
+            "https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/",
+            "https://blog.morphisec.com/fin7-attack-modifications-revealed",
+            "https://blog.morphisec.com/fin7-not-finished-morphisec-spots-new-campaign",
+            "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/",
+            "https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html",
+            "https://attack.mitre.org/groups/G0046/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "https://threatintel.blog/OPBlueRaven-Part1/",
+            "https://threatintel.blog/OPBlueRaven-Part2/",
+            "https://www.secureworks.com/research/threat-profiles/gold-niagara",
+            "https://www.computerweekly.com/news/252525240/ALPHV-BlackCat-ransomware-family-becoming-more-dangerous",
+            "https://www.deepinstinct.com/blog/understanding-the-windows-javascript-threat-landscape",
+            "https://www.microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/"
+        ],
+        "synonyms": [
+            "CARBON SPIDER",
+            "GOLD NIAGARA",
+            "Calcium",
+            "ATK32",
+            "G0046",
+            "G0008",
+            "Coreid",
+            "Carbanak",
+            "Sangria Tempest",
+            "ELBRUS",
+            "Carbon Spider"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "3753cc21-2dae-4dfb-8481-d004e74502cc",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "55033a4d-3ffe-46b2-99b4-2c1541e9ce1c",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "9471ad21-0553-5483-bf7c-e6ad9c062c79",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "00220228-a5a4-4032-a30d-826bb55aa3fb",
+    "value": "FIN7",
+    "mitre_attack_ids": [
+        "intrusion-set--3753cc21-2dae-4dfb-8481-d004e74502cc"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0046",
+        "https://www.mandiant.com/resources/evolution-of-fin7",
+        "https://www.fireeye.com/blog/threat-research/2017/06/behind-the-carbanak-backdoor.html",
+        "https://www.fireeye.com/blog/threat-research/2017/04/fin7-phishing-lnk.html",
+        "https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html",
+        "https://www.secureworks.com/research/threat-profiles/gold-niagara",
+        "https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html",
+        "http://blog.morphisec.com/fin7-attacks-restaurant-industry",
+        "https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/",
+        "https://web.archive.org/web/20180808125108/https:/www.fireeye.com/blog/threat-research/2017/03/fin7_spear_phishing.html",
+        "https://securityintelligence.com/posts/ransomware-2020-attack-trends-new-techniques-affecting-organizations-worldwide/"
+    ],
+    "mitre_description": "[FIN7](https://attack.mitre.org/groups/G0046) is a financially-motivated threat group that has been active since 2013. [FIN7](https://attack.mitre.org/groups/G0046) has primarily targeted the retail, restaurant, hospitality, software, consulting, financial services, medical equipment, cloud services, media, food and beverage, transportation, and utilities industries in the U.S. A portion of [FIN7](https://attack.mitre.org/groups/G0046) was run out of a front company called Combi Security and often used point-of-sale malware for targeting efforts. Since 2020, [FIN7](https://attack.mitre.org/groups/G0046) shifted operations to a big game hunting (BGH) approach including use of [REvil](https://attack.mitre.org/software/S0496) ransomware and their own Ransomware as a Service (RaaS), Darkside. FIN7 may be linked to the [Carbanak](https://attack.mitre.org/groups/G0008) Group, but there appears to be several groups using [Carbanak](https://attack.mitre.org/software/S0030) malware and are therefore tracked separately.(Citation: FireEye FIN7 March 2017)(Citation: FireEye FIN7 April 2017)(Citation: FireEye CARBANAK June 2017)(Citation: FireEye FIN7 Aug 2018)(Citation: CrowdStrike Carbon Spider August 2021)(Citation: Mandiant FIN7 Apr 2022)",
+    "mitre_aliases": [
+        "FIN7",
+        "GOLD NIAGARA",
+        "ITG14",
+        "Carbon Spider",
+        "ELBRUS",
+        "Sangria Tempest"
+    ],
+    "mitre_contributors": [
+        "Edward Millington"
+    ],
+    "mitre_created": "2017-05-31T21:32:09.460Z",
+    "mitre_modified": "2024-04-17T22:09:41.004Z"
+}

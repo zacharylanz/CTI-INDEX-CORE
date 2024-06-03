@@ -1,0 +1,35 @@
+{
+    "description": "Unit 42 researchers have been tracking Subaat, an attacker, since 2017. Recently Subaat drew our attention due to renewed targeted attack activity. Part of monitoring Subaat included realizing the actor was possibly part of a larger crew of individuals responsible for carrying out targeted attacks against worldwide governmental organizations. Technical analysis on some of the attacks as well as attribution links with Pakistan actors have been already depicted by 360 and Tuisec, in which they found interesting connections to a larger group of attackers Unit 42 researchers have been tracking, which we are calling Gorgon Group.",
+    "meta": {
+        "refs": [
+            "https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/",
+            "https://unit42.paloaltonetworks.com/unit42-tracking-subaat-targeted-phishing-attacks-point-leader-threat-actors-repository/",
+            "https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/",
+            "https://attack.mitre.org/groups/G0078/",
+            "https://unit42.paloaltonetworks.com/atoms/pastygemini/"
+        ],
+        "synonyms": [
+            "Gorgon Group",
+            "Subaat",
+            "ATK92",
+            "G0078",
+            "Pasty Gemini"
+        ]
+    },
+    "uuid": "e47c2c4d-706b-4098-92a2-b93e7103e131",
+    "value": "The Gorgon Group",
+    "mitre_attack_ids": [
+        "intrusion-set--1f21da59-6a13-455b-afd0-d58d0a5a7d27"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0078",
+        "https://researchcenter.paloaltonetworks.com/2018/08/unit42-gorgon-group-slithering-nation-state-cybercrime/"
+    ],
+    "mitre_description": "[Gorgon Group](https://attack.mitre.org/groups/G0078) is a threat group consisting of members who are suspected to be Pakistan-based or have other connections to Pakistan. The group has performed a mix of criminal and targeted attacks, including campaigns against government organizations in the United Kingdom, Spain, Russia, and the United States. (Citation: Unit 42 Gorgon Group Aug 2018)",
+    "mitre_aliases": [
+        "Gorgon Group"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2018-10-17T00:14:20.652Z",
+    "mitre_modified": "2021-10-12T21:57:25.847Z"
+}

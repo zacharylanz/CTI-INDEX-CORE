@@ -1,0 +1,10 @@
+{
+    "description": "The campaign, called SmugX, overlaps with previously reported activity by Chinese APT actors RedDelta and Mustang Panda. Although those two correlate to some extent with Camaro Dragon, there is insufficient evidence to link the SmugX campaign to the Camaro Dragon group.\n\nThe campaign uses new delivery methods to deploy (most notably \u2013 HTML Smuggling) a new variant of PlugX, an implant commonly associated with a wide variety of Chinese threat actors. Although the payload itself remains similar to the one found in older PlugX variants, its delivery methods results in low detection rates, which until recently helped the campaign fly under the radar.",
+    "meta": {
+        "refs": [
+            "https://research.checkpoint.com/2023/chinese-threat-actors-targeting-europe-in-smugx-campaign/"
+        ]
+    },
+    "uuid": "c95520c1-0a27-42aa-9853-bf5f0f3bc074",
+    "value": "SmugX"
+}

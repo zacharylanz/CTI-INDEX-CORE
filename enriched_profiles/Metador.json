@@ -1,0 +1,28 @@
+{
+    "description": "Metador primarily targets telecommunications, internet service providers, and universities in several countries in the Middle East and Africa. Metador\u2019s attack chains are designed to bypass native security solutions while deploying malware platforms directly into memory. SentinelLabs researchers discovered variants of two long-standing Windows malware platforms, and indications of an additional Linux implant.",
+    "meta": {
+        "refs": [
+            "https://www.sentinelone.com/labs/the-mystery-of-metador-unpicking-mafaldas-anti-analysis-techniques/",
+            "https://www.sentinelone.com/labs/the-mystery-of-metador-an-unattributed-threat-hiding-in-telcos-isps-and-universities/"
+        ]
+    },
+    "uuid": "5d22315b-55ef-4d8a-86aa-00ba38057641",
+    "value": "Metador",
+    "mitre_attack_ids": [
+        "intrusion-set--bfc5ddb3-4dfb-4278-8928-020e1b3feddd"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1013",
+        "https://assets.sentinelone.com/sentinellabs22/metador#page=1"
+    ],
+    "mitre_description": "[Metador](https://attack.mitre.org/groups/G1013) is a suspected cyber espionage group that was first reported in September 2022. [Metador](https://attack.mitre.org/groups/G1013) has targeted a limited number of telecommunication companies, internet service providers, and universities in the Middle East and Africa. Security researchers named the group [Metador](https://attack.mitre.org/groups/G1013) based on the \"I am meta\" string in one of the group's malware samples and the expectation of Spanish-language responses from C2 servers.(Citation: SentinelLabs Metador Sept 2022)",
+    "mitre_aliases": [
+        "Metador"
+    ],
+    "mitre_contributors": [
+        "Massimiliano Romano, BT Security",
+        "Sittikorn Sangrattanapitak"
+    ],
+    "mitre_created": "2023-01-25T23:57:51.818Z",
+    "mitre_modified": "2024-04-11T00:46:59.526Z"
+}

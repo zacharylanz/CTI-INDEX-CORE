@@ -1,0 +1,22 @@
+{
+    "description": "Recent campaigns suggest Hamas-linked actors may be advancing their\nTTPs to include intricate social engineering lures specially crafted to\nappeal to a niche group of high value targets. In September 2023, a Palestine-based group likely linked to Hamas targeted Israeli software engineers\nusing an elaborate social engineering ruse that ultimately installed malware\nand stole cookies. The attackers, which Google\u2019s Threat Analysis Group (TAG) tracks as BLACKATOM, posed as employees of legitimate companies\nand reached out via LinkedIn to invite targets to apply for software development freelance opportunities. Targets included software engineers in\nthe Israeli military, as well as Israel\u2019s aerospace and defense industry",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Palestine",
+        "cfr-suspected-victims": [
+            "Israel"
+        ],
+        "cfr-target-category": [
+            "Military",
+            "Defense",
+            "Transportation"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "PS",
+        "refs": [
+            "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
+        ]
+    },
+    "uuid": "264687b8-82f4-43b5-b7bb-dc3e0b9246bc",
+    "value": "Blackatom"
+}

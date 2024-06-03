@@ -1,0 +1,30 @@
+{
+    "description": "EXOTIC LILY is a resourceful, financially motivated group whose activities appear to be closely linked with data exfiltration and deployment of human-operated ransomware such as Conti and Diavol. In early September 2021, the group has been obeserved exploiting a 0day in Microsoft MSHTML (CVE-2021-40444). Investigation lead researchers to believe that they are an Initial Access Broker (IAB) who appear to be working with the Russian cyber crime gang known as FIN12 (Mandiant, FireEye) / WIZARD SPIDER (CrowdStrike). This threat actor deploys tactics, techniques and procedures (TTPs) that are traditionally associated with more targeted attacks, like spoofing companies and employees as a means of gaining trust of a targeted organization through email campaigns that are believed to be sent by real human operators using little-to-no automation. Additionally and rather uniquely, they leverage legitimate file-sharing services like WeTransfer, TransferNow and OneDrive to deliver the payload, namely BUMBLEEBEE and BAZARLOADER, further evading detection mechanisms. This level of human-interaction is rather unusual for cyber crime groups focused on mass scale operations.",
+    "meta": {
+        "refs": [
+            "https://www.microsoft.com/security/blog/2021/09/15/analyzing-attacks-that-exploit-the-mshtml-cve-2021-40444-vulnerability",
+            "https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti"
+        ],
+        "synonyms": [
+            "DEV-0413"
+        ]
+    },
+    "uuid": "3ce2a9e0-c435-402a-a7f3-d48b64d1ab9d",
+    "value": "EXOTIC LILY",
+    "mitre_attack_ids": [
+        "intrusion-set--129f2f77-1ab2-4c35-bd5e-21260cee92af"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1011",
+        "https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/"
+    ],
+    "mitre_description": "[EXOTIC LILY](https://attack.mitre.org/groups/G1011) is a financially motivated group that has been closely linked with [Wizard Spider](https://attack.mitre.org/groups/G0102) and the deployment of ransomware including [Conti](https://attack.mitre.org/software/S0575) and [Diavol](https://attack.mitre.org/software/S0659). [EXOTIC LILY](https://attack.mitre.org/groups/G1011) may be acting as an initial access broker for other malicious actors, and has targeted a wide range of industries including IT, cybersecurity, and healthcare since at least September 2021.(Citation: Google EXOTIC LILY March 2022)",
+    "mitre_aliases": [
+        "EXOTIC LILY"
+    ],
+    "mitre_contributors": [
+        "Phill Taylor, BT Security"
+    ],
+    "mitre_created": "2022-08-18T15:25:59.689Z",
+    "mitre_modified": "2022-10-24T18:48:18.917Z"
+}

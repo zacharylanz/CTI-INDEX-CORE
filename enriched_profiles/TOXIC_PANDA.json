@@ -1,0 +1,12 @@
+{
+    "description": "A group targeting dissident groups in China and at the boundaries.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+        ]
+    },
+    "uuid": "1514546d-f6ea-4af3-bbea-24d6fd9e6761",
+    "value": "TOXIC PANDA"
+}

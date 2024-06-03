@@ -1,0 +1,27 @@
+{
+    "description": "As these tools rise and fall in popularity (and more importantly, as detection rates by antivirus vendors improve), SilverTerrier actors have consistently adopted new malware families and shifted to the latest packing tools available. ",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "NG",
+        "refs": [
+            "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/Unit_42/silverterrier-next-evolution-in-nigerian-cybercrime.pdf"
+        ]
+    },
+    "uuid": "acbfd9e4-f78c-4ae0-9b52-c35ed679e546",
+    "value": "SilverTerrier",
+    "mitre_attack_ids": [
+        "intrusion-set--76565741-3452-4069-ab08-80c0ea95bbeb"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0083",
+        "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/Unit_42/silverterrier-next-evolution-in-nigerian-cybercrime.pdf",
+        "https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/whitepapers/unit42-silverterrier-rise-of-nigerian-business-email-compromise"
+    ],
+    "mitre_description": "[SilverTerrier](https://attack.mitre.org/groups/G0083) is a Nigerian threat group that has been seen active since 2014. [SilverTerrier](https://attack.mitre.org/groups/G0083) mainly targets organizations in high technology, higher education, and manufacturing.(Citation: Unit42 SilverTerrier 2018)(Citation: Unit42 SilverTerrier 2016)",
+    "mitre_aliases": [
+        "SilverTerrier"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2019-01-29T21:36:59.793Z",
+    "mitre_modified": "2023-09-27T20:22:05.127Z"
+}

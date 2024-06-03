@@ -1,0 +1,11 @@
+{
+    "description": "GOLD GALLEON is a financially motivated cybercriminal threat group comprised of at least 20 criminal associates that collectively carry out business email compromise (BEC) and spoofing (BES) campaigns. The group appears to specifically target maritime organizations and their customers. CTU researchers have observed GOLD GALLEON targeting firms in South Korea, Japan, Singapore, Philippines, Norway, U.S., Egypt, Saudi Arabia, and Colombia. The threat actors leverage tools, tactics, and procedures that are similar to those used by other BEC/BES groups CTU researchers have previously investigated, such as GOLD SKYLINE. The groups have used the same caliber of publicly available malware (inexpensive and commodity remote access trojans), crypters, and email lures.",
+    "meta": {
+        "refs": [
+            "https://www.secureworks.com/research/gold-galleon-how-a-nigerian-cyber-crew-plunders-the-shipping-industry",
+            "http://www.secureworks.com/research/threat-profiles/gold-galleon"
+        ]
+    },
+    "uuid": "6976b33c-a45b-4330-b0d8-8ef029ef830e",
+    "value": "GOLD GALLEON"
+}

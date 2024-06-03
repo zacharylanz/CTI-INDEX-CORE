@@ -1,0 +1,11 @@
+{
+    "description": "Antd is a miner found in the wild on September 18, 2018. Recently we discovered that the authors from Antd are actively delivering newer campaigns deploying a broad number of components, most of them completely undetected and operating within compromised third party Linux servers. Furthermore, we have observed that some of the techniques implemented by this group are unconventional, and there is an element of sophistication to them. We believe the authors behind this malware are from Chinese origin. We have labeled the undetected Linux.Antd variants, Linux.GreedyAntd and classified the threat actor as Pacha Group.",
+    "meta": {
+        "refs": [
+            "https://www.intezer.com/blog-technical-analysis-pacha-group/",
+            "https://www.intezer.com/blog-technical-analysis-cryptocurrency-mining-war-on-the-cloud/"
+        ]
+    },
+    "uuid": "aa469d96-9357-11e9-bd7d-df125c7cba53",
+    "value": "Pacha Group"
+}

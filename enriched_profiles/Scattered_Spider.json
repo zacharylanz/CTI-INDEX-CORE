@@ -1,0 +1,46 @@
+{
+    "description": "Scattered Spider, a highly active hacking group, has made headlines by targeting more than 130 organizations, with the number of victims steadily increasing.",
+    "meta": {
+        "refs": [
+            "https://www.cybersecurity-insiders.com/scattered-spider-managed-mgm-resort-network-outage-brings-8m-loss-daily/",
+            "https://www.loginradius.com/blog/identity/oktapus-phishing-targets-okta-identity-credentials/",
+            "https://www.attackiq.com/2023/11/21/attack-graph-response-to-cisa-advisory-aa23-320a/",
+            "https://www.mandiant.com/resources/blog/unc3944-sms-phishing-sim-swapping-ransomware"
+        ],
+        "synonyms": [
+            "UNC3944",
+            "Muddled Libra",
+            "Oktapus",
+            "Scattered Swine",
+            "Scatter Swine",
+            "Octo Tempest",
+            "0ktapus",
+            "Storm-0971",
+            "DEV-0971"
+        ]
+    },
+    "uuid": "3b238f3a-c67a-4a9e-b474-dc3897e00129",
+    "value": "Scattered Spider",
+    "mitre_attack_ids": [
+        "intrusion-set--44d37b89-a739-4810-9111-0d2617a8939b"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1015",
+        "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a",
+        "https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/",
+        "https://www.crowdstrike.com/adversaries/scattered-spider/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/",
+        "https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/"
+    ],
+    "mitre_description": "[Scattered Spider](https://attack.mitre.org/groups/G1015) is a native English-speaking cybercriminal group that has been active since at least 2022.(Citation: CrowdStrike Scattered Spider Profile)(Citation: MSTIC Octo Tempest Operations October 2023) The group initially targeted customer relationship management and business-process outsourcing (BPO) firms as well as telecommunications and technology companies. Beginning in 2023, [Scattered Spider](https://attack.mitre.org/groups/G1015) expanded its operations to compromise victims in the gaming, hospitality, retail, MSP, manufacturing, and financial sectors.(Citation: MSTIC Octo Tempest Operations October 2023) During campaigns, [Scattered Spider](https://attack.mitre.org/groups/G1015) has leveraged targeted social-engineering techniques, attempted to bypass popular endpoint security tools, and more recently, deployed ransomware for financial gain.(Citation: CISA Scattered Spider Advisory November 2023)(Citation: CrowdStrike Scattered Spider BYOVD January 2023)(Citation: CrowdStrike Scattered Spider Profile)(Citation: MSTIC Octo Tempest Operations October 2023)(Citation: Crowdstrike TELCO BPO Campaign December 2022)",
+    "mitre_aliases": [
+        "Scattered Spider",
+        "Roasted 0ktapus",
+        "Octo Tempest",
+        "Storm-0875"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2023-07-05T17:54:54.789Z",
+    "mitre_modified": "2024-04-04T21:24:48.602Z"
+}

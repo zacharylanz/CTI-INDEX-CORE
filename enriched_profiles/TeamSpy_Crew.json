@@ -1,0 +1,47 @@
+{
+    "description": "Researchers have uncovered a long-term cyber-espionage campaign that used a combination of legitimate software packages and commodity malware tools to target a variety of heavy industry, government intelligence agencies and political activists. Known as the TeamSpy crew because of its affinity for using the legitimate TeamViewer application as part of its toolset, the attackers may have been active for as long as 10 years, researchers say.\nThe attack appears to be a years-long espionage campaign, but experts who have analyzed the victim profile, malware components and command-and-control infrastructure say that it\u2019s not entirely clear what kind of data the attackers are going after. What is clear, though, is that the attackers have been at this for a long time and that they have specific people in mind as targets.\nResearchers at the CrySyS Lab in Hungary were alerted by the Hungarian National Security Authority to an attack against a high-profile target in the country and began looking into the campaign. They quickly discovered that some of the infrastructure being used in the attack had been in use for some time and that the target they were investigating was by no means the only one.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Russian Federation",
+        "cfr-suspected-victims": [
+            "Hungary",
+            "Belarus"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "RU",
+        "refs": [
+            "https://securelist.com/blog/incidents/35520/the-teamspy-crew-attacks-abusing-teamviewer-for-cyberespionage-8/",
+            "https://www.cfr.org/interactive/cyber-operations/team-spy-crew",
+            "https://threatpost.com/researchers-uncover-teamspy-attack-campaign-targeting-government-research-targets-032013/77646/",
+            "https://www.crysys.hu/publications/files/teamspy.pdf",
+            "https://d2538mqrb7brka.cloudfront.net/wp-content/uploads/sites/43/2018/03/20134928/theteamspystory_final_t2.pdf",
+            "https://www.secureworks.com/research/resurgent-iron-liberty-targeting-energy-sector"
+        ],
+        "synonyms": [
+            "TeamSpy",
+            "Team Bear",
+            "Anger Bear",
+            "IRON LYRIC"
+        ],
+        "targeted-sector": [
+            "Activists",
+            "Intelligence",
+            "Government, Administration"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "90ef600f-5198-44a9-a2c6-de4b4d9d8624",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "82c1c7fa-c67b-4be6-9be8-8aa400ef2445",
+    "value": "TeamSpy Crew"
+}

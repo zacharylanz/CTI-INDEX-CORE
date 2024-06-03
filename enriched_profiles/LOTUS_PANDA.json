@@ -1,0 +1,80 @@
+{
+    "description": "Lotus Blossom is a threat group that has targeted government and military organizations in Southeast Asia.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Japan",
+            "Philippines",
+            "Hong Kong",
+            "Indonesia",
+            "Taiwan",
+            "Vietnam"
+        ],
+        "cfr-target-category": [
+            "Military",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://securelist.com/blog/research/70726/the-spring-dragon-apt/",
+            "https://securelist.com/spring-dragon-updated-activity/79067/",
+            "https://www.cfr.org/interactive/cyber-operations/lotus-blossom",
+            "https://unit42.paloaltonetworks.com/operation-lotus-blossom/",
+            "https://www.accenture.com/t00010101T000000Z__w__/gb-en/_acnmedia/PDF-46/Accenture-Security-Elise-Threat-Analysis.pdf",
+            "https://unit42.paloaltonetworks.com/attack-on-french-diplomat-linked-to-operation-lotus-blossom/",
+            "https://community.rsa.com/community/products/netwitness/blog/2018/02/13/lotus-blossom-continues-asean-targeting",
+            "https://www.accenture.com/t20180127T003755Z_w_/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf",
+            "https://attack.mitre.org/groups/G0030/",
+            "https://www.secureworks.com/research/threat-profiles/bronze-elgin",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf"
+        ],
+        "synonyms": [
+            "Spring Dragon",
+            "ST Group",
+            "DRAGONFISH",
+            "BRONZE ELGIN",
+            "ATK1",
+            "G0030",
+            "Red Salamander",
+            "Lotus BLossom"
+        ],
+        "targeted-sector": [
+            "Military",
+            "Government, Administration"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "88b7dbc2-32d3-4e31-af2f-3fc24e1582d7",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "32fafa69-fe3c-49db-afd4-aac2664bcf0d",
+    "value": "LOTUS PANDA",
+    "mitre_attack_ids": [
+        "intrusion-set--88b7dbc2-32d3-4e31-af2f-3fc24e1582d7"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0030",
+        "https://www.accenture.com/t20180127T003755Z_w_/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf",
+        "https://securelist.com/the-spring-dragon-apt/70726/",
+        "https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide"
+    ],
+    "mitre_description": "[Lotus Blossom](https://attack.mitre.org/groups/G0030) is a threat group that has targeted government and military organizations in Southeast Asia. (Citation: Lotus Blossom Jun 2015)",
+    "mitre_aliases": [
+        "Lotus Blossom",
+        "DRAGONFISH",
+        "Spring Dragon",
+        "RADIUM",
+        "Raspberry Typhoon"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:32:01.092Z",
+    "mitre_modified": "2024-01-08T21:58:31.089Z"
+}

@@ -1,0 +1,29 @@
+{
+    "description": "WIRTE is a threat actor group that was first discovered in 2018. They are suspected to be part of the Gaza Cybergang, an Arabic politically motivated cyber criminal group. WIRTE has been observed changing their toolkit and operating methods to remain undetected for longer periods of time. They primarily target governmental and political entities, but have also been known to target law firms and financial institutions.",
+    "meta": {
+        "country": "PS",
+        "refs": [
+            "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044/",
+            "https://lab52.io/blog/wirte-group-attacking-the-middle-east/"
+        ]
+    },
+    "uuid": "ec6bcaa9-4cb3-4397-a735-c806bc986c81",
+    "value": "WIRTE",
+    "mitre_attack_ids": [
+        "intrusion-set--f8cb7b36-62ef-4488-8a6d-a7033e3271c1"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0090",
+        "https://lab52.io/blog/wirte-group-attacking-the-middle-east/",
+        "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044"
+    ],
+    "mitre_description": "[WIRTE](https://attack.mitre.org/groups/G0090) is a threat group that has been active since at least August 2018. [WIRTE](https://attack.mitre.org/groups/G0090) has targeted government, diplomatic, financial, military, legal, and technology organizations in the Middle East and Europe.(Citation: Lab52 WIRTE Apr 2019)(Citation: Kaspersky WIRTE November 2021)",
+    "mitre_aliases": [
+        "WIRTE"
+    ],
+    "mitre_contributors": [
+        "Lab52 by S2 Grupo"
+    ],
+    "mitre_created": "2019-05-24T17:02:44.226Z",
+    "mitre_modified": "2022-04-15T19:50:19.478Z"
+}

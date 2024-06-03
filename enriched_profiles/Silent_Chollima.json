@@ -1,0 +1,48 @@
+{
+    "description": "Andariel is a threat actor that primarily targets South Korean corporations and institutions. They are believed to collaborate with or operate as a subsidiary organization of the Lazarus threat group. WHOIS utilizes spear phishing attacks, watering hole attacks, and supply chain attacks for initial access. They have been known to exploit vulnerabilities and use malware such as Infostealer and TigerRAT.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "KP",
+        "refs": [
+            "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf",
+            "https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/"
+        ],
+        "synonyms": [
+            "OperationTroy",
+            "Guardian of Peace",
+            "GOP",
+            "WHOis Team",
+            "Andariel",
+            "Subgroup: Andariel",
+            "Onyx Sleet",
+            "PLUTONIUM"
+        ]
+    },
+    "uuid": "245c8dde-ed42-4c49-b48b-634e3e21bdd7",
+    "value": "Silent Chollima",
+    "mitre_attack_ids": [
+        "intrusion-set--39d6890e-7f23-4474-b8ef-e7b0343c5fc8"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0138",
+        "http://download.ahnlab.com/global/brochure/%5BAnalysis%5DAndariel_Group.pdf",
+        "https://www.trendmicro.com/en_us/research/18/g/new-andariel-reconnaissance-tactics-hint-at-next-targets.html",
+        "https://adversary.crowdstrike.com/en-US/adversary/silent-chollima/",
+        "https://www.fsec.or.kr/user/bbs/fsec/163/344/bbsDataView/1680.do",
+        "http://www.issuemakerslab.com/research3/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://home.treasury.gov/news/press-releases/sm774"
+    ],
+    "mitre_description": "[Andariel](https://attack.mitre.org/groups/G0138) is a North Korean state-sponsored threat group that has been active since at least 2009. [Andariel](https://attack.mitre.org/groups/G0138) has primarily focused its operations--which have included destructive attacks--against South Korean government agencies, military organizations, and a variety of domestic companies; they have also conducted cyber financial operations against ATMs, banks, and cryptocurrency exchanges. [Andariel](https://attack.mitre.org/groups/G0138)'s notable activity includes Operation Black Mine, Operation GoldenAxe, and Campaign Rifle.(Citation: FSI Andariel Campaign Rifle July 2017)(Citation: IssueMakersLab Andariel GoldenAxe May 2017)(Citation: AhnLab Andariel Subgroup of Lazarus June 2018)(Citation: TrendMicro New Andariel Tactics July 2018)(Citation: CrowdStrike Silent Chollima Adversary September 2021)\n\n[Andariel](https://attack.mitre.org/groups/G0138) is considered a sub-set of [Lazarus Group](https://attack.mitre.org/groups/G0032), and has been attributed to North Korea's Reconnaissance General Bureau.(Citation: Treasury North Korean Cyber Groups September 2019)\n\nNorth Korean group definitions are known to have significant overlap, and some security researchers report all North Korean state-sponsored cyber activity under the name [Lazarus Group](https://attack.mitre.org/groups/G0032) instead of tracking clusters or subgroups.",
+    "mitre_aliases": [
+        "Andariel",
+        "Silent Chollima",
+        "PLUTONIUM",
+        "Onyx Sleet"
+    ],
+    "mitre_contributors": [
+        "Kyoung-ju Kwak (S2W)"
+    ],
+    "mitre_created": "2021-09-29T15:10:19.236Z",
+    "mitre_modified": "2024-01-08T21:55:29.570Z"
+}

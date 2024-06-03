@@ -1,0 +1,10 @@
+{
+    "description": "Cisco Talos recently identified a large number of ongoing malware distribution campaigns linked to a threat actor we're calling \"SWEED,\" including such notable malware as Formbook, Lokibot and Agent Tesla. Based on our research, SWEED \u2014 which has been operating since at least 2017 \u2014 primarily targets their victims with stealers and remote access trojans.\nSWEED remains consistent across most of their campaigns in their use of spear-phishing emails with malicious attachments. While these campaigns have featured a myriad of different types of malicious documents, the actor primarily tries to infect its victims with a packed version of Agent Tesla \u2014 an information stealer that's been around since at least 2014. The version of Agent Tesla that SWEED is using differs slightly from what we've seen in the past in the way that it is packed, as well as how it infects the system. In this post, we'll run down each campaign we're able to connect to SWEED, and talk about some of the actor's tactics, techniques and procedures (TTPs).",
+    "meta": {
+        "refs": [
+            "https://blog.talosintelligence.com/2019/07/sweed-agent-tesla.html"
+        ]
+    },
+    "uuid": "64ac8827-89d9-4738-9df3-cd955c628bee",
+    "value": "SWEED"
+}

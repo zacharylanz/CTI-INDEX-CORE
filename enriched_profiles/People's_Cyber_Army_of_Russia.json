@@ -1,0 +1,17 @@
+{
+    "description": "",
+    "meta": {
+        "refs": []
+    },
+    "related": [
+        {
+            "dest-uuid": "e496af6a-1f1b-47fd-b908-fc369e32ffba",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "ceee219c-8af2-4cea-8382-6ef6c311eac8",
+    "value": "People's Cyber Army of Russia"
+}

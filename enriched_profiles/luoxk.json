@@ -1,0 +1,11 @@
+{
+    "description": "Luoxk is a malware campaign targeting web servers throughout Asia, Europe and North America.",
+    "meta": {
+        "refs": [
+            "https://www.systemtek.co.uk/2018/07/luoxk-malware-exploiting-cve-2018-2893/"
+        ],
+        "since": "2017"
+    },
+    "uuid": "69e11692-691e-4bfb-9557-4e2a271684ed",
+    "value": "luoxk"
+}

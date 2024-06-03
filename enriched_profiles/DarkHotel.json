@@ -1,0 +1,99 @@
+{
+    "description": "Kaspersky described DarkHotel in a 2014 report as: '... DarkHotel drives its campaigns by spear-phishing targets with highly advanced Flash zero-day exploits that effectively evade the latest Windows and Adobe defenses, and yet they also imprecisely spread among large numbers of vague targets with peer-to-peer spreading tactics. Moreover, this crews most unusual characteristic is that for several years the Darkhotel APT has maintained a capability to use hotel networks to follow and hit selected targets as they travel around the world.'",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Korea (Republic of)",
+        "cfr-suspected-victims": [
+            "Japan",
+            "Russia",
+            "Taiwan",
+            "South Korea",
+            "China"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "KR",
+        "refs": [
+            "https://securelist.com/blog/research/71713/darkhotels-attacks-in-2015/",
+            "https://blogs.technet.microsoft.com/mmpc/2016/06/09/reverse-engineering-dubnium-2",
+            "https://securelist.com/blog/research/66779/the-darkhotel-apt/",
+            "https://securelist.com/the-darkhotel-apt/66779/",
+            "https://web.archive.org/web/20160104165148/http://drops.wooyun.org/tips/11726",
+            "https://labs.bitdefender.com/wp-content/uploads/downloads/inexsmar-an-unusual-darkhotel-campaign/",
+            "https://www.cfr.org/interactive/cyber-operations/darkhotel",
+            "https://www.securityweek.com/darkhotel-apt-uses-new-methods-target-politicians",
+            "https://attack.mitre.org/groups/G0012/",
+            "https://www.secureworks.com/research/threat-profiles/tungsten-bridge",
+            "https://www.antiy.cn/research/notice&report/research_report/20200522.html"
+        ],
+        "synonyms": [
+            "DUBNIUM",
+            "Fallout Team",
+            "Karba",
+            "Luder",
+            "Nemim",
+            "Nemin",
+            "Tapaoux",
+            "Pioneer",
+            "Shadow Crane",
+            "APT-C-06",
+            "SIG25",
+            "TUNGSTEN BRIDGE",
+            "T-APT-02",
+            "G0012",
+            "ATK52",
+            "Zigzag Hail"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "b56af6ab-69f8-457a-bf50-c3aefa6dc14a",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "f52ab8b8-71f2-5a88-946f-853dc3441efe",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "0a4ddab3-a1a6-5372-b11f-5edc25c0e548",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "b8c8b96d-61e6-47b1-8e38-fd8ad5d9854d",
+    "value": "DarkHotel",
+    "mitre_attack_ids": [
+        "intrusion-set--9e729a7e-0dd6-4097-95bf-db8d64911383"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0012",
+        "https://securelist.com/darkhotels-attacks-in-2015/71713/",
+        "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf",
+        "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxPuf",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/security/blog/2016/07/14/reverse-engineering-dubnium-stage-2-payload-analysis/",
+        "https://www.microsoft.com/security/blog/2016/06/20/reverse-engineering-dubniums-flash-targeting-exploit/",
+        "https://www.microsoft.com/security/blog/2016/06/09/reverse-engineering-dubnium-2/"
+    ],
+    "mitre_description": "[Darkhotel](https://attack.mitre.org/groups/G0012) is a suspected South Korean threat group that has targeted victims primarily in East Asia since at least 2004. The group's name is based on cyber espionage operations conducted via hotel Internet networks against traveling executives and other select guests. [Darkhotel](https://attack.mitre.org/groups/G0012) has also conducted spearphishing campaigns and infected victims through peer-to-peer and file sharing networks.(Citation: Kaspersky Darkhotel)(Citation: Securelist Darkhotel Aug 2015)(Citation: Microsoft Digital Defense FY20 Sept 2020)",
+    "mitre_aliases": [
+        "Darkhotel",
+        "DUBNIUM",
+        "Zigzag Hail"
+    ],
+    "mitre_contributors": [
+        "Harry Kim, CODEMIZE"
+    ],
+    "mitre_created": "2017-05-31T21:31:50.624Z",
+    "mitre_modified": "2024-01-08T20:27:56.707Z"
+}

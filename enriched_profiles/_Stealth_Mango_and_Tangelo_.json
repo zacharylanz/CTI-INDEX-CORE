@@ -1,0 +1,29 @@
+{
+    "description": "This threat actor targets organizations in the satellite communications, telecommunications, geospatial-imaging, and defense sectors in the United States and Southeast Asia for espionage purposes.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Pakistan",
+        "cfr-suspected-victims": [
+            "Pakistan",
+            "Iraq",
+            "Australia",
+            "Afghanistan",
+            "United Arab Emirates",
+            "Germany",
+            "India",
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "PK",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/stealth-mango-and-tangelo",
+            "https://www.lookout.com/blog/stealth-mango"
+        ]
+    },
+    "uuid": "f82b352e-a9f8-11e8-8be8-fbcf6eddd58c",
+    "value": " Stealth Mango and Tangelo "
+}

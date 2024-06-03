@@ -1,0 +1,75 @@
+{
+    "description": "Wekby was described by Palo Alto Networks in a 2015 report as: 'Wekby is a group that has been active for a number of years, targeting various industries such as healthcare, telecommunications, aerospace, defense, and high tech. The group is known to leverage recently released exploits very shortly after those exploits are available, such as in the case of HackingTeams Flash zero - day exploit.'",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://threatpost.com/apt-gang-branches-out-to-medical-espionage-in-community-health-breach/107828",
+            "https://www.cfr.org/interactive/cyber-operations/apt-18",
+            "https://attack.mitre.org/groups/G0026",
+            "https://www.mandiant.com/resources/insights/apt-groups"
+        ],
+        "synonyms": [
+            "DYNAMITE PANDA",
+            "TG-0416",
+            "SCANDIUM",
+            "PLA Navy",
+            "Wekby",
+            "G0026"
+        ],
+        "targeted-sector": [
+            "Aerospace",
+            "Defense",
+            "Health",
+            "High tech",
+            "Telecoms"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "38fd6a28-3353-4f2b-bb2b-459fecd5c648",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "2fb07fa4-0d7f-43c7-8ff4-b28404313fe7",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "9a683d9c-8f7d-43df-bba2-ad0ca71e277c",
+    "value": "APT18",
+    "mitre_attack_ids": [
+        "intrusion-set--38fd6a28-3353-4f2b-bb2b-459fecd5c648"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0026",
+        "http://www.secureworks.com/resources/blog/where-you-at-indicators-of-lateral-movement-using-at-exe-on-windows-7-systems/",
+        "https://www.anomali.com/blog/evasive-maneuvers-the-wekby-group-attempts-to-evade-analysis-via-custom-rop",
+        "https://www.threatstream.com/blog/evasive-maneuvers-the-wekby-group-attempts-to-evade-analysis-via-custom-rop"
+    ],
+    "mitre_description": "[APT18](https://attack.mitre.org/groups/G0026) is a threat group that has operated since at least 2009 and has targeted a range of industries, including technology, manufacturing, human rights groups, government, and medical. (Citation: Dell Lateral Movement)",
+    "mitre_aliases": [
+        "APT18",
+        "TG-0416",
+        "Dynamite Panda",
+        "Threat Group-0416"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:31:57.733Z",
+    "mitre_modified": "2024-04-11T03:03:44.056Z"
+}

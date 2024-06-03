@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+            "https://attack.mitre.org/groups/G0062/"
+        ],
+        "synonyms": [
+            "G0062"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "62a64fd3-aaf7-4d09-a375-d6f8bb118481",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "c6472ae1-c6ad-4cf1-8d6e-8c94b94fe314",
+    "value": "TA459",
+    "mitre_attack_ids": [
+        "intrusion-set--62a64fd3-aaf7-4d09-a375-d6f8bb118481"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0062",
+        "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts"
+    ],
+    "mitre_description": "[TA459](https://attack.mitre.org/groups/G0062) is a threat group believed to operate out of China that has targeted countries including Russia, Belarus, Mongolia, and others. (Citation: Proofpoint TA459 April 2017)",
+    "mitre_aliases": [
+        "TA459"
+    ],
+    "mitre_contributors": [
+        "Valerii Marchuk, Cybersecurity Help s.r.o."
+    ],
+    "mitre_created": "2018-04-18T17:59:24.739Z",
+    "mitre_modified": "2020-03-30T19:22:32.962Z"
+}

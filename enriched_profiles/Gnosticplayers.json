@@ -1,0 +1,14 @@
+{
+    "description": "The hacker said that he put up the data for sale mainly because these companies had failed to protect passwords with strong encryption algorithms like bcrypt.\nMost of the hashed passwords the hacker put up for sale today can cracked with various levels of difficulty --but they can be cracked.\n\"I got upset because I feel no one is learning,\" the hacker told ZDNet in an online chat earlier today. \"I just felt upset at this particular moment, because seeing this lack of security in 2019 is making me angry.\"\nIn a conversation with ZDNet last month, the hacker told us he wanted to hack and put up for sale more than one billion records and then retire and disappear with the money.\nBut in a conversation today, the hacker says this is not his target anymore, as he learned that other hackers have already achieved the same goal before him.\n Gnosticplayers also revealed that not all the data he obtained from hacked companies had been put up for sale. Some companies gave into extortion demands and paid fees so breaches would remain private.\n\"I came to an agreement with some companies, but the concerned startups won't see their data for sale,\" he said. \"I did it that's why I can't publish the rest of my databases or even name them.\"",
+    "meta": {
+        "refs": [
+            "https://www.zdnet.com/article/round-4-hacker-returns-and-puts-26mil-user-records-for-sale-on-the-dark-web/",
+            "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/",
+            "https://www.zdnet.com/article/127-million-user-records-from-8-companies-put-up-for-sale-on-the-dark-web/",
+            "https://www.zdnet.com/article/hacker-puts-up-for-sale-third-round-of-hacked-databases-on-the-dark-web/",
+            "https://www.zdnet.com/article/a-hacker-has-dumped-nearly-one-billion-user-records-over-the-past-two-months/"
+        ]
+    },
+    "uuid": "f32e3682-9298-11e9-8dcb-639156d97cd1",
+    "value": "Gnosticplayers"
+}

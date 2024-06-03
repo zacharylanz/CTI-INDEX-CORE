@@ -1,0 +1,42 @@
+{
+    "description": "GREF is a China-aligned APT group that has been active since at least March 2017. They are known for using custom backdoors, loaders, and ancillary tools in their targeted attacks. Recently, they have been attributed to two active Android campaigns that distribute the BadBazaar malware through malicious apps on official and alternative app stores. GREF has targeted Android users, particularly Uyghurs and other Turkic ethnic minorities outside of China, using trojanized versions of popular messaging apps like Signal and Telegram.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://www.welivesecurity.com/en/eset-research/badbazaar-espionage-tool-targets-android-users-trojanized-signal-telegram-apps/"
+        ]
+    },
+    "uuid": "e6d16c22-0780-483c-9920-c1d9f27b10c8",
+    "value": "GREF",
+    "mitre_attack_ids": [
+        "intrusion-set--6713ab67-e25b-49cc-808d-2b36d4fbc35c"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0004",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/security/blog/2021/12/06/nickel-targeting-government-organizations-across-latin-america-and-europe",
+        "https://web.archive.org/web/20180615122133/https://www.intezer.com/miragefox-apt15-resurfaces-with-new-tools-based-on-old-ones/",
+        "https://research.nccgroup.com/2018/03/10/apt15-is-alive-and-strong-an-analysis-of-royalcli-and-royaldns/",
+        "https://www.mandiant.com/resources/operation-ke3chang-targeted-attacks-against-ministries-of-foreign-affairs",
+        "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-ke3chang.pdf"
+    ],
+    "mitre_description": "[Ke3chang](https://attack.mitre.org/groups/G0004) is a threat group attributed to actors operating out of China. [Ke3chang](https://attack.mitre.org/groups/G0004) has targeted oil, government, diplomatic, military, and NGOs in Central and South America, the Caribbean, Europe, and North America since at least 2010.(Citation: Mandiant Operation Ke3chang November 2014)(Citation: NCC Group APT15 Alive and Strong)(Citation: APT15 Intezer June 2018)(Citation: Microsoft NICKEL December 2021)",
+    "mitre_aliases": [
+        "Ke3chang",
+        "APT15",
+        "Mirage",
+        "Vixen Panda",
+        "GREF",
+        "Playful Dragon",
+        "RoyalAPT",
+        "NICKEL",
+        "Nylon Typhoon"
+    ],
+    "mitre_contributors": [
+        "Pooja Natarajan, NEC Corporation India",
+        "Manikantan Srinivasan, NEC Corporation India",
+        "Hiroki Nagahama, NEC Corporation"
+    ],
+    "mitre_created": "2017-05-31T21:31:47.177Z",
+    "mitre_modified": "2024-01-08T21:47:14.257Z"
+}

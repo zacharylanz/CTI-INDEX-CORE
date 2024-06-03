@@ -1,0 +1,20 @@
+{
+    "description": "In early 2021 CTU researchers observed BRONZE EDGEWOOD exploiting the Microsoft Exchange Server of an organization in Southeast Asia. The threat group deployed a China Chopper webshell and ran the Nishang Invoke-PowerShellTcp.ps1 script to connect back to C2 infrastructure. The threat group is publicly linked to malware families Chinoxy, PCShare and FunnyDream. CTU researchers have discovered that BRONZE EDGEWOOD also leverages Cobalt Strike in its intrusion activity. BRONZE EDGEWOOD has been active since at least 2018 and targets government and private enterprises across Southeast Asia. CTU researchers assess with moderate confidence that BRONZE EDGEWOOD operates on behalf the Chinese government and has a remit that covers political espionage.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Kyrgyzstan",
+            "Malaysia",
+            "Vietnam"
+        ],
+        "country": "CN",
+        "refs": [
+            "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf",
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf"
+        ],
+        "synonyms": [
+            "Red Hariasa"
+        ]
+    },
+    "uuid": "b4ce9385-eedf-4a71-803c-6d53a250d10b",
+    "value": "BRONZE EDGEWOOD"
+}

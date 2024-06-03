@@ -1,0 +1,30 @@
+{
+    "description": "There are several groups actively and profitably targeting businesses in Russia. A trend that we have seen unfold before our eyes lately is these cybercriminals\u2019 use of simple backdoors to gain a foothold in their targets\u2019 networks. Once they have this access, a lot of the work is done manually, slowly getting to understand the network layout and deploying custom tools the criminals can use to steal funds from these entities. Some of the groups that best exemplify these trends are Buhtrap, Cobalt and Corkow.\nThe group discussed in this white paper is part of this new trend. We call this new group RTM; it uses custom malware, written in Delphi, that we cover in detail in later sections. The first trace of this tool in our telemetry data dates back to late 2015. The group also makes use of several different modules that they deploy where appropriate to their targets. They are interested in users of remote banking systems (RBS), mainly in Russia and neighboring countries.",
+    "meta": {
+        "refs": [
+            "https://www.welivesecurity.com/wp-content/uploads/2017/02/Read-The-Manual.pdf",
+            "https://attack.mitre.org/groups/G0048/"
+        ],
+        "synonyms": [
+            "G0048"
+        ]
+    },
+    "uuid": "88100602-8e8b-11e9-bb7c-1bf20b58e305",
+    "value": "RTM",
+    "mitre_attack_ids": [
+        "intrusion-set--c416b28c-103b-4df1-909e-78089a7e0e5f"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0048",
+        "https://www.welivesecurity.com/wp-content/uploads/2017/02/Read-The-Manual.pdf"
+    ],
+    "mitre_description": "[RTM](https://attack.mitre.org/groups/G0048) is a cybercriminal group that has been active since at least 2015 and is primarily interested in users of remote banking systems in Russia and neighboring countries. The group uses a Trojan by the same name ([RTM](https://attack.mitre.org/software/S0148)). (Citation: ESET RTM Feb 2017)",
+    "mitre_aliases": [
+        "RTM"
+    ],
+    "mitre_contributors": [
+        "Oleg Skulkin, Group-IB"
+    ],
+    "mitre_created": "2017-05-31T21:32:10.206Z",
+    "mitre_modified": "2020-05-12T22:16:44.650Z"
+}

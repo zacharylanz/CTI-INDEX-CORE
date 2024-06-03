@@ -1,0 +1,34 @@
+{
+    "description": "UNC5330 is a suspected China-nexus espionage actor. UNC5330 has been observed chaining CVE-2024-21893 and CVE-2024-21887 to compromise Ivanti Connect Secure VPN appliances as early as Feb. 2024. Post-compromise activity by UNC5330 includes deployment of PHANTOMNET and TONERJAM. UNC5330 has employed Windows Management Instrumentation (WMI) to perform reconnaissance, move laterally, manipulate registry entries, and establish persistence.\nMandiant observed UNC5330 operating a server since Dec. 6, 2021, which the group used as a GOST proxy to help facilitate malicious tool deployment to endpoints. The default certificate for GOST proxy was observed from Sept. 1, 2022 through Jan. 1, 2024. UNC5330 also attempted to download Fast Reverse Proxy (FRP) from this server on Feb. 3, 2024, from a compromised Ivanti Connect Secure device. Given the SSH key reuse in conjunction with the temporal proximity of these events, Mandiant assesses with moderate confidence UNC5330 has been operating through this server since at least 2021.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "f97ea150-a727-4d47-823a-41de07a43ea9",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "deploys"
+        },
+        {
+            "dest-uuid": "540b3e66-edbf-40ee-ae05-474b27c1ff40",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "deploys"
+        },
+        {
+            "dest-uuid": "c9f26173-ba82-4ed2-adbd-e2e07f582f31",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        }
+    ],
+    "uuid": "c5ea778c-df2f-4c63-b401-dded9cb2419c",
+    "value": "UNC5330"
+}

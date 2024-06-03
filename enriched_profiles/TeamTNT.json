@@ -1,0 +1,47 @@
+{
+    "description": "In early Febuary, 2021 TeamTNT launched a new campaign against Docker and Kubernetes environments. Using a collection of container images that are hosted in Docker Hub, the attackers are targeting misconfigured docker daemons, Kubeflow dashboards, and Weave Scope, exploiting these environments in order to steal cloud credentials, open backdoors, mine cryptocurrency, and launch a worm that is looking for the next victim.\nThey're linked to the First Crypto-Mining Worm to Steal AWS Credentials and Hildegard Cryptojacking malware.\nTeamTNT is a relatively recent addition to a growing number of threats targeting the cloud. While they employ some of the same tactics as similar groups, TeamTNT stands out with their social media presence and penchant for self-promotion. Tweets from the TeamTNT\u2019s account are in both English and German although it is unknown if they are located in Germany.",
+    "meta": {
+        "refs": [
+            "https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/",
+            "https://malpedia.caad.fkie.fraunhofer.de/details/elf.teamtnt",
+            "https://blog.aquasec.com/teamtnt-campaign-against-docker-kubernetes-environment",
+            "https://cybersecurity.att.com/blogs/labs-research/teamtnt-delivers-malware-with-new-detection-evasion-tool",
+            "https://www.cadosecurity.com/post/team-tnt-the-first-crypto-mining-worm-to-steal-aws-credentials",
+            "https://www.intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/",
+            "https://www.trendmicro.com/en_us/research/20/l/teamtnt-now-deploying-ddos-capable-irc-bot-tntbotinger.html",
+            "https://cyware.com/news/hildegard-teamtnts-new-feature-rich-malware-targeting-kubernetes-6587eb45",
+            "https://www.lacework.com/teamtnt-builds-botnet-from-chinese-cloud-servers/",
+            "https://unit42.paloaltonetworks.com/atoms/adept-libra/"
+        ],
+        "synonyms": [
+            "Adept Libra"
+        ]
+    },
+    "uuid": "27de6a09-844b-4dcb-9ff9-7292aad826ba",
+    "value": "TeamTNT",
+    "mitre_attack_ids": [
+        "intrusion-set--35d1b3be-49d4-42f1-aaa6-ef159c880bca"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0139",
+        "https://cybersecurity.att.com/blogs/labs-research/teamtnt-with-new-campaign-aka-chimaera",
+        "https://www.cadosecurity.com/team-tnt-the-first-crypto-mining-worm-to-steal-aws-credentials/",
+        "https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/",
+        "https://documents.trendmicro.com/assets/white_papers/wp-tracking-the-activities-of-teamTNT.pdf",
+        "https://www.intezer.com/blog/cloud-security/attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks/",
+        "https://www.intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf",
+        "https://blog.aquasec.com/container-security-tnt-container-attack",
+        "https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/",
+        "https://www.lacework.com/blog/taking-teamtnt-docker-images-offline/"
+    ],
+    "mitre_description": "[TeamTNT](https://attack.mitre.org/groups/G0139) is a threat group that has primarily targeted cloud and containerized environments. The group as been active since at least October 2019 and has mainly focused its efforts on leveraging cloud and container resources to deploy cryptocurrency miners in victim environments.(Citation: Palo Alto Black-T October 2020)(Citation: Lacework TeamTNT May 2021)(Citation: Intezer TeamTNT September 2020)(Citation: Cado Security TeamTNT Worm August 2020)(Citation: Unit 42 Hildegard Malware)(Citation: Trend Micro TeamTNT)(Citation: ATT TeamTNT Chimaera September 2020)(Citation: Aqua TeamTNT August 2020)(Citation: Intezer TeamTNT Explosion September 2021)",
+    "mitre_aliases": [
+        "TeamTNT"
+    ],
+    "mitre_contributors": [
+        "Will Thomas, Cyjax",
+        "Darin Smith, Cisco"
+    ],
+    "mitre_created": "2021-10-01T01:57:31.229Z",
+    "mitre_modified": "2024-04-10T22:34:04.070Z"
+}

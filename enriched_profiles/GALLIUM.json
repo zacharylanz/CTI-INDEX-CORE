@@ -1,0 +1,64 @@
+{
+    "description": "GALLIUM, is a threat actor believed to be targeting telecommunication providers over the world, mostly South-East Asia, Europe and Africa. To compromise targeted networks, GALLIUM target unpatched internet-facing services using publicly available exploits and have been known to target vulnerabilities in WildFly/JBoss.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/",
+            "https://www.youtube.com/watch?v=fBFm2fiEPTg",
+            "https://troopers.de/troopers22/talks/7cv8pz/",
+            "https://unit42.paloaltonetworks.com/atoms/alloytaurus/",
+            "https://unit42.paloaltonetworks.com/alloy-taurus-targets-se-asian-government/"
+        ],
+        "synonyms": [
+            "Red Dev 4",
+            "Alloy Taurus",
+            "Granite Typhoon"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "8dda51ef-9a30-48f7-b0fd-5b6f0a62262d",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "6085aad0-1d95-11ea-a140-078d42aced40",
+            "tags": [
+                "estimative-language:likelihood-probability=\"almost-certain\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "ae4036de-c901-5f21-808a-f5c071ef509b",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "e400b6c5-77cf-453d-ba0f-44575583ac6c",
+    "value": "GALLIUM",
+    "mitre_attack_ids": [
+        "intrusion-set--06a11b7e-2a36-47fe-8d3e-82c265df3258"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0093",
+        "https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/",
+        "https://unit42.paloaltonetworks.com/pingpull-gallium/"
+    ],
+    "mitre_description": "[GALLIUM](https://attack.mitre.org/groups/G0093) is a cyberespionage group that has been active since at least 2012, primarily targeting telecommunications companies, financial institutions, and government entities in Afghanistan, Australia, Belgium, Cambodia, Malaysia, Mozambique, the Philippines, Russia, and Vietnam. This group is particularly known for launching Operation Soft Cell, a long-term campaign targeting telecommunications providers.(Citation: Cybereason Soft Cell June 2019) Security researchers have identified [GALLIUM](https://attack.mitre.org/groups/G0093) as a likely Chinese state-sponsored group, based in part on tools used and TTPs commonly associated with Chinese threat actors.(Citation: Cybereason Soft Cell June 2019)(Citation: Microsoft GALLIUM December 2019)(Citation: Unit 42 PingPull Jun 2022)",
+    "mitre_aliases": [
+        "GALLIUM",
+        "Granite Typhoon"
+    ],
+    "mitre_contributors": [
+        "Daniyal Naeem, BT Security",
+        "Cybereason Nocturnus, @nocturnus"
+    ],
+    "mitre_created": "2019-07-18T20:47:50.050Z",
+    "mitre_modified": "2024-04-17T22:10:27.139Z"
+}

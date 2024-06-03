@@ -1,0 +1,20 @@
+{
+    "description": "These attackers were the subject of an extensive report by Symantec in 2011, which termed the attackers Nitro and stated: 'The goal of the attackers appears to be to collect intellectual property such as design documents, formulas, and manufacturing processes. In addition, the same attackers appear to have a lengthy operation history including attacks on other industries and organizations. Attacks on the chemical industry are merely their latest attack wave. As part of our investigations, we were also able to identify and contact one of the attackers to try and gain insights into the motivations behind these attacks.' Palo Alto Networks reported on continued activity by the attackers in 2014. ",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "CN",
+        "refs": [
+            "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2011/the_nitro_attacks.pdf",
+            "https://unit42.paloaltonetworks.com/new-indicators-compromise-apt-group-nitro-uncovered/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/the-significance-of-the-nitro-attacks/"
+        ],
+        "synonyms": [
+            "Covert Grove"
+        ],
+        "targeted-sector": [
+            "Chemical"
+        ]
+    },
+    "uuid": "0b06fb39-ed3d-4868-ac42-12fff6df2c80",
+    "value": "Nitro"
+}

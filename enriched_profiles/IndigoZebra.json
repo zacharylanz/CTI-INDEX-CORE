@@ -1,0 +1,33 @@
+{
+    "description": "IndigoZebra is a Chinese state-sponsored actor mentioned for the first time by Kaspersky in its APT Trends report Q2 2017, targeting, at the time of its discovery, former Soviet Republics with multiple malware strains including Meterpreter, Poison Ivy, xDown, and a previously unknown backdoor called \u201cxCaon.\u201d",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/",
+            "https://www.rewterz.com/rewterz-news/rewterz-threat-intel-indigozebra-apt-group-targeting-central-asia-active-iocs",
+            "https://securelist.com/apt-trends-report-q2-2017/79332/"
+        ]
+    },
+    "uuid": "79e826b0-b051-4a61-b38c-496021b3afdb",
+    "value": "IndigoZebra",
+    "mitre_attack_ids": [
+        "intrusion-set--e5603ea8-4c36-40e7-b7af-a077d24fedc1"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0136",
+        "https://thehackernews.com/2021/07/indigozebra-apt-hacking-campaign.html",
+        "https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/",
+        "https://securelist.com/apt-trends-report-q2-2017/79332/"
+    ],
+    "mitre_description": "[IndigoZebra](https://attack.mitre.org/groups/G0136) is a suspected Chinese cyber espionage group that has been targeting Central Asian governments since at least 2014.(Citation: HackerNews IndigoZebra July 2021)(Citation: Checkpoint IndigoZebra July 2021)(Citation: Securelist APT Trends Q2 2017)",
+    "mitre_aliases": [
+        "IndigoZebra"
+    ],
+    "mitre_contributors": [
+        "Pooja Natarajan, NEC Corporation India",
+        "Yoshihiro Kori, NEC Corporation",
+        "Manikantan Srinivasan, NEC Corporation India"
+    ],
+    "mitre_created": "2021-09-24T21:41:34.797Z",
+    "mitre_modified": "2021-10-16T02:06:06.404Z"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "In June 2019, CrowdStrike Intelligence observed a source code fork of BitPaymer and began tracking the new ransomware strain as DoppelPaymer. Further technical analysis revealed an increasing divergence between two versions of Dridex, with the new version dubbed DoppelDridex. Based on this evidence, CrowdStrike Intelligence assessed with high confidence that a new group split off from INDRIK SPIDER to form the adversary DOPPEL SPIDER. Following DOPPEL SPIDER\u2019s inception, CrowdStrike Intelligence observed multiple BGH incidents attributed to the group, with the largest known ransomware demand being 250 BTC. Other demands were not nearly as high, suggesting that the group conducts network reconnaissance to determine the value of the victim organization.",
+    "meta": {
+        "refs": [
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
+            "http://www.secureworks.com/research/threat-profiles/gold-heron"
+        ],
+        "synonyms": [
+            "GOLD HERON"
+        ]
+    },
+    "uuid": "2154b183-c5c5-418f-8e47-f6e999b64e30",
+    "value": "DOPPEL SPIDER"
+}

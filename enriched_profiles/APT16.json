@@ -1,0 +1,43 @@
+{
+    "description": "Between November 26, 2015, and December 1, 2015, known and suspected China-based APT groups launched several spear-phishing attacks targeting Japanese and Taiwanese organizations in the high-tech, government services, media and financial services industries. Each campaign delivered a malicious Microsoft Word document exploiting the aforementioned EPS dict copy use-after-free vulnerability, and the local Windows privilege escalation vulnerability CVE-2015-1701. The successful exploitation of both vulnerabilities led to the delivery of either a downloader that we refer to as IRONHALO, or a backdoor that we refer to as ELMER.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "Japan",
+            "Taiwan"
+        ],
+        "cfr-target-category": [
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2015/12/the_eps_awakens.html",
+            "https://www.cfr.org/interactive/cyber-operations/apt-16",
+            "https://attack.mitre.org/groups/G0023",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/"
+        ],
+        "synonyms": [
+            "SVCMONDR",
+            "G0023"
+        ]
+    },
+    "uuid": "1f73e14f-b882-4032-a565-26dc653b0daf",
+    "value": "APT16",
+    "mitre_attack_ids": [
+        "intrusion-set--d6e88e18-81e8-4709-82d8-973095da1e70"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0023",
+        "https://web.archive.org/web/20151226205946/https://www.fireeye.com/blog/threat-research/2015/12/the-eps-awakens-part-two.html"
+    ],
+    "mitre_description": "[APT16](https://attack.mitre.org/groups/G0023) is a China-based threat group that has launched spearphishing campaigns targeting Japanese and Taiwanese organizations. (Citation: FireEye EPS Awakens Part 2)",
+    "mitre_aliases": [
+        "APT16"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:31:56.270Z",
+    "mitre_modified": "2022-07-26T23:33:26.354Z"
+}

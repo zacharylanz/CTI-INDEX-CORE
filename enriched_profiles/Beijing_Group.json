@@ -1,0 +1,68 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States",
+            "Canada",
+            "United Kingdom",
+            "Switzerland",
+            "Hong Kong",
+            "Australia",
+            "India",
+            "Taiwan",
+            "China",
+            "Denmark"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "https://www.cfr.org/interactive/cyber-operations/sneaky-panda",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=3b0d679a-3707-4075-a2a9-37d1af16d411&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://attack.mitre.org/groups/G0066/"
+        ],
+        "synonyms": [
+            "SNEAKY PANDA",
+            "Elderwood",
+            "Elderwood Gang",
+            "SIG22",
+            "G0066"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "03506554-5f37-4f8f-9ce4-0e9f01a1b484",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "da754aeb-a86d-4874-b388-d1d2028a56be",
+    "value": "Beijing Group",
+    "mitre_attack_ids": [
+        "intrusion-set--03506554-5f37-4f8f-9ce4-0e9f01a1b484"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0066",
+        "https://www.csmonitor.com/USA/2012/0914/Stealing-US-business-secrets-Experts-ID-two-huge-cyber-gangs-in-China",
+        "https://web.archive.org/web/20190717233006/http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf",
+        "http://securityaffairs.co/wordpress/8528/hacking/elderwood-project-who-is-behind-op-aurora-and-ongoing-attacks.html"
+    ],
+    "mitre_description": "[Elderwood](https://attack.mitre.org/groups/G0066) is a suspected Chinese cyber espionage group that was reportedly responsible for the 2009 Google intrusion known as Operation Aurora. (Citation: Security Affairs Elderwood Sept 2012) The group has targeted defense organizations, supply chain manufacturers, human rights and nongovernmental organizations (NGOs), and IT service providers. (Citation: Symantec Elderwood Sept 2012) (Citation: CSM Elderwood Sept 2012)",
+    "mitre_aliases": [
+        "Elderwood",
+        "Elderwood Gang",
+        "Beijing Group",
+        "Sneaky Panda"
+    ],
+    "mitre_contributors": [
+        "Valerii Marchuk, Cybersecurity Help s.r.o."
+    ],
+    "mitre_created": "2018-04-18T17:59:24.739Z",
+    "mitre_modified": "2024-04-11T02:36:24.044Z"
+}

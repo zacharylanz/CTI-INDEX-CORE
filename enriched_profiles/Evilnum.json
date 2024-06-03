@@ -1,0 +1,39 @@
+{
+    "description": "ESET has analyzed the operations of Evilnum, the APT group behind the Evilnum malware previously seen in attacks against financial technology companies. While said malware has been seen in the wild since at least 2018 and documented previously, little has been published about the group behind it and how it operates. The group\u2019s targets remain fintech companies, but its toolset and infrastructure have evolved and now consist of a mix of custom, homemade malware combined with tools purchased from Golden Chickens, a Malware-as-a-Service (MaaS) provider whose infamous customers include FIN6 and Cobalt Group.",
+    "meta": {
+        "refs": [
+            "https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/",
+            "https://securelist.com/deathstalker-mercenary-triumvirate/98177/",
+            "https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/",
+            "https://www.proofpoint.com/us/blog/threat-insight/buy-sell-steal-evilnum-targets-cryptocurrency-forex-commodities",
+            "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-evilnum-apt-group-active-iocs-7",
+            "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-evilnum-apt-group-targeting-financial-sector",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf",
+            "https://www.hivepro.com/wp-content/uploads/2022/08/Vulnerabilities-Threats-that-Matter-25th-to-31st-July.pdf",
+            "https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2"
+        ],
+        "synonyms": [
+            "DeathStalker",
+            "TA4563",
+            "EvilNum",
+            "Jointworm",
+            "KNOCKOUT SPIDER"
+        ]
+    },
+    "uuid": "b6f3150f-2240-4c57-9dda-5144c5077058",
+    "value": "Evilnum",
+    "mitre_attack_ids": [
+        "intrusion-set--1f0f9a14-11aa-49aa-9174-bcd0eaa979de"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0120",
+        "https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/"
+    ],
+    "mitre_description": "[Evilnum](https://attack.mitre.org/groups/G0120) is a financially motivated threat group that has been active since at least 2018.(Citation: ESET EvilNum July 2020)",
+    "mitre_aliases": [
+        "Evilnum"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2021-01-22T16:46:17.790Z",
+    "mitre_modified": "2021-04-27T19:55:58.323Z"
+}

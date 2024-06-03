@@ -1,0 +1,34 @@
+{
+    "description": "Prodaft researchers have published a report on Paperbug, a cyber-espionage campaign carried out by suspected Russian-speaking group Nomadic Octopus and which targeted entities in Tajikistan. According to Prodaft, known compromised victims included high-ranking government officials, telcos, and public service infrastructures. Compromised devices also included OT devices, besides your typical computers, servers, and mobile devices. In typical Prodaft fashion, the company also gained access to one of the group's C&C server backend panels.",
+    "meta": {
+        "country": "RU",
+        "refs": [
+            "https://securelist.com/octopus-infested-seas-of-central-asia/88200/",
+            "https://www.prodaft.com/m/reports/PAPERBUG_TLPWHITE-1.pdf",
+            "https://www.virusbulletin.com/conference/vb2018/abstracts/nomadic-octopus-cyber-espionage-central-asia/"
+        ],
+        "synonyms": [
+            "Nomadic Octopus"
+        ]
+    },
+    "uuid": "7b227f41-efea-4dc0-8a2a-148893795ce4",
+    "value": "DustSquad",
+    "mitre_attack_ids": [
+        "intrusion-set--fed4f0a2-4347-4530-b0f5-6dfd49b29172"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0133",
+        "https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Cherepanov-VB2018-Octopus.pdf",
+        "https://securelist.com/octopus-infested-seas-of-central-asia/88200/",
+        "https://www.securityweek.com/russia-linked-hackers-target-diplomatic-entities-central-asia",
+        "https://securityaffairs.co/wordpress/77165/apt/russia-linked-apt-dustsquad.html"
+    ],
+    "mitre_description": "\n[Nomadic Octopus](https://attack.mitre.org/groups/G0133) is a Russian-speaking cyber espionage threat group that has primarily targeted Central Asia, including local governments, diplomatic missions, and individuals, since at least 2014. [Nomadic Octopus](https://attack.mitre.org/groups/G0133) has been observed conducting campaigns involving Android and Windows malware, mainly using the Delphi programming language, and building custom variants.(Citation: Security Affairs DustSquad Oct 2018)(Citation: Securelist Octopus Oct 2018)(Citation: ESET Nomadic Octopus 2018)",
+    "mitre_aliases": [
+        "Nomadic Octopus",
+        "DustSquad"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2021-08-24T17:04:27.002Z",
+    "mitre_modified": "2022-09-02T18:03:55.294Z"
+}

@@ -1,0 +1,22 @@
+{
+    "description": "This threat actor targets the South Korean government, transportation, and energy sectors.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+            "South Korea"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "KP",
+        "refs": [
+            "http://news.softpedia.com/news/korean-energy-and-transportation-targets-attacked-by-oniondog-apt-501534.shtml",
+            "https://www.cfr.org/interactive/cyber-operations/onion-dog"
+        ]
+    },
+    "uuid": "5898e11e-a023-464d-975c-b36fb1639e69",
+    "value": "OnionDog"
+}

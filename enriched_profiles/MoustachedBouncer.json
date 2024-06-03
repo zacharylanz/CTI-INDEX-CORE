@@ -1,0 +1,37 @@
+{
+    "description": "MoustachedBouncer is a cyberespionage group discovered by ESET Research and first publicly disclosed in August 2023. The group has been active since at least 2014 and only targets foreign embassies in Belarus. Since 2020, MoustachedBouncer has most likely been able to perform adversary-in-the-middle (AitM) attacks at the ISP level, within Belarus, in order to compromise its targets. The group uses two separate toolsets that we have named NightClub and Disco.",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Belarus",
+        "cfr-suspected-victims": [
+            "Europe",
+            "Eastern Europe",
+            "South Asia",
+            "Northeast Africa"
+        ],
+        "cfr-target-category": [
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "BY",
+        "refs": [
+            "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
+        ]
+    },
+    "uuid": "01ac8b25-492e-444b-891b-968f2694e7b2",
+    "value": "MoustachedBouncer",
+    "mitre_attack_ids": [
+        "intrusion-set--7251b44b-6072-476c-b8d9-a6e32c355b28"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1019",
+        "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
+    ],
+    "mitre_description": "[MoustachedBouncer](https://attack.mitre.org/groups/G1019) is a cyberespionage group that has been active since at least 2014 targeting foreign embassies in Belarus.(Citation: MoustachedBouncer ESET August 2023)",
+    "mitre_aliases": [
+        "MoustachedBouncer"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2023-09-25T18:11:05.672Z",
+    "mitre_modified": "2023-09-26T14:34:08.342Z"
+}

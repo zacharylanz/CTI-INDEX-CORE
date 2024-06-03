@@ -1,0 +1,56 @@
+{
+    "description": "BRONZE STARLIGHT has been active since mid 2021 and targets organizations globally across a range of industry verticals. The group leverages HUI Loader to load Cobalt Strike and PlugX payloads for command and control. CTU researchers have observed BRONZE STARLIGHT deploying ransomware to compromised networks as part of name-and-shame ransomware schemes, and posted victim names to leak sites. \nCTU researchers assess with moderate confidence that BRONZE STARLIGHT is located in China based on observed tradecraft, including the use of HUI Loader and PlugX which are associated with China-based threat group activity. It is plausible that BRONZE STARLIGHT deploys ransomware as a smokescreen rather than for financial gain, with the underlying motivation of stealing intellectual property theft or conducting espionage.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf",
+            "https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself",
+            "https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation",
+            "https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility",
+            "https://twitter.com/cglyer/status/1480734487000453121",
+            "https://blog.sygnia.co/revealing-emperor-dragonfly-a-chinese-ransomware-group",
+            "https://www.sentinelone.com/labs/chinese-entanglement-dll-hijacking-in-the-asian-gambling-sector/",
+            "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/",
+            "https://www.secureworks.com/research/bronze-starlight-ransomware-operations-use-hui-loader"
+        ],
+        "synonyms": [
+            "SLIME34",
+            "DEV-0401",
+            "Cinnamon Tempest",
+            "Emperor Dragonfly"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "43fe584d-88e5-5f2b-a9fd-a866e62040bb",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "737c0207-1a1a-4480-86e7-b6a5066e1ee5",
+    "value": "BRONZE STARLIGHT",
+    "mitre_attack_ids": [
+        "intrusion-set--8b1e16f6-e7c8-4b7a-a5df-f81232c13e2f"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G1021",
+        "https://blog.sygnia.co/revealing-emperor-dragonfly-a-chinese-ransomware-group",
+        "https://www.secureworks.com/research/bronze-starlight-ransomware-operations-use-hui-loader",
+        "https://www.trendmicro.com/en_se/research/22/e/new-linux-based-ransomware-cheerscrypt-targets-exsi-devices.html",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/",
+        "https://www.secureworks.com/research/threat-profiles/bronze-starlight"
+    ],
+    "mitre_description": "[Cinnamon Tempest](https://attack.mitre.org/groups/G1021) is a China-based threat group that has been active since at least 2021 deploying multiple strains of ransomware based on the leaked [Babuk](https://attack.mitre.org/software/S0638) source code. [Cinnamon Tempest](https://attack.mitre.org/groups/G1021) does not operate their ransomware on an affiliate model or purchase access but appears to act independently in all stages of the attack lifecycle. Based on victimology, the short lifespan of each ransomware variant, and use of malware attributed to government-sponsored threat groups, [Cinnamon Tempest](https://attack.mitre.org/groups/G1021) may be motivated by intellectual property theft or cyberespionage rather than financial gain.(Citation: Microsoft Ransomware as a Service)(Citation: Microsoft Threat Actor Naming July 2023)(Citation: Trend Micro Cheerscrypt May 2022)(Citation: SecureWorks BRONZE STARLIGHT Ransomware Operations June 2022)",
+    "mitre_aliases": [
+        "Cinnamon Tempest",
+        "DEV-0401",
+        "Emperor Dragonfly",
+        "BRONZE STARLIGHT"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2023-12-06T19:53:04.988Z",
+    "mitre_modified": "2024-04-04T23:27:22.311Z"
+}

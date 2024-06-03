@@ -1,0 +1,27 @@
+{
+    "description": "Operation Wocao (\u6211\u64cd, \u201cW\u01d2 c\u0101o\u201d, used as \u201cshit\u201d or \u201cdamn\u201d) is the name that Fox-IT uses to describe the hacking activities of a Chinese based hacking group.\nThis report details the profile of a publicly underreported threat actor that Fox-IT has dealt with over the past two years. Fox-IT assesses with high confidence that the actor is a Chinese group and that they are likely working to support the interests of the Chinese government and are tasked with obtaining information for espionage purposes. With medium confidence, Fox-IT assesses that the tools, techniques and procedures are those of the actor referred to as APT20 by industry partners. We have identified victims of this actor in more than 10 countries, in government entities, managed service providers and across a wide variety of industries, including Energy, Health Care and High-Tech.",
+    "meta": {
+        "refs": [
+            "https://www.fox-it.com/nl/actueel/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/"
+        ]
+    },
+    "uuid": "c432d032-ce2b-4eb8-ba87-312b2a43fb7a",
+    "value": "Operation Wocao",
+    "mitre_attack_ids": [
+        "intrusion-set--28f04ed3-8e91-4805-b1f6-869020517871"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0116",
+        "https://www.fox-it.com/media/kadlze5c/201912_report_operation_wocao.pdf"
+    ],
+    "mitre_description": "[Operation Wocao](https://attack.mitre.org/groups/G0116) described activities carried out by a China-based cyber espionage adversary. [Operation Wocao](https://attack.mitre.org/groups/G0116) targeted entities within the government, managed service providers, energy, health care, and technology sectors across several countries, including China, France, Germany, the United Kingdom, and the United States. [Operation Wocao](https://attack.mitre.org/groups/G0116) used similar TTPs and tools to APT20, suggesting a possible overlap.(Citation: FoxIT Wocao December 2019)",
+    "mitre_aliases": [
+        "Operation Wocao"
+    ],
+    "mitre_contributors": [
+        "Erik Schamper, @Schamperr, Fox-IT",
+        "Maarten van Dantzig, @MaartenVDantzig, Fox-IT"
+    ],
+    "mitre_created": "2020-11-17T20:33:44.273Z",
+    "mitre_modified": "2022-10-12T19:17:31.924Z"
+}

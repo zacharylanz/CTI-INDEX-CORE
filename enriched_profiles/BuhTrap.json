@@ -1,0 +1,23 @@
+{
+    "description": "Buhtrap has been active since 2014, however their first attacks against financial institutions were only detected in August 2015. Earlier, the group had only focused on targeting banking clients. At the moment, the group is known to target Russian and Ukrainian banks.\nFrom August 2015 to February 2016 Buhtrap managed to conduct 13 successful attacks against Russian banks for a total amount of 1.8 billion rubles ($25.7 mln). The number of successful attacks against Ukrainian banks has not been identified.\nBuhtrap is the first hacker group using a network worm to infect the overall bank infrastructure that significantly increases the difficulty of removing all malicious functions from the network. As a result, banks have to shut down the whole infrastructure which provokes delay in servicing customers and additional losses.\nMalicious programs intentionally scan for machines with an automated Bank-Customer system of the Central Bank of Russia (further referred to as BCS CBR). We have not identified incidents of attacks involving online money transfer systems, ATM machines or payment gates which are known to be of interest for other criminal groups.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "RU",
+        "refs": [
+            "https://www.welivesecurity.com/2015/11/11/operation-buhtrap-malware-distributed-via-ammyy-com/",
+            "https://www.group-ib.com/brochures/gib-buhtrap-report.pdf",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=8e498912-44f8-4ea0-ac50-4544f0fedd6c&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+            "https://www.forcepoint.com/blog/security-labs/highly-evasive-code-injection-awaits-user-interaction-delivering-malware",
+            "https://www.kaspersky.com/blog/financial-trojans-2019/25690/",
+            "https://www.welivesecurity.com/2015/04/09/operation-buhtrap/",
+            "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+        ],
+        "targeted-sector": [
+            "Bank",
+            "Payment",
+            "Finance"
+        ]
+    },
+    "uuid": "b737c51f-b579-49d5-a907-743b2e6d03cb",
+    "value": "BuhTrap"
+}

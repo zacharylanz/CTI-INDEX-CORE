@@ -1,0 +1,48 @@
+{
+    "description": "UNC5337 is a suspected China-nexus espionage actor that compromised Ivanti Connect Secure VPN appliances as early as Jan. 2024. UNC5337 is suspected to exploit CVE-2023-46805 (authentication bypass) and CVE-2024-21887 (command injection) for infecting Ivanti Connect Secure appliances. UNC5337 leveraged multiple custom malware families including the SPAWNSNAIL passive backdoor, SPAWNMOLE tunneler, SPAWNANT installer, and SPAWNSLOTH log tampering utility. Mandiant suspects with medium confidence that UNC5337 is UNC5221.",
+    "meta": {
+        "country": "CN",
+        "refs": [
+            "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "f288f686-b5b3-4c86-9960-5f8fb18709a3",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "de390f3e-c0d1-4c70-b121-a7a98f7326aa",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "6c89c51f-1b97-4966-abc1-9cf526bb2892",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "e6cf28a6-94a9-4aab-b919-ad2f6a7e3b87",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        },
+        {
+            "dest-uuid": "2c237974-edc2-460a-90b5-20f699560da3",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "uses"
+        }
+    ],
+    "uuid": "6fcf8d1f-2e68-4982-a579-2ca5595e4990",
+    "value": "UNC5337"
+}

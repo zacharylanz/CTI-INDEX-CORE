@@ -1,0 +1,28 @@
+{
+    "description": "A threat actor using Iranian-language tools, Iranian hosting companies, operating from the Iranian IP space at times was observed targeting the Syrian opposition in an elaborately staged malware operation, Citizen Lab researchers reveal.\nThe operation was first noticed in late 2015, when a member of the Syrian opposition flagged a suspicious email containing a PowerPoint slideshow, which led researchers to a watering hole website with malicious programs, malicious PowerPoint files, and Android malware.\nThe threat actor was targeting Windows and Android devices of well-connected individuals in the Syrian opposition, researchers discovered. They called the actor Group5, because it targets Syrian opposition after regime-linked malware groups, the Syrian Electronic Army, ISIS (also known as the Islamic State or ISIL), and a group linked to Lebanon did the same in the past",
+    "meta": {
+        "refs": [
+            "https://www.securityweek.com/iranian-actor-group5-targeting-syrian-opposition",
+            "https://attack.mitre.org/groups/G0043/"
+        ],
+        "synonyms": [
+            "G0043"
+        ]
+    },
+    "uuid": "bc8390aa-8c4e-11e9-a9cb-e37c361210af",
+    "value": "Group5",
+    "mitre_attack_ids": [
+        "intrusion-set--7331c66a-5601-4d3f-acf6-ad9e3035eb40"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0043",
+        "https://citizenlab.ca/2016/08/group5-syria/"
+    ],
+    "mitre_description": "[Group5](https://attack.mitre.org/groups/G0043) is a threat group with a suspected Iranian nexus, though this attribution is not definite. The group has targeted individuals connected to the Syrian opposition via spearphishing and watering holes, normally using Syrian and Iranian themes. [Group5](https://attack.mitre.org/groups/G0043) has used two commonly available remote access tools (RATs), [njRAT](https://attack.mitre.org/software/S0385) and [NanoCore](https://attack.mitre.org/software/S0336), as well as an Android RAT, DroidJack. (Citation: Citizen Lab Group5)",
+    "mitre_aliases": [
+        "Group5"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-05-31T21:32:08.304Z",
+    "mitre_modified": "2024-04-11T02:23:59.598Z"
+}

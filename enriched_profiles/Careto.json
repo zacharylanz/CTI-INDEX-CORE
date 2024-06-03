@@ -1,0 +1,41 @@
+{
+    "description": "This threat actor targets governments, diplomatic missions, private companies in the energy sector, and academics for espionage purposes.\nThe Mask is an advanced threat actor that has been involved in cyber-espionage operations since at least 2007. The name \"Mask\" comes from the Spanish slang word \"Careto\" (\"Ugly Face\" or \u201cMask\u201d) which the authors included in some of the malware modules.\n More than 380 unique victims in 31 countries have been observed to date.What makes \u201cThe Mask\u201d special is the complexity of the toolset used by the attackers. This includes an extremely sophisticated malware, a rootkit, a bootkit, 32-and 64-bit Windows versions, Mac OS X and Linux versions and possibly versions for Android and iPad/iPhone (Apple iOS).",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Spain",
+        "cfr-suspected-victims": [
+            "Morocco",
+            "France",
+            "Libya",
+            "Venezuela",
+            "Poland",
+            "Brazil",
+            "Spain",
+            "United States",
+            "South Africa",
+            "Tunisia",
+            "United Kingdom",
+            "Switzerland",
+            "Iran",
+            "Germany"
+        ],
+        "cfr-target-category": [
+            "Government",
+            "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "ES",
+        "refs": [
+            "https://securelist.com/the-caretomask-apt-frequently-asked-questions/58254/",
+            "https://www.cfr.org/interactive/cyber-operations/careto",
+            "https://d2538mqrb7brka.cloudfront.net/wp-content/uploads/sites/43/2018/03/20133638/unveilingthemask_v1.0.pdf"
+        ],
+        "synonyms": [
+            "The Mask",
+            "Mask",
+            "Ugly Face"
+        ]
+    },
+    "uuid": "069ba781-b2d9-4403-9d9d-c599f5e0181d",
+    "value": "Careto"
+}

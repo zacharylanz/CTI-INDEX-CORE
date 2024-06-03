@@ -1,0 +1,19 @@
+{
+    "description": "UNC5291 is a cluster of targeted probing activity that we assess with moderate confidence is associated with UNC3236, also known publicly as Volt Typhoon. Activity for this cluster started in December 2023 focusing on Citrix Netscaler ADC and then shifted to focus on Ivanti Connect Secure devices after details were made public in mid-Jan. 2024. Probing has been observed against the academic, energy, defense, and health sectors, which aligns with past Volt Typhoon interest in critical infrastructure. In Feb. 2024, the Cybersecurity and Infrastructure Security Agency (CISA) released an advisory warning that Volt Typhoon was targeting critical infrastructure and was potentially interested in Ivanti Connect Secure devices for initial access.",
+    "meta": {
+        "refs": [
+            "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "97c6d972-a3af-4a21-94a2-0f5e09c7320e",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "associated-with"
+        }
+    ],
+    "uuid": "b2535333-629d-4cd6-a98b-14c86f6a57ee",
+    "value": "UNC5291"
+}

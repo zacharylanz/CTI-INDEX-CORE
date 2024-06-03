@@ -1,0 +1,28 @@
+{
+    "description": "FireEye has observed multiple targeted intrusions occurring in North America \u2014 predominately in Canada \u2014 dating back to at least 2013 and continuing through at least 2016, in which the attacker(s) have compromised organizations\u2019 networks and sought to monetize this illicit access by exfiltrating sensitive data and extorting victim organizations. In some cases, when the extortion demand was not met, the attacker(s) destroyed production Windows systems by deleting critical operating system files and then shutting down the impacted systems. Based on near parallel TTPs used by the attacker(s) across these targeted intrusions, we believe these clusters of activity are linked to a single, previously unobserved actor or group that we have dubbed FIN10.",
+    "meta": {
+        "refs": [
+            "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin10.pdf",
+            "https://attack.mitre.org/groups/G0051/"
+        ],
+        "synonyms": [
+            "G0051"
+        ]
+    },
+    "uuid": "f2d02410-8c2c-11e9-8df1-a31c1fb33d79",
+    "value": "FIN10",
+    "mitre_attack_ids": [
+        "intrusion-set--fbe9387f-34e6-4828-ac28-3080020c597b"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0051",
+        "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin10.pdf"
+    ],
+    "mitre_description": "[FIN10](https://attack.mitre.org/groups/G0051) is a financially motivated threat group that has targeted organizations in North America since at least 2013 through 2016. The group uses stolen data exfiltrated from victims to extort organizations. (Citation: FireEye FIN10 June 2017)",
+    "mitre_aliases": [
+        "FIN10"
+    ],
+    "mitre_contributors": [],
+    "mitre_created": "2017-12-14T16:46:06.044Z",
+    "mitre_modified": "2021-05-26T12:35:39.400Z"
+}

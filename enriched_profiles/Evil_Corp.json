@@ -1,0 +1,39 @@
+{
+    "description": "Evil Corp is an internaltional cybercrime network. In December of 2019 the US Federal Government offered a $5M bounty for information leading to the arrest and conviction of Maksim V. Yakubets for allegedly orchestrating Evil Corp operations.  Responsible for stealing over $100M from businesses and consumers.  The Evil Corp organization is known for utilizing custom strains of malware such as JabberZeus, Bugat and Dridex to steal banking credentials.",
+    "meta": {
+        "refs": [
+            "https://krebsonsecurity.com/2019/12/inside-evil-corp-a-100m-cybercrime-menace/",
+            "https://en.wikipedia.org/wiki/Maksim_Yakubets",
+            "https://www.bbc.com/news/world-us-canada-53195749",
+            "http://www.secureworks.com/research/threat-profiles/gold-drake",
+            "https://www.secureworks.com/research/dridex-bugat-v5-botnet-takeover-operation"
+        ],
+        "synonyms": [
+            "GOLD DRAKE"
+        ]
+    },
+    "uuid": "c30fbdc8-b66d-4242-a02a-e01946bc86d8",
+    "value": "Evil Corp",
+    "mitre_attack_ids": [
+        "intrusion-set--01e28736-2ffc-455b-9880-ed4d1407ae07"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0119",
+        "https://www.crowdstrike.com/blog/big-game-hunting-the-evolution-of-indrik-spider-from-dridex-wire-fraud-to-bitpaymer-targeted-ransomware/",
+        "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+        "https://www.crowdstrike.com/blog/hades-ransomware-successor-to-indrik-spiders-wastedlocker/",
+        "https://home.treasury.gov/news/press-releases/sm845"
+    ],
+    "mitre_description": "[Indrik Spider](https://attack.mitre.org/groups/G0119) is a Russia-based cybercriminal group that has been active since at least 2014. [Indrik Spider](https://attack.mitre.org/groups/G0119) initially started with the [Dridex](https://attack.mitre.org/software/S0384) banking Trojan, and then by 2017 they began running ransomware operations using [BitPaymer](https://attack.mitre.org/software/S0570), [WastedLocker](https://attack.mitre.org/software/S0612), and Hades ransomware. Following U.S. sanctions and an indictment in 2019, [Indrik Spider](https://attack.mitre.org/groups/G0119) changed their tactics and diversified their toolset.(Citation: Crowdstrike Indrik November 2018)(Citation: Crowdstrike EvilCorp March 2021)(Citation: Treasury EvilCorp Dec 2019)",
+    "mitre_aliases": [
+        "Indrik Spider",
+        "Evil Corp",
+        "Manatee Tempest",
+        "DEV-0243"
+    ],
+    "mitre_contributors": [
+        "Jennifer Kim Roman, CrowdStrike"
+    ],
+    "mitre_created": "2021-01-06T17:46:35.134Z",
+    "mitre_modified": "2024-04-17T22:10:56.266Z"
+}

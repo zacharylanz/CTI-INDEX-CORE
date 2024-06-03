@@ -1,0 +1,16 @@
+{
+    "description": "Ayy\u0131ld\u0131z (Crescent and Star) Tim is a nationalist hacking group founded in 2002. It performs defacements and DDoS attacks against the websites of governments that it considers to be repressing Muslim minorities or engaged in Islamophobic policies.",
+    "meta": {
+        "attribution-confidence": "50",
+        "country": "TR",
+        "motive": "Hacktivists-Nationalists",
+        "synonyms": [
+            "Crescent and Star"
+        ],
+        "targeted-sector": [
+            "Government, Administration"
+        ]
+    },
+    "uuid": "ab1771de-25bb-4688-b132-eabb5d6452a1",
+    "value": "Ayy\u0131ld\u0131z Tim"
+}

@@ -1,0 +1,18 @@
+{
+    "description": "Adversary group targeting diplomatic missions, governmental and military organisations, mainly in Ukraine.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Ukraine"
+        ],
+        "cfr-target-category": [
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://www.welivesecurity.com/2018/06/07/invisimole-equipped-spyware-undercover/",
+            "https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/"
+        ]
+    },
+    "uuid": "87af83a4-ced4-4e7c-96a6-86612dc095b1",
+    "value": "InvisiMole"
+}

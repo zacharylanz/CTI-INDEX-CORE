@@ -1,0 +1,51 @@
+{
+    "description": "Since April 2018, an APT group (Blind Eagle, APT-C-36) suspected coming from South America carried out continuous targeted attacks against Colombian government institutions as well as important corporations in financial sector, petroleum industry, professional manufacturing, etc.",
+    "meta": {
+        "cfr-suspected-victims": [
+            "Ecuador",
+            "Colombia",
+            "Spain",
+            "Panama",
+            "Chile"
+        ],
+        "cfr-target-category": [
+            "Petroleum",
+            "Manufacturing",
+            "Financial",
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "refs": [
+            "https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
+            "https://www.ecucert.gob.ec/wp-content/uploads/2022/03/alerta-APTs-2022-03-23.pdf",
+            "https://blogs.blackberry.com/en/2023/02/blind-eagle-apt-c-36-targets-colombia",
+            "https://lab52.io/blog/apt-c-36-recent-activity-analysis/",
+            "https://www.trendmicro.com/en_ph/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html",
+            "https://research.checkpoint.com/2023/blindeagle-targeting-ecuador-with-sharpened-tools/",
+            "https://attack.mitre.org/groups/G0099/"
+        ],
+        "synonyms": [
+            "Blind Eagle"
+        ]
+    },
+    "uuid": "ae1c64ff-5a37-4291-97f8-ea402c63efd0",
+    "value": "APT-C-36",
+    "mitre_attack_ids": [
+        "intrusion-set--c4d50cdf-87ce-407d-86d8-862883485842"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0099",
+        "https://web.archive.org/web/20190625182633if_/https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/"
+    ],
+    "mitre_description": "[APT-C-36](https://attack.mitre.org/groups/G0099) is a suspected South America espionage group that has been active since at least 2018. The group mainly targets Colombian government institutions as well as important corporations in the financial sector, petroleum industry, and professional manufacturing.(Citation: QiAnXin APT-C-36 Feb2019)",
+    "mitre_aliases": [
+        "APT-C-36",
+        "Blind Eagle"
+    ],
+    "mitre_contributors": [
+        "Jose Luis S\u00e1nchez Martinez"
+    ],
+    "mitre_created": "2020-05-05T18:53:08.166Z",
+    "mitre_modified": "2021-05-26T20:17:53.085Z"
+}

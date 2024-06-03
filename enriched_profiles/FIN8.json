@@ -1,0 +1,54 @@
+{
+    "description": "FIN8 is a financially motivated group targeting the retail, hospitality and entertainment industries. The actor had previously conducted several tailored spearphishing campaigns using the downloader PUNCHBUGGY and POS malware PUNCHTRACK.",
+    "meta": {
+        "refs": [
+            "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html",
+            "https://www2.fireeye.com/WBNR-Know-Your-Enemy-UNC622-Spear-Phishing.html",
+            "https://www.root9b.com/sites/default/files/whitepapers/PoS%20Malware%20ShellTea%20PoSlurp.pdf",
+            "https://afyonluoglu.org/PublicWebFiles/Reports-TR/2017%20FireEye%20M-Trends%20Report.pdf",
+            "https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
+            "https://attack.mitre.org/groups/G0061"
+        ],
+        "synonyms": [
+            "ATK113",
+            "G0061"
+        ],
+        "targeted-sector": [
+            "Entertainment",
+            "Hospitality",
+            "Retail"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "fd19bd82-1b14-49a1-a176-6cdc46b8a826",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "a78ae9fe-71cd-4563-9213-7b6260bd9a73",
+    "value": "FIN8",
+    "mitre_attack_ids": [
+        "intrusion-set--fd19bd82-1b14-49a1-a176-6cdc46b8a826"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0061",
+        "https://web.archive.org/web/20170923102302/https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
+        "https://www.bitdefender.com/files/News/CaseStudies/study/401/Bitdefender-PR-Whitepaper-FIN8-creat5619-en-EN.pdf",
+        "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html",
+        "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/syssphinx-fin8-backdoor"
+    ],
+    "mitre_description": "[FIN8](https://attack.mitre.org/groups/G0061) is a financially motivated threat group that has been active since at least January 2016, and known for targeting organizations in the hospitality, retail, entertainment, insurance, technology, chemical, and financial sectors. In June 2021, security researchers detected [FIN8](https://attack.mitre.org/groups/G0061) switching from targeting point-of-sale (POS) devices to distributing a number of ransomware variants.(Citation: FireEye Obfuscation June 2017)(Citation: FireEye Fin8 May 2016)(Citation: Bitdefender Sardonic Aug 2021)(Citation: Symantec FIN8 Jul 2023)",
+    "mitre_aliases": [
+        "FIN8",
+        "Syssphinx"
+    ],
+    "mitre_contributors": [
+        "Daniyal Naeem, BT Security",
+        "Serhii Melnyk, Trustwave SpiderLabs"
+    ],
+    "mitre_created": "2018-04-18T17:59:24.739Z",
+    "mitre_modified": "2023-09-19T14:08:59.296Z"
+}

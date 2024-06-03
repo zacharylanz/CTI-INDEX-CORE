@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+            "United States",
+            "United Kingdom",
+            "Hong Kong"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "refs": [
+            "http://www.crowdstrike.com/blog/whois-samurai-panda/"
+        ],
+        "synonyms": [
+            "PLA Navy",
+            "Wisp Team"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "38fd6a28-3353-4f2b-bb2b-459fecd5c648",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        },
+        {
+            "dest-uuid": "9a683d9c-8f7d-43df-bba2-ad0ca71e277c",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "2fb07fa4-0d7f-43c7-8ff4-b28404313fe7",
+    "value": "SAMURAI PANDA"
+}

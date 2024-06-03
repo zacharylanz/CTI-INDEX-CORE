@@ -1,0 +1,16 @@
+{
+    "description": "This group started operating during the first quarter of 2022. They published samples of alleged stolen data from companies on their site on Tor. It is unclear if they conducted the attacks themselves, or if they bought leaked databases from third parties.",
+    "meta": {
+        "refs": [
+            "https://www.trendmicro.com/en_us/research/20/k/analysis-of-kinsing-malwares-use-of-rootkit.html",
+            "https://blog.aquasec.com/threat-alert-kinsing-malware-container-vulnerability",
+            "https://sysdig.com/blog/zoom-into-kinsing-kdevtmpfsi/",
+            "https://unit42.paloaltonetworks.com/atoms/moneylibra/"
+        ],
+        "synonyms": [
+            "Money Libra"
+        ]
+    },
+    "uuid": "bc6f3b91-5a28-46df-9778-179218c809fe",
+    "value": "Kinsing"
+}

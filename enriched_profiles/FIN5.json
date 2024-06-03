@@ -1,0 +1,32 @@
+{
+    "description": "FIN5 is a financially motivated threat group that has targeted personally identifiable information and payment card information. The group has been active since at least 2008 and has targeted the restaurant, gaming, and hotel industries. The group is made up of actors who likely speak Russian.",
+    "meta": {
+        "refs": [
+            "https://www.darkreading.com/analytics/prolific-cybercrime-gang-favors-legit-login-credentials/d/d-id/1322645?",
+            "https://attack.mitre.org/groups/G0053/"
+        ],
+        "synonyms": [
+            "G0053"
+        ]
+    },
+    "uuid": "44dc2f9c-8c28-11e9-9b9a-7fdced8cbf70",
+    "value": "FIN5",
+    "mitre_attack_ids": [
+        "intrusion-set--85403903-15e0-4f9f-9be4-a259ecad4022"
+    ],
+    "mitre_attack_urls": [
+        "https://attack.mitre.org/groups/G0053",
+        "https://www2.fireeye.com/WBNR-Are-you-ready-to-respond.html",
+        "https://www.youtube.com/watch?v=fevGZs0EQu8",
+        "https://www.darkreading.com/analytics/prolific-cybercrime-gang-favors-legit-login-credentials/d/d-id/1322645?"
+    ],
+    "mitre_description": "[FIN5](https://attack.mitre.org/groups/G0053) is a financially motivated threat group that has targeted personally identifiable information and payment card information. The group has been active since at least 2008 and has targeted the restaurant, gaming, and hotel industries. The group is made up of actors who likely speak Russian. (Citation: FireEye Respond Webinar July 2017) (Citation: Mandiant FIN5 GrrCON Oct 2016) (Citation: DarkReading FireEye FIN5 Oct 2015)",
+    "mitre_aliases": [
+        "FIN5"
+    ],
+    "mitre_contributors": [
+        "Walker Johnson"
+    ],
+    "mitre_created": "2018-01-16T16:13:52.465Z",
+    "mitre_modified": "2021-10-16T19:48:37.809Z"
+}
